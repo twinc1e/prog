@@ -11,7 +11,8 @@ import re
 inst_domain = []  # self.table.item(new_row,1).text()
 inst_people = []  # self.table.item(new_row,3).text()
 inst_task = []  # self.table.item(new_row,0).text()
-
+inst_priority = []
+inst_role = [] #unuseful
 
 class MainWindow(QMainWindow):
 
@@ -29,7 +30,7 @@ class MainWindow(QMainWindow):
         self.bug_onto = get_ontology("http://test.org/bug.owl/").load()
         self.table = QTableWidget(self)  # Create a table
         self.new_domain = 0
-        self.setMinimumSize(QSize(512, 120))  # Set sizes
+        self.setMinimumSize(QSize(750, 120))  # Set sizes
         self.setWindowTitle("TasktrackerOnto")  # Set the window title
         central_widget = QWidget(self)  # Create a central widget
         self.setCentralWidget(central_widget)  # Install the central widget
@@ -85,7 +86,12 @@ class MainWindow(QMainWindow):
         return datetime.strptime(str(data), '%Y-%m-%d %H:%M:%S')
     # format onto domain
     def str_odate(self, data):
-        return datetime.strptime(str(data), '[bug.%Y-%m-%dT%H:%M:%S]')
+        try:
+            odate = datetime.strptime(str(data), '[bug.%Y-%m-%dT%H:%M:%S]')
+        except ValueError:
+            odate = datetime.strptime(str(data), 'bug.%Y-%m-%dT%H:%M:%S')
+
+        return odate
 
     def str_onto(self, data):
         return re.findall(r'\w+', str(data))[1]  # search().group(0)
@@ -106,20 +112,22 @@ class MainWindow(QMainWindow):
         task = self.str_onto(inst_task[i])
         domain = self.str_onto(inst_task[i].specialize)
         assign = self.str_onto(inst_task[i].is_assigned)
+        priority = self.str_onto(inst_task[i].have_priority)
         # Fill the first line
         self.table.setItem(i, 0, self.create_item_flag(task))
         self.table.setItem(i, 1, self.create_item_flag(domain))
         self.table.setItem(i, 2, self.create_item_flag(str(start_date)))
         self.table.setItem(i, 3, self.create_item_flag(assign))
         self.table.setItem(i, 4, self.create_item_flag(str(end_date)))
+        self.table.setItem(i, 5, self.create_item_flag(priority))
         # self.table.setItem(i, 5, self.create_item_flag(duration))
         pass
 
     def my_table(self):
-        self.table.setColumnCount(5)  # Set 6 columns
+        self.table.setColumnCount(6)  # Set 6 columns
         self.table.setRowCount(len(inst_task))  # and one row
         # Set the table headers
-        self.table.setHorizontalHeaderLabels(["Task", "Domain", "Time_start", "Assigner", "Time_end"])
+        self.table.setHorizontalHeaderLabels(["Task", "Domain", "Time_start", "Assigner", "Time_end", "Priority"])
         # Set all cells/items at the table
         for i in range(len(inst_task)):
             self.set_item_onto(i)
@@ -176,6 +184,19 @@ class MainWindow(QMainWindow):
         self.table.setItem(self.lastRow, 1, QTableWidgetItem(comboBox.currentText()))
         # Event for combobox
         comboBox.currentIndexChanged.connect(self.selectionchange)
+
+        # insert combobox for priority
+        p_comboBox = QComboBox()
+        p_comboBox.addItems(
+            str(self.str_onto(priority))
+            for priority in inst_priority)
+        # comboBox.setCurrentIndex(0)
+        self.table.setCellWidget(self.lastRow, 5, p_comboBox)
+        # Add text for item. Not just widget
+        self.table.setItem(self.lastRow, 5, QTableWidgetItem(p_comboBox.currentText()))
+        # Event for combobox
+        #p_comboBox.currentIndexChanged.connect(self.selectionchange)
+
         # Remember new row at the ontology
         # self.save_row(self.lastRow)
         pass
@@ -190,41 +211,62 @@ class MainWindow(QMainWindow):
         # selected row already have assigner
         fill_row = self.lastRow \
             if (len(selI) == 0 and self.table.item(curRow, 3) is not None) else curRow
-        # Find assign to this domain. Select all of them
-        k_as = [0 for i in range(len(inst_people))]  # coef for
+        #----------------------------------------------------------------
+        #create coefficient which match task to people - searching assigner
+        k_as = [0 for i in range(len(inst_people))]
+        #get domain from new task
         new_domain = self.table.item(fill_row, 1)
-        for i in inst_people:
-            if (new_domain == d for d in i.know):
-                assigner = i
-                k_as[inst_people.index(i)] += 1
-                print(f"who {assigner}")
-        # проверка по времени тек.задачи
+        domain = next(
+            (d for d in inst_domain if new_domain.text() == d.name),
+            None)
+        #get name of priority from new task
+        new_prior = self.table.item(fill_row, 5)
+        #get element from ontology which match name with cell from table
+        role = next(
+            (p for p in inst_priority if new_prior.text() == p.name),
+            None)
         n_day=[]
-        for i in range(len(inst_people)):
-            if k_as[i] > 0:
-                # Get end date of everyone's tasks
-                task_as = [inst_people[i].assigned]
-                #pt - people's task ot - onto of task
-                for pt in task_as:
-                    end_date_task = next(
-                        (ot.end_doing for ot in inst_task
-                            if self.str_onto(pt) == self.str_onto(ot)),
-                        None)
+        for i in inst_people:
+            print(f"person {i}")
+            #-------- Find assign to this domain. Select all of them
+            for d in i.know:
+                if domain == d:
+                    k_as[inst_people.index(i)] += 1
+                    print(f"who have domain")
+          #if k_as[i] > 0:  #just for people which match with needed domain
+            #-------- Check by priority.
+            for r in role.related_to:
+                if i.is_role_of[0] == r:
+                    k_as[inst_people.index(i)] += 1
+                    print(f"who have qualification")
+            # ------------Check by date-----------------
+            #determine date of last task of i_people
+            if len(i.assigned) != 0:
+                for pt in i.assigned:#pt - people's task
+                    #for ot in inst_task:#ot - from all tasks
+                    end_date_task=pt.end_doing# if self.str_onto(pt) == self.str_onto(ot) else 0)
+            #is the i_people free? how much time?
                     #datetime.now() - end_date_task = j.end_doing
                     start_date_cur_t = self.str_date(self.table.item(fill_row, 2).text())
                     days_date = start_date_cur_t - self.str_odate(end_date_task)
                     n_day.append(days_date.days)
+                    print(f"how much days {n_day}")
                 last_task = min(n_day)
-                # Remember person which finished task (end_date)
-                print(f' vs end date {inst_people[i]} last task {last_task}')
-                if last_task >= 0:
-                    k_as[i] += 1
+                n_day.clear()
+            # Remember person which finished task (end_date)
+            print(f'v--- have free day {last_task}')
+            if last_task >= 0 or len(i.assigned) == 0:
+                k_as[inst_people.index(i)] += 1
+                print(f"who is free")
+
+            print(f"coef = {k_as[inst_people.index(i)]}")
+
         # Remember index from max number of array k_as
         win_as = k_as.index(max(k_as))
         # если все истина, то записать в область допустимых
-        # правила вынести отдельно. Вдруг потом поменяются
         if k_as.count(max(k_as)) > 1: print("more than one assigner")
-        self.table.setItem(curRow, 3, QTableWidgetItem(str(inst_people[win_as])))  # str(inst_people[0])
+        else: print(f"assigner - {inst_people[win_as]}")
+        self.table.setItem(fill_row, 3, QTableWidgetItem(str(inst_people[win_as].name)))  # str(inst_people[0])
 
     def save_row(self, new_row):
         # docs send for article
@@ -268,6 +310,10 @@ class MainWindow(QMainWindow):
             inst_people.append(i)
         for i in self.bug_onto.Task.instances():
             inst_task.append(i)
+        for i in self.bug_onto.Priority.instances():
+            inst_priority.append(i)
+        for i in self.bug_onto.Role.instances():
+            inst_role.append(i)
         self.my_table()
 
 

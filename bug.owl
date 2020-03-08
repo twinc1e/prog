@@ -14,7 +14,31 @@
     <Prefix name="xsd" IRI="http://www.w3.org/2001/XMLSchema#"/>
     <Prefix name="rdfs" IRI="http://www.w3.org/2000/01/rdf-schema#"/>
     <Declaration>
-        <Class IRI="#Bug"/>
+        <Class IRI="#Assigner"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#C_High"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#C_Junior"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#C_Lead"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#C_Low"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#C_Middle"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#C_Normal"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#C_Senior"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#C_Urgant"/>
     </Declaration>
     <Declaration>
         <Class IRI="#Date"/>
@@ -23,10 +47,13 @@
         <Class IRI="#Domain"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#Feature"/>
+        <Class IRI="#People"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#People"/>
+        <Class IRI="#Priority"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Role"/>
     </Declaration>
     <Declaration>
         <Class IRI="#Task"/>
@@ -35,19 +62,22 @@
         <ObjectProperty IRI="#assigned"/>
     </Declaration>
     <Declaration>
-        <ObjectProperty IRI="#belongs_to"/>
+        <ObjectProperty IRI="#end_doing"/>
     </Declaration>
     <Declaration>
-        <ObjectProperty IRI="#end_doing"/>
+        <ObjectProperty IRI="#have_priority"/>
     </Declaration>
     <Declaration>
         <ObjectProperty IRI="#is_assigned"/>
     </Declaration>
     <Declaration>
+        <ObjectProperty IRI="#is_role_of"/>
+    </Declaration>
+    <Declaration>
         <ObjectProperty IRI="#know"/>
     </Declaration>
     <Declaration>
-        <ObjectProperty IRI="#quality"/>
+        <ObjectProperty IRI="#related_to"/>
     </Declaration>
     <Declaration>
         <ObjectProperty IRI="#specialize"/>
@@ -56,13 +86,43 @@
         <ObjectProperty IRI="#start_doing"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Error404"/>
+        <NamedIndividual IRI="#Add_pdf_export_for_WIKI_page"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Error_404_when_trying_to_create_new_subprojects"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#Go_MAEDA"/>
     </Declaration>
     <Declaration>
+        <NamedIndividual IRI="#High"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Jean-Philippe_Lang"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Junior"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Lead"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Low"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Middle"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Normal"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Projects"/>
+    </Declaration>
+    <Declaration>
         <NamedIndividual IRI="#SCM"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Senior"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#Stable_branch_broken"/>
@@ -71,7 +131,28 @@
         <NamedIndividual IRI="#Toshi_MARUYAMA"/>
     </Declaration>
     <Declaration>
+        <NamedIndividual IRI="#Urgant"/>
+    </Declaration>
+    <Declaration>
         <NamedIndividual IRI="#Wiki"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#2007-08-02T22:11:00"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#2011-01-22T13:24:00"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#2011-04-06T14:30:00"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#2011-04-06T8:02:00"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#2011-1-20T9:57:00"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#2011-11-13T10:29:00"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#2019-09-15T08:08:00"/>
@@ -83,16 +164,52 @@
         <NamedIndividual IRI="#2019-9-20T13:00:00"/>
     </Declaration>
     <EquivalentClasses>
+        <Class IRI="#Assigner"/>
+        <ObjectIntersectionOf>
+            <Class IRI="#People"/>
+            <ObjectMinCardinality cardinality="1">
+                <ObjectProperty IRI="#assigned"/>
+                <Class IRI="#Task"/>
+            </ObjectMinCardinality>
+            <ObjectMaxCardinality cardinality="2">
+                <ObjectProperty IRI="#assigned"/>
+                <Class IRI="#Task"/>
+            </ObjectMaxCardinality>
+        </ObjectIntersectionOf>
+    </EquivalentClasses>
+    <EquivalentClasses>
         <Class IRI="#People"/>
-        <ObjectExactCardinality cardinality="1">
-            <ObjectProperty IRI="#quality"/>
-        </ObjectExactCardinality>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#know"/>
+            <Class IRI="#Domain"/>
+        </ObjectSomeValuesFrom>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI="#People"/>
+        <ObjectAllValuesFrom>
+            <ObjectProperty IRI="#is_role_of"/>
+            <Class IRI="#Role"/>
+        </ObjectAllValuesFrom>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI="#Task"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#end_doing"/>
+            <Class IRI="#Date"/>
+        </ObjectSomeValuesFrom>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI="#Task"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#have_priority"/>
+            <Class IRI="#Priority"/>
+        </ObjectSomeValuesFrom>
     </EquivalentClasses>
     <EquivalentClasses>
         <Class IRI="#Task"/>
         <ObjectSomeValuesFrom>
             <ObjectProperty IRI="#is_assigned"/>
-            <Class IRI="#People"/>
+            <Class IRI="#Assigner"/>
         </ObjectSomeValuesFrom>
     </EquivalentClasses>
     <EquivalentClasses>
@@ -104,64 +221,154 @@
     </EquivalentClasses>
     <EquivalentClasses>
         <Class IRI="#Task"/>
-        <ObjectAllValuesFrom>
-            <ObjectProperty IRI="#end_doing"/>
-            <Class IRI="#Date"/>
-        </ObjectAllValuesFrom>
-    </EquivalentClasses>
-    <EquivalentClasses>
-        <Class IRI="#Task"/>
-        <ObjectAllValuesFrom>
+        <ObjectSomeValuesFrom>
             <ObjectProperty IRI="#start_doing"/>
             <Class IRI="#Date"/>
-        </ObjectAllValuesFrom>
+        </ObjectSomeValuesFrom>
     </EquivalentClasses>
     <SubClassOf>
-        <Class IRI="#Bug"/>
-        <Class IRI="#Task"/>
+        <Class IRI="#C_High"/>
+        <Class IRI="#Priority"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#Domain"/>
+        <Class IRI="#C_Junior"/>
+        <Class IRI="#Role"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#C_Junior"/>
         <ObjectSomeValuesFrom>
-            <ObjectProperty IRI="#belongs_to"/>
-            <Class IRI="#Task"/>
+            <ObjectProperty IRI="#related_to"/>
+            <Class IRI="#C_Low"/>
         </ObjectSomeValuesFrom>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#Feature"/>
-        <Class IRI="#Task"/>
+        <Class IRI="#C_Lead"/>
+        <Class IRI="#Role"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#People"/>
+        <Class IRI="#C_Lead"/>
         <ObjectSomeValuesFrom>
-            <ObjectProperty IRI="#know"/>
-            <Class IRI="#Domain"/>
+            <ObjectProperty IRI="#related_to"/>
+            <ObjectUnionOf>
+                <Class IRI="#C_High"/>
+                <Class IRI="#C_Low"/>
+                <Class IRI="#C_Normal"/>
+                <Class IRI="#C_Urgant"/>
+            </ObjectUnionOf>
         </ObjectSomeValuesFrom>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#People"/>
-        <ObjectMaxCardinality cardinality="1">
-            <ObjectProperty IRI="#assigned"/>
-            <Class IRI="#Task"/>
-        </ObjectMaxCardinality>
+        <Class IRI="#C_Low"/>
+        <Class IRI="#Priority"/>
     </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#C_Middle"/>
+        <Class IRI="#Role"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#C_Middle"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#related_to"/>
+            <ObjectUnionOf>
+                <Class IRI="#C_Low"/>
+                <Class IRI="#C_Normal"/>
+            </ObjectUnionOf>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#C_Normal"/>
+        <Class IRI="#Priority"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#C_Senior"/>
+        <Class IRI="#Role"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#C_Senior"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#related_to"/>
+            <ObjectUnionOf>
+                <Class IRI="#C_High"/>
+                <Class IRI="#C_Low"/>
+                <Class IRI="#C_Normal"/>
+            </ObjectUnionOf>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#C_Urgant"/>
+        <Class IRI="#Priority"/>
+    </SubClassOf>
+    <DisjointClasses>
+        <Class IRI="#C_High"/>
+        <Class IRI="#C_Low"/>
+        <Class IRI="#C_Normal"/>
+        <Class IRI="#C_Urgant"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#C_Junior"/>
+        <Class IRI="#C_Lead"/>
+        <Class IRI="#C_Middle"/>
+        <Class IRI="#C_Senior"/>
+    </DisjointClasses>
     <DisjointClasses>
         <Class IRI="#Date"/>
         <Class IRI="#Domain"/>
         <Class IRI="#People"/>
+        <Class IRI="#Priority"/>
+        <Class IRI="#Role"/>
         <Class IRI="#Task"/>
     </DisjointClasses>
     <ClassAssertion>
         <Class IRI="#Task"/>
-        <NamedIndividual IRI="#Error404"/>
+        <NamedIndividual IRI="#Add_pdf_export_for_WIKI_page"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Task"/>
+        <NamedIndividual IRI="#Error_404_when_trying_to_create_new_subprojects"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="#People"/>
         <NamedIndividual IRI="#Go_MAEDA"/>
     </ClassAssertion>
     <ClassAssertion>
+        <Class IRI="#Priority"/>
+        <NamedIndividual IRI="#High"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#People"/>
+        <NamedIndividual IRI="#Jean-Philippe_Lang"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Role"/>
+        <NamedIndividual IRI="#Junior"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Role"/>
+        <NamedIndividual IRI="#Lead"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Priority"/>
+        <NamedIndividual IRI="#Low"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Role"/>
+        <NamedIndividual IRI="#Middle"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Priority"/>
+        <NamedIndividual IRI="#Normal"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Domain"/>
+        <NamedIndividual IRI="#Projects"/>
+    </ClassAssertion>
+    <ClassAssertion>
         <Class IRI="#Domain"/>
         <NamedIndividual IRI="#SCM"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Role"/>
+        <NamedIndividual IRI="#Senior"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="#Task"/>
@@ -172,11 +379,39 @@
         <NamedIndividual IRI="#Toshi_MARUYAMA"/>
     </ClassAssertion>
     <ClassAssertion>
+        <Class IRI="#Priority"/>
+        <NamedIndividual IRI="#Urgant"/>
+    </ClassAssertion>
+    <ClassAssertion>
         <Class IRI="#Domain"/>
         <NamedIndividual IRI="#Wiki"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="#Date"/>
+        <NamedIndividual IRI="#2007-08-02T22:11:00"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Date"/>
+        <NamedIndividual IRI="#2011-01-22T13:24:00"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Date"/>
+        <NamedIndividual IRI="#2011-04-06T14:30:00"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Date"/>
+        <NamedIndividual IRI="#2011-04-06T8:02:00"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Date"/>
+        <NamedIndividual IRI="#2011-1-20T9:57:00"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Date"/>
+        <NamedIndividual IRI="#2011-11-13T10:29:00"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Date"/>
         <NamedIndividual IRI="#2019-09-15T08:08:00"/>
     </ClassAssertion>
     <ClassAssertion>
@@ -187,60 +422,204 @@
         <Class IRI="#Date"/>
         <NamedIndividual IRI="#2019-9-20T13:00:00"/>
     </ClassAssertion>
-    <ObjectPropertyAssertion>
-        <ObjectProperty IRI="#end_doing"/>
-        <NamedIndividual IRI="#Error404"/>
-        <NamedIndividual IRI="#2019-9-20T13:00:00"/>
-    </ObjectPropertyAssertion>
-    <ObjectPropertyAssertion>
-        <ObjectProperty IRI="#is_assigned"/>
-        <NamedIndividual IRI="#Error404"/>
+    <DifferentIndividuals>
+        <NamedIndividual IRI="#Add_pdf_export_for_WIKI_page"/>
+        <NamedIndividual IRI="#Error_404_when_trying_to_create_new_subprojects"/>
         <NamedIndividual IRI="#Go_MAEDA"/>
-    </ObjectPropertyAssertion>
-    <ObjectPropertyAssertion>
-        <ObjectProperty IRI="#specialize"/>
-        <NamedIndividual IRI="#Error404"/>
+        <NamedIndividual IRI="#High"/>
+        <NamedIndividual IRI="#Jean-Philippe_Lang"/>
+        <NamedIndividual IRI="#Junior"/>
+        <NamedIndividual IRI="#Lead"/>
+        <NamedIndividual IRI="#Low"/>
+        <NamedIndividual IRI="#Middle"/>
+        <NamedIndividual IRI="#Normal"/>
+        <NamedIndividual IRI="#Projects"/>
         <NamedIndividual IRI="#SCM"/>
-    </ObjectPropertyAssertion>
-    <ObjectPropertyAssertion>
-        <ObjectProperty IRI="#start_doing"/>
-        <NamedIndividual IRI="#Error404"/>
+        <NamedIndividual IRI="#Senior"/>
+        <NamedIndividual IRI="#Stable_branch_broken"/>
+        <NamedIndividual IRI="#Toshi_MARUYAMA"/>
+        <NamedIndividual IRI="#Urgant"/>
+        <NamedIndividual IRI="#Wiki"/>
+        <NamedIndividual IRI="#2007-08-02T22:11:00"/>
+        <NamedIndividual IRI="#2011-01-22T13:24:00"/>
+        <NamedIndividual IRI="#2011-04-06T14:30:00"/>
+        <NamedIndividual IRI="#2011-04-06T8:02:00"/>
+        <NamedIndividual IRI="#2011-1-20T9:57:00"/>
+        <NamedIndividual IRI="#2011-11-13T10:29:00"/>
         <NamedIndividual IRI="#2019-09-15T08:08:00"/>
-    </ObjectPropertyAssertion>
-    <ObjectPropertyAssertion>
-        <ObjectProperty IRI="#assigned"/>
-        <NamedIndividual IRI="#Go_MAEDA"/>
-        <NamedIndividual IRI="#Error404"/>
-    </ObjectPropertyAssertion>
-    <ObjectPropertyAssertion>
-        <ObjectProperty IRI="#know"/>
-        <NamedIndividual IRI="#Go_MAEDA"/>
-        <NamedIndividual IRI="#SCM"/>
-    </ObjectPropertyAssertion>
+        <NamedIndividual IRI="#2019-10-7T15:08:00"/>
+        <NamedIndividual IRI="#2019-9-20T13:00:00"/>
+    </DifferentIndividuals>
+    <DifferentIndividuals>
+        <NamedIndividual IRI="#High"/>
+        <NamedIndividual IRI="#Low"/>
+        <NamedIndividual IRI="#Normal"/>
+        <NamedIndividual IRI="#Urgant"/>
+    </DifferentIndividuals>
+    <DifferentIndividuals>
+        <NamedIndividual IRI="#Junior"/>
+        <NamedIndividual IRI="#Lead"/>
+        <NamedIndividual IRI="#Middle"/>
+        <NamedIndividual IRI="#Senior"/>
+    </DifferentIndividuals>
+    <DifferentIndividuals>
+        <NamedIndividual IRI="#2011-01-22T13:24:00"/>
+        <NamedIndividual IRI="#2011-04-06T14:30:00"/>
+        <NamedIndividual IRI="#2011-04-06T8:02:00"/>
+        <NamedIndividual IRI="#2011-1-20T9:57:00"/>
+        <NamedIndividual IRI="#2019-09-15T08:08:00"/>
+        <NamedIndividual IRI="#2019-10-7T15:08:00"/>
+        <NamedIndividual IRI="#2019-9-20T13:00:00"/>
+    </DifferentIndividuals>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="#end_doing"/>
-        <NamedIndividual IRI="#Stable_branch_broken"/>
-        <NamedIndividual IRI="#2019-10-7T15:08:00"/>
+        <NamedIndividual IRI="#Add_pdf_export_for_WIKI_page"/>
+        <NamedIndividual IRI="#2011-11-13T10:29:00"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#have_priority"/>
+        <NamedIndividual IRI="#Add_pdf_export_for_WIKI_page"/>
+        <NamedIndividual IRI="#Normal"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="#is_assigned"/>
-        <NamedIndividual IRI="#Stable_branch_broken"/>
+        <NamedIndividual IRI="#Add_pdf_export_for_WIKI_page"/>
         <NamedIndividual IRI="#Toshi_MARUYAMA"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="#specialize"/>
-        <NamedIndividual IRI="#Stable_branch_broken"/>
+        <NamedIndividual IRI="#Add_pdf_export_for_WIKI_page"/>
         <NamedIndividual IRI="#Wiki"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="#start_doing"/>
-        <NamedIndividual IRI="#Stable_branch_broken"/>
-        <NamedIndividual IRI="#2019-09-15T08:08:00"/>
+        <NamedIndividual IRI="#Add_pdf_export_for_WIKI_page"/>
+        <NamedIndividual IRI="#2007-08-02T22:11:00"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="#assigned"/>
-        <NamedIndividual IRI="#Toshi_MARUYAMA"/>
+        <ObjectProperty IRI="#end_doing"/>
+        <NamedIndividual IRI="#Error_404_when_trying_to_create_new_subprojects"/>
+        <NamedIndividual IRI="#2011-01-22T13:24:00"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#have_priority"/>
+        <NamedIndividual IRI="#Error_404_when_trying_to_create_new_subprojects"/>
+        <NamedIndividual IRI="#Normal"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#is_assigned"/>
+        <NamedIndividual IRI="#Error_404_when_trying_to_create_new_subprojects"/>
+        <NamedIndividual IRI="#Go_MAEDA"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#specialize"/>
+        <NamedIndividual IRI="#Error_404_when_trying_to_create_new_subprojects"/>
+        <NamedIndividual IRI="#Projects"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#start_doing"/>
+        <NamedIndividual IRI="#Error_404_when_trying_to_create_new_subprojects"/>
+        <NamedIndividual IRI="#2011-1-20T9:57:00"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#is_role_of"/>
+        <NamedIndividual IRI="#Go_MAEDA"/>
+        <NamedIndividual IRI="#Middle"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#know"/>
+        <NamedIndividual IRI="#Go_MAEDA"/>
+        <NamedIndividual IRI="#Projects"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#is_role_of"/>
+        <NamedIndividual IRI="#Jean-Philippe_Lang"/>
+        <NamedIndividual IRI="#Senior"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#know"/>
+        <NamedIndividual IRI="#Jean-Philippe_Lang"/>
+        <NamedIndividual IRI="#Projects"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#related_to"/>
+        <NamedIndividual IRI="#Junior"/>
+        <NamedIndividual IRI="#Low"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#related_to"/>
+        <NamedIndividual IRI="#Lead"/>
+        <NamedIndividual IRI="#High"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#related_to"/>
+        <NamedIndividual IRI="#Lead"/>
+        <NamedIndividual IRI="#Low"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#related_to"/>
+        <NamedIndividual IRI="#Lead"/>
+        <NamedIndividual IRI="#Normal"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#related_to"/>
+        <NamedIndividual IRI="#Lead"/>
+        <NamedIndividual IRI="#Urgant"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#related_to"/>
+        <NamedIndividual IRI="#Middle"/>
+        <NamedIndividual IRI="#Low"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#related_to"/>
+        <NamedIndividual IRI="#Middle"/>
+        <NamedIndividual IRI="#Normal"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#related_to"/>
+        <NamedIndividual IRI="#Senior"/>
+        <NamedIndividual IRI="#High"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#related_to"/>
+        <NamedIndividual IRI="#Senior"/>
+        <NamedIndividual IRI="#Low"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#related_to"/>
+        <NamedIndividual IRI="#Senior"/>
+        <NamedIndividual IRI="#Normal"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#end_doing"/>
         <NamedIndividual IRI="#Stable_branch_broken"/>
+        <NamedIndividual IRI="#2011-04-06T14:30:00"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#have_priority"/>
+        <NamedIndividual IRI="#Stable_branch_broken"/>
+        <NamedIndividual IRI="#Urgant"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#is_assigned"/>
+        <NamedIndividual IRI="#Stable_branch_broken"/>
+        <NamedIndividual IRI="#Toshi_MARUYAMA"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#specialize"/>
+        <NamedIndividual IRI="#Stable_branch_broken"/>
+        <NamedIndividual IRI="#SCM"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#start_doing"/>
+        <NamedIndividual IRI="#Stable_branch_broken"/>
+        <NamedIndividual IRI="#2011-04-06T8:02:00"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#is_role_of"/>
+        <NamedIndividual IRI="#Toshi_MARUYAMA"/>
+        <NamedIndividual IRI="#Lead"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="#know"/>
@@ -253,11 +632,15 @@
         <NamedIndividual IRI="#Wiki"/>
     </ObjectPropertyAssertion>
     <SubObjectPropertyOf>
-        <ObjectProperty IRI="#belongs_to"/>
+        <ObjectProperty IRI="#end_doing"/>
         <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
     </SubObjectPropertyOf>
     <SubObjectPropertyOf>
-        <ObjectProperty IRI="#end_doing"/>
+        <ObjectProperty IRI="#have_priority"/>
+        <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#related_to"/>
         <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
     </SubObjectPropertyOf>
     <SubObjectPropertyOf>
@@ -268,6 +651,30 @@
         <ObjectProperty IRI="#assigned"/>
         <ObjectProperty IRI="#is_assigned"/>
     </InverseObjectProperties>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="#end_doing"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="#have_priority"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="#is_assigned"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="#specialize"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="#start_doing"/>
+    </FunctionalObjectProperty>
+    <SymmetricObjectProperty>
+        <ObjectProperty IRI="#know"/>
+    </SymmetricObjectProperty>
+    <SymmetricObjectProperty>
+        <ObjectProperty IRI="#related_to"/>
+    </SymmetricObjectProperty>
+    <SymmetricObjectProperty>
+        <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
+    </SymmetricObjectProperty>
     <DisjointObjectProperties>
         <ObjectProperty IRI="#end_doing"/>
         <ObjectProperty IRI="#start_doing"/>
