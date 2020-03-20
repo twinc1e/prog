@@ -17,30 +17,6 @@
         <Class IRI="#Assigner"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#C_High"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#C_Junior"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#C_Lead"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#C_Low"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#C_Middle"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#C_Normal"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#C_Senior"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#C_Urgant"/>
-    </Declaration>
-    <Declaration>
         <Class IRI="#Date"/>
     </Declaration>
     <Declaration>
@@ -89,19 +65,202 @@
         <NamedIndividual IRI="#Add_pdf_export_for_WIKI_page"/>
     </Declaration>
     <Declaration>
+        <NamedIndividual IRI="#AkiraMatsuda"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#AlejandroMercado"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#AleksandarPavic"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#AlexSinav"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#AlexanderAchenbach"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#AlexanderSapozhnikov"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#AlexandrHorbatiuk"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#AmitMehendale"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#AndreasDeininger"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#AndreySergeev"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#AndriiTrush"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#AnnaGrebenkina"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Anonymous"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#AttieGrande"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#BenChen"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#BernhardRohloff"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#BrenoMayderCruz"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#BriceBeaumesnil"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Cheng-HuiPENG"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#ChunChangLo"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#CйsarDJCaлsar9114"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#DanielPetat"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#DavidB"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#DeorenMoor"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#DmitryMakurin"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#DominikKro"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#DominikSignus"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#DonaldMartin"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#EdBaker"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#EddieSerious"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#EmmanuelPRIZZI"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#EnziinSystem"/>
+    </Declaration>
+    <Declaration>
         <NamedIndividual IRI="#Error_404_when_trying_to_create_new_subprojects"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#FabriceHelmbacher"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#FarrukhMamadziyoev"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#FelixSchдfer"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#FernandoHartmann"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#GoMAEDA"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#Go_MAEDA"/>
     </Declaration>
     <Declaration>
+        <NamedIndividual IRI="#GregorBorsemirk"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#GuillermoML"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#GustavoRegal"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#HexiangZhang"/>
+    </Declaration>
+    <Declaration>
         <NamedIndividual IRI="#High"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#HinakoTajima"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#HirokazuOnozato"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#HusnaParavin"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#ITSupport"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#IdeaSo"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#IlyaKabirov"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#IvanCenov"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#IvanIvanov"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#JaebokOh"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#JamesByrne"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#JanFromPlaniowww.plan.io"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Jean-PhilippeLang"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#Jean-Philippe_Lang"/>
     </Declaration>
     <Declaration>
+        <NamedIndividual IRI="#JeffersonSantos"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#JensKrдmer"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Ji-HyeonGim"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#JosйEsteves"/>
+    </Declaration>
+    <Declaration>
         <NamedIndividual IRI="#Junior"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#JйrфmeBATAILLE"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#KevinHsia"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#KitGrose"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#KouheiSutou"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#Lead"/>
@@ -110,22 +269,139 @@
         <NamedIndividual IRI="#Low"/>
     </Declaration>
     <Declaration>
+        <NamedIndividual IRI="#LuisDoriga"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#MAROUANEYAAGOUB"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#MariusBALTEANU"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#MartinaAdler"/>
+    </Declaration>
+    <Declaration>
         <NamedIndividual IRI="#Middle"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#MischaTheEvil"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#MizukiISHIKAWA"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#NevilleKuyt"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#NinadPatil"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#Normal"/>
     </Declaration>
     <Declaration>
+        <NamedIndividual IRI="#OlegBlyahher"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#OlivierReyre"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#PICCOROLenzMcKAY"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#PatrickSteinmetz"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#PavelRosickэ"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#PrateekGera"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Priyadarshini-"/>
+    </Declaration>
+    <Declaration>
         <NamedIndividual IRI="#Projects"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#RafaelMartins"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#RishanBuddhacharya"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#RobertAuer"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#RobertChady"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#RobertRцttger"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#RockyW"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#RomanYagodin"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#RostyslavRuban"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#RyannBartolome"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#SCM"/>
     </Declaration>
     <Declaration>
+        <NamedIndividual IRI="#SandraTatarevicova"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#SebastianPaluch"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#SeieiMiyagi"/>
+    </Declaration>
+    <Declaration>
         <NamedIndividual IRI="#Senior"/>
     </Declaration>
     <Declaration>
+        <NamedIndividual IRI="#SergeiCherevko"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#SivaprakashRamasamy"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#SlavaTretyak"/>
+    </Declaration>
+    <Declaration>
         <NamedIndividual IRI="#Stable_branch_broken"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#StefanHusch"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#StefanMielke"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#StevenQian"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#TaineWoo"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#TakenoriTAKAKI"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#TatsuyaSaito"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#TaylorNaungayan"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#TobiasPitzer"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#TomokoShimizu"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#Toshi_MARUYAMA"/>
@@ -134,7 +410,67 @@
         <NamedIndividual IRI="#Urgant"/>
     </Declaration>
     <Declaration>
+        <NamedIndividual IRI="#VasiliKorol"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#VenkatramanMuthukrishnan"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#VincentRobert"/>
+    </Declaration>
+    <Declaration>
         <NamedIndividual IRI="#Wiki"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#WillTsus"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#XavierANDRE"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#YannRambourg"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#YuichiHARADA"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#ZoranDavidovac"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#briceWilmet"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#jasonChen"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#jiankangChen"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#jieYang"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#nicolasFelix"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#pasquale"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#rajeshG"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#simoGeo"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#terrellSmith"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#vitali-teststorchous-test"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#wkWk"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#xiaomingYang"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#2007-08-02T22:11:00"/>
@@ -162,6 +498,123 @@
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#2019-9-20T13:00:00"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#4sungnu4sungnu"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#??"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#???"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#??????????????"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#????????????????"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#MarekKami?ski"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#PopokiTom(@cat_in_136)"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Calendar"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Gantt"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#PluginAPI"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#PDFExport"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Documentation"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Attachments"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#RailsSupport"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Issues"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#IssuesWorkflow"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#EmailNotifications"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#IssuesFilter"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#TimeTracking"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Importers"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#UI"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#I18n"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#GemsSupport"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#IssuesList"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Translations"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#RubySupport"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Database"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Administration"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Codecleanup/refactoring"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#LDAP"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Roadmap"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#TextFormatting"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#RESTAPI"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Accounts/Authentication"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Website(redmine.org)"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Performance"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#CustomFields"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#IssuesPermissions"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#EmailReceiving"/>
     </Declaration>
     <EquivalentClasses>
         <Class IRI="#Assigner"/>
@@ -226,90 +679,6 @@
             <Class IRI="#Date"/>
         </ObjectSomeValuesFrom>
     </EquivalentClasses>
-    <SubClassOf>
-        <Class IRI="#C_High"/>
-        <Class IRI="#Priority"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#C_Junior"/>
-        <Class IRI="#Role"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#C_Junior"/>
-        <ObjectSomeValuesFrom>
-            <ObjectProperty IRI="#related_to"/>
-            <Class IRI="#C_Low"/>
-        </ObjectSomeValuesFrom>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#C_Lead"/>
-        <Class IRI="#Role"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#C_Lead"/>
-        <ObjectSomeValuesFrom>
-            <ObjectProperty IRI="#related_to"/>
-            <ObjectUnionOf>
-                <Class IRI="#C_High"/>
-                <Class IRI="#C_Low"/>
-                <Class IRI="#C_Normal"/>
-                <Class IRI="#C_Urgant"/>
-            </ObjectUnionOf>
-        </ObjectSomeValuesFrom>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#C_Low"/>
-        <Class IRI="#Priority"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#C_Middle"/>
-        <Class IRI="#Role"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#C_Middle"/>
-        <ObjectSomeValuesFrom>
-            <ObjectProperty IRI="#related_to"/>
-            <ObjectUnionOf>
-                <Class IRI="#C_Low"/>
-                <Class IRI="#C_Normal"/>
-            </ObjectUnionOf>
-        </ObjectSomeValuesFrom>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#C_Normal"/>
-        <Class IRI="#Priority"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#C_Senior"/>
-        <Class IRI="#Role"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#C_Senior"/>
-        <ObjectSomeValuesFrom>
-            <ObjectProperty IRI="#related_to"/>
-            <ObjectUnionOf>
-                <Class IRI="#C_High"/>
-                <Class IRI="#C_Low"/>
-                <Class IRI="#C_Normal"/>
-            </ObjectUnionOf>
-        </ObjectSomeValuesFrom>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#C_Urgant"/>
-        <Class IRI="#Priority"/>
-    </SubClassOf>
-    <DisjointClasses>
-        <Class IRI="#C_High"/>
-        <Class IRI="#C_Low"/>
-        <Class IRI="#C_Normal"/>
-        <Class IRI="#C_Urgant"/>
-    </DisjointClasses>
-    <DisjointClasses>
-        <Class IRI="#C_Junior"/>
-        <Class IRI="#C_Lead"/>
-        <Class IRI="#C_Middle"/>
-        <Class IRI="#C_Senior"/>
-    </DisjointClasses>
     <DisjointClasses>
         <Class IRI="#Date"/>
         <Class IRI="#Domain"/>
@@ -323,12 +692,216 @@
         <NamedIndividual IRI="#Add_pdf_export_for_WIKI_page"/>
     </ClassAssertion>
     <ClassAssertion>
+        <Class IRI="#Domain"/>
+        <NamedIndividual IRI="#Administration"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#People"/>
+        <NamedIndividual IRI="#AkiraMatsuda"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#People"/>
+        <NamedIndividual IRI="#AlejandroMercado"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#People"/>
+        <NamedIndividual IRI="#AleksandarPavic"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#People"/>
+        <NamedIndividual IRI="#AlexSinav"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#People"/>
+        <NamedIndividual IRI="#AlexanderAchenbach"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#People"/>
+        <NamedIndividual IRI="#AlexanderSapozhnikov"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#People"/>
+        <NamedIndividual IRI="#AlexandrHorbatiuk"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#People"/>
+        <NamedIndividual IRI="#AmitMehendale"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#People"/>
+        <NamedIndividual IRI="#AndreasDeininger"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#People"/>
+        <NamedIndividual IRI="#AndreySergeev"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#People"/>
+        <NamedIndividual IRI="#AndriiTrush"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#People"/>
+        <NamedIndividual IRI="#AnnaGrebenkina"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#People"/>
+        <NamedIndividual IRI="#Anonymous"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Domain"/>
+        <NamedIndividual IRI="#Attachments"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#People"/>
+        <NamedIndividual IRI="#AttieGrande"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#People"/>
+        <NamedIndividual IRI="#BenChen"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#People"/>
+        <NamedIndividual IRI="#BernhardRohloff"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#People"/>
+        <NamedIndividual IRI="#BrenoMayderCruz"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#People"/>
+        <NamedIndividual IRI="#BriceBeaumesnil"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Domain"/>
+        <NamedIndividual IRI="#Calendar"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#People"/>
+        <NamedIndividual IRI="#Cheng-HuiPENG"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#People"/>
+        <NamedIndividual IRI="#ChunChangLo"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Domain"/>
+        <NamedIndividual IRI="#CustomFields"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#People"/>
+        <NamedIndividual IRI="#CйsarDJCaлsar9114"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#People"/>
+        <NamedIndividual IRI="#DanielPetat"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Domain"/>
+        <NamedIndividual IRI="#Database"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#People"/>
+        <NamedIndividual IRI="#DavidB"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#People"/>
+        <NamedIndividual IRI="#DeorenMoor"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#People"/>
+        <NamedIndividual IRI="#DmitryMakurin"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Domain"/>
+        <NamedIndividual IRI="#Documentation"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#People"/>
+        <NamedIndividual IRI="#DominikKro"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#People"/>
+        <NamedIndividual IRI="#DominikSignus"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#People"/>
+        <NamedIndividual IRI="#DonaldMartin"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#People"/>
+        <NamedIndividual IRI="#EdBaker"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#People"/>
+        <NamedIndividual IRI="#EddieSerious"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Domain"/>
+        <NamedIndividual IRI="#EmailNotifications"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Domain"/>
+        <NamedIndividual IRI="#EmailReceiving"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#People"/>
+        <NamedIndividual IRI="#EmmanuelPRIZZI"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#People"/>
+        <NamedIndividual IRI="#EnziinSystem"/>
+    </ClassAssertion>
+    <ClassAssertion>
         <Class IRI="#Task"/>
         <NamedIndividual IRI="#Error_404_when_trying_to_create_new_subprojects"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="#People"/>
+        <NamedIndividual IRI="#FabriceHelmbacher"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#People"/>
+        <NamedIndividual IRI="#FarrukhMamadziyoev"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#People"/>
+        <NamedIndividual IRI="#FelixSchдfer"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#People"/>
+        <NamedIndividual IRI="#FernandoHartmann"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Domain"/>
+        <NamedIndividual IRI="#Gantt"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Domain"/>
+        <NamedIndividual IRI="#GemsSupport"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#People"/>
+        <NamedIndividual IRI="#GoMAEDA"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#People"/>
         <NamedIndividual IRI="#Go_MAEDA"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#People"/>
+        <NamedIndividual IRI="#GregorBorsemirk"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#People"/>
+        <NamedIndividual IRI="#GuillermoML"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#People"/>
+        <NamedIndividual IRI="#GustavoRegal"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#People"/>
+        <NamedIndividual IRI="#HexiangZhang"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="#Priority"/>
@@ -336,11 +909,123 @@
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="#People"/>
+        <NamedIndividual IRI="#HinakoTajima"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#People"/>
+        <NamedIndividual IRI="#HirokazuOnozato"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#People"/>
+        <NamedIndividual IRI="#HusnaParavin"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Domain"/>
+        <NamedIndividual IRI="#I18n"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#People"/>
+        <NamedIndividual IRI="#ITSupport"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#People"/>
+        <NamedIndividual IRI="#IdeaSo"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#People"/>
+        <NamedIndividual IRI="#IlyaKabirov"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Domain"/>
+        <NamedIndividual IRI="#Importers"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Domain"/>
+        <NamedIndividual IRI="#Issues"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Domain"/>
+        <NamedIndividual IRI="#IssuesFilter"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Domain"/>
+        <NamedIndividual IRI="#IssuesList"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Domain"/>
+        <NamedIndividual IRI="#IssuesPermissions"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Domain"/>
+        <NamedIndividual IRI="#IssuesWorkflow"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#People"/>
+        <NamedIndividual IRI="#IvanCenov"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#People"/>
+        <NamedIndividual IRI="#IvanIvanov"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#People"/>
+        <NamedIndividual IRI="#JaebokOh"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#People"/>
+        <NamedIndividual IRI="#JamesByrne"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#People"/>
+        <NamedIndividual IRI="#JanFromPlaniowww.plan.io"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#People"/>
+        <NamedIndividual IRI="#Jean-PhilippeLang"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#People"/>
         <NamedIndividual IRI="#Jean-Philippe_Lang"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#People"/>
+        <NamedIndividual IRI="#JeffersonSantos"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#People"/>
+        <NamedIndividual IRI="#JensKrдmer"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#People"/>
+        <NamedIndividual IRI="#Ji-HyeonGim"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#People"/>
+        <NamedIndividual IRI="#JosйEsteves"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="#Role"/>
         <NamedIndividual IRI="#Junior"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#People"/>
+        <NamedIndividual IRI="#JйrфmeBATAILLE"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#People"/>
+        <NamedIndividual IRI="#KevinHsia"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#People"/>
+        <NamedIndividual IRI="#KitGrose"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#People"/>
+        <NamedIndividual IRI="#KouheiSutou"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Domain"/>
+        <NamedIndividual IRI="#LDAP"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="#Role"/>
@@ -351,12 +1036,72 @@
         <NamedIndividual IRI="#Low"/>
     </ClassAssertion>
     <ClassAssertion>
+        <Class IRI="#People"/>
+        <NamedIndividual IRI="#LuisDoriga"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#People"/>
+        <NamedIndividual IRI="#MAROUANEYAAGOUB"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#People"/>
+        <NamedIndividual IRI="#MariusBALTEANU"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#People"/>
+        <NamedIndividual IRI="#MartinaAdler"/>
+    </ClassAssertion>
+    <ClassAssertion>
         <Class IRI="#Role"/>
         <NamedIndividual IRI="#Middle"/>
     </ClassAssertion>
     <ClassAssertion>
+        <Class IRI="#People"/>
+        <NamedIndividual IRI="#MischaTheEvil"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#People"/>
+        <NamedIndividual IRI="#MizukiISHIKAWA"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#People"/>
+        <NamedIndividual IRI="#NevilleKuyt"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#People"/>
+        <NamedIndividual IRI="#NinadPatil"/>
+    </ClassAssertion>
+    <ClassAssertion>
         <Class IRI="#Priority"/>
         <NamedIndividual IRI="#Normal"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#People"/>
+        <NamedIndividual IRI="#OlegBlyahher"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#People"/>
+        <NamedIndividual IRI="#OlivierReyre"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#People"/>
+        <NamedIndividual IRI="#PICCOROLenzMcKAY"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#People"/>
+        <NamedIndividual IRI="#PatrickSteinmetz"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#People"/>
+        <NamedIndividual IRI="#PavelRosickэ"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#People"/>
+        <NamedIndividual IRI="#PrateekGera"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#People"/>
+        <NamedIndividual IRI="#Priyadarshini-"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="#Domain"/>
@@ -364,11 +1109,87 @@
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="#Domain"/>
+        <NamedIndividual IRI="#RESTAPI"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#People"/>
+        <NamedIndividual IRI="#RafaelMartins"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Domain"/>
+        <NamedIndividual IRI="#RailsSupport"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#People"/>
+        <NamedIndividual IRI="#RishanBuddhacharya"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Domain"/>
+        <NamedIndividual IRI="#Roadmap"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#People"/>
+        <NamedIndividual IRI="#RobertAuer"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#People"/>
+        <NamedIndividual IRI="#RobertChady"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#People"/>
+        <NamedIndividual IRI="#RobertRцttger"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#People"/>
+        <NamedIndividual IRI="#RockyW"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#People"/>
+        <NamedIndividual IRI="#RomanYagodin"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#People"/>
+        <NamedIndividual IRI="#RostyslavRuban"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Domain"/>
+        <NamedIndividual IRI="#RubySupport"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#People"/>
+        <NamedIndividual IRI="#RyannBartolome"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Domain"/>
         <NamedIndividual IRI="#SCM"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#People"/>
+        <NamedIndividual IRI="#SandraTatarevicova"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#People"/>
+        <NamedIndividual IRI="#SebastianPaluch"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#People"/>
+        <NamedIndividual IRI="#SeieiMiyagi"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="#Role"/>
         <NamedIndividual IRI="#Senior"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#People"/>
+        <NamedIndividual IRI="#SergeiCherevko"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#People"/>
+        <NamedIndividual IRI="#SivaprakashRamasamy"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#People"/>
+        <NamedIndividual IRI="#SlavaTretyak"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="#Task"/>
@@ -376,15 +1197,147 @@
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="#People"/>
+        <NamedIndividual IRI="#StefanHusch"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#People"/>
+        <NamedIndividual IRI="#StefanMielke"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#People"/>
+        <NamedIndividual IRI="#StevenQian"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#People"/>
+        <NamedIndividual IRI="#TaineWoo"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#People"/>
+        <NamedIndividual IRI="#TakenoriTAKAKI"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#People"/>
+        <NamedIndividual IRI="#TatsuyaSaito"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#People"/>
+        <NamedIndividual IRI="#TaylorNaungayan"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Domain"/>
+        <NamedIndividual IRI="#TextFormatting"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Domain"/>
+        <NamedIndividual IRI="#TimeTracking"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#People"/>
+        <NamedIndividual IRI="#TobiasPitzer"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#People"/>
+        <NamedIndividual IRI="#TomokoShimizu"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#People"/>
         <NamedIndividual IRI="#Toshi_MARUYAMA"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Domain"/>
+        <NamedIndividual IRI="#Translations"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Domain"/>
+        <NamedIndividual IRI="#UI"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="#Priority"/>
         <NamedIndividual IRI="#Urgant"/>
     </ClassAssertion>
     <ClassAssertion>
+        <Class IRI="#People"/>
+        <NamedIndividual IRI="#VasiliKorol"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#People"/>
+        <NamedIndividual IRI="#VenkatramanMuthukrishnan"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#People"/>
+        <NamedIndividual IRI="#VincentRobert"/>
+    </ClassAssertion>
+    <ClassAssertion>
         <Class IRI="#Domain"/>
         <NamedIndividual IRI="#Wiki"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#People"/>
+        <NamedIndividual IRI="#WillTsus"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#People"/>
+        <NamedIndividual IRI="#XavierANDRE"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#People"/>
+        <NamedIndividual IRI="#YannRambourg"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#People"/>
+        <NamedIndividual IRI="#YuichiHARADA"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#People"/>
+        <NamedIndividual IRI="#ZoranDavidovac"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#People"/>
+        <NamedIndividual IRI="#briceWilmet"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#People"/>
+        <NamedIndividual IRI="#jasonChen"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#People"/>
+        <NamedIndividual IRI="#jiankangChen"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#People"/>
+        <NamedIndividual IRI="#jieYang"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#People"/>
+        <NamedIndividual IRI="#nicolasFelix"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#People"/>
+        <NamedIndividual IRI="#pasquale"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#People"/>
+        <NamedIndividual IRI="#rajeshG"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#People"/>
+        <NamedIndividual IRI="#simoGeo"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#People"/>
+        <NamedIndividual IRI="#terrellSmith"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#People"/>
+        <NamedIndividual IRI="#vitali-teststorchous-test"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#People"/>
+        <NamedIndividual IRI="#wkWk"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#People"/>
+        <NamedIndividual IRI="#xiaomingYang"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="#Date"/>
@@ -421,6 +1374,46 @@
     <ClassAssertion>
         <Class IRI="#Date"/>
         <NamedIndividual IRI="#2019-9-20T13:00:00"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#People"/>
+        <NamedIndividual IRI="#4sungnu4sungnu"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#People"/>
+        <NamedIndividual IRI="#??"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#People"/>
+        <NamedIndividual IRI="#???"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#People"/>
+        <NamedIndividual IRI="#??????????????"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#People"/>
+        <NamedIndividual IRI="#????????????????"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Domain"/>
+        <NamedIndividual IRI="#Accounts/Authentication"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Domain"/>
+        <NamedIndividual IRI="#Codecleanup/refactoring"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#People"/>
+        <NamedIndividual IRI="#MarekKami?ski"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#People"/>
+        <NamedIndividual IRI="#PopokiTom(@cat_in_136)"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Domain"/>
+        <NamedIndividual IRI="#Website(redmine.org)"/>
     </ClassAssertion>
     <DifferentIndividuals>
         <NamedIndividual IRI="#Add_pdf_export_for_WIKI_page"/>
@@ -497,6 +1490,176 @@
         <NamedIndividual IRI="#2007-08-02T22:11:00"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#know"/>
+        <NamedIndividual IRI="#AkiraMatsuda"/>
+        <NamedIndividual IRI="#Codecleanup/refactoring"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#know"/>
+        <NamedIndividual IRI="#AlejandroMercado"/>
+        <NamedIndividual IRI="#EmailNotifications"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#know"/>
+        <NamedIndividual IRI="#AleksandarPavic"/>
+        <NamedIndividual IRI="#IssuesFilter"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#know"/>
+        <NamedIndividual IRI="#AleksandarPavic"/>
+        <NamedIndividual IRI="#SCM"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#know"/>
+        <NamedIndividual IRI="#AleksandarPavic"/>
+        <NamedIndividual IRI="#TimeTracking"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#know"/>
+        <NamedIndividual IRI="#AlexSinav"/>
+        <NamedIndividual IRI="#RESTAPI"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#know"/>
+        <NamedIndividual IRI="#AlexanderAchenbach"/>
+        <NamedIndividual IRI="#IssuesFilter"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#know"/>
+        <NamedIndividual IRI="#AlexanderSapozhnikov"/>
+        <NamedIndividual IRI="#Translations"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#know"/>
+        <NamedIndividual IRI="#AlexanderSapozhnikov"/>
+        <NamedIndividual IRI="#UI"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#know"/>
+        <NamedIndividual IRI="#AlexandrHorbatiuk"/>
+        <NamedIndividual IRI="#RESTAPI"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#know"/>
+        <NamedIndividual IRI="#AmitMehendale"/>
+        <NamedIndividual IRI="#Accounts/Authentication"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#know"/>
+        <NamedIndividual IRI="#AndreasDeininger"/>
+        <NamedIndividual IRI="#Translations"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#know"/>
+        <NamedIndividual IRI="#AndreySergeev"/>
+        <NamedIndividual IRI="#Administration"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#know"/>
+        <NamedIndividual IRI="#AndreySergeev"/>
+        <NamedIndividual IRI="#Attachments"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#know"/>
+        <NamedIndividual IRI="#AndreySergeev"/>
+        <NamedIndividual IRI="#Issues"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#know"/>
+        <NamedIndividual IRI="#AndriiTrush"/>
+        <NamedIndividual IRI="#Projects"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#know"/>
+        <NamedIndividual IRI="#AnnaGrebenkina"/>
+        <NamedIndividual IRI="#Administration"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#know"/>
+        <NamedIndividual IRI="#Anonymous"/>
+        <NamedIndividual IRI="#UI"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#know"/>
+        <NamedIndividual IRI="#AttieGrande"/>
+        <NamedIndividual IRI="#RESTAPI"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#know"/>
+        <NamedIndividual IRI="#BernhardRohloff"/>
+        <NamedIndividual IRI="#UI"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#know"/>
+        <NamedIndividual IRI="#BriceBeaumesnil"/>
+        <NamedIndividual IRI="#PDFExport"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#know"/>
+        <NamedIndividual IRI="#ChunChangLo"/>
+        <NamedIndividual IRI="#Translations"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#know"/>
+        <NamedIndividual IRI="#CйsarDJCaлsar9114"/>
+        <NamedIndividual IRI="#PluginAPI"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#know"/>
+        <NamedIndividual IRI="#DanielPetat"/>
+        <NamedIndividual IRI="#EmailNotifications"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#know"/>
+        <NamedIndividual IRI="#DavidB"/>
+        <NamedIndividual IRI="#PluginAPI"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#know"/>
+        <NamedIndividual IRI="#DeorenMoor"/>
+        <NamedIndividual IRI="#GemsSupport"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#know"/>
+        <NamedIndividual IRI="#DmitryMakurin"/>
+        <NamedIndividual IRI="#Issues"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#know"/>
+        <NamedIndividual IRI="#DominikKro"/>
+        <NamedIndividual IRI="#EmailReceiving"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#know"/>
+        <NamedIndividual IRI="#DominikSignus"/>
+        <NamedIndividual IRI="#EmailReceiving"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#know"/>
+        <NamedIndividual IRI="#DonaldMartin"/>
+        <NamedIndividual IRI="#UI"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#know"/>
+        <NamedIndividual IRI="#EdBaker"/>
+        <NamedIndividual IRI="#PDFExport"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#know"/>
+        <NamedIndividual IRI="#EmmanuelPRIZZI"/>
+        <NamedIndividual IRI="#RESTAPI"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#know"/>
+        <NamedIndividual IRI="#EnziinSystem"/>
+        <NamedIndividual IRI="#Importers"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#know"/>
+        <NamedIndividual IRI="#EnziinSystem"/>
+        <NamedIndividual IRI="#Translations"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
         <ObjectProperty IRI="#end_doing"/>
         <NamedIndividual IRI="#Error_404_when_trying_to_create_new_subprojects"/>
         <NamedIndividual IRI="#2011-01-22T13:24:00"/>
@@ -522,6 +1685,126 @@
         <NamedIndividual IRI="#2011-1-20T9:57:00"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#know"/>
+        <NamedIndividual IRI="#FabriceHelmbacher"/>
+        <NamedIndividual IRI="#Codecleanup/refactoring"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#know"/>
+        <NamedIndividual IRI="#FarrukhMamadziyoev"/>
+        <NamedIndividual IRI="#EmailNotifications"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#know"/>
+        <NamedIndividual IRI="#FelixSchдfer"/>
+        <NamedIndividual IRI="#Issues"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#know"/>
+        <NamedIndividual IRI="#FelixSchдfer"/>
+        <NamedIndividual IRI="#IssuesList"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#know"/>
+        <NamedIndividual IRI="#FelixSchдfer"/>
+        <NamedIndividual IRI="#Performance"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#know"/>
+        <NamedIndividual IRI="#FernandoHartmann"/>
+        <NamedIndividual IRI="#Website(redmine.org)"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#know"/>
+        <NamedIndividual IRI="#GoMAEDA"/>
+        <NamedIndividual IRI="#Administration"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#know"/>
+        <NamedIndividual IRI="#GoMAEDA"/>
+        <NamedIndividual IRI="#Attachments"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#know"/>
+        <NamedIndividual IRI="#GoMAEDA"/>
+        <NamedIndividual IRI="#Calendar"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#know"/>
+        <NamedIndividual IRI="#GoMAEDA"/>
+        <NamedIndividual IRI="#Documentation"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#know"/>
+        <NamedIndividual IRI="#GoMAEDA"/>
+        <NamedIndividual IRI="#EmailNotifications"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#know"/>
+        <NamedIndividual IRI="#GoMAEDA"/>
+        <NamedIndividual IRI="#EmailReceiving"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#know"/>
+        <NamedIndividual IRI="#GoMAEDA"/>
+        <NamedIndividual IRI="#GemsSupport"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#know"/>
+        <NamedIndividual IRI="#GoMAEDA"/>
+        <NamedIndividual IRI="#IssuesFilter"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#know"/>
+        <NamedIndividual IRI="#GoMAEDA"/>
+        <NamedIndividual IRI="#IssuesList"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#know"/>
+        <NamedIndividual IRI="#GoMAEDA"/>
+        <NamedIndividual IRI="#LDAP"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#know"/>
+        <NamedIndividual IRI="#GoMAEDA"/>
+        <NamedIndividual IRI="#Projects"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#know"/>
+        <NamedIndividual IRI="#GoMAEDA"/>
+        <NamedIndividual IRI="#RailsSupport"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#know"/>
+        <NamedIndividual IRI="#GoMAEDA"/>
+        <NamedIndividual IRI="#RubySupport"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#know"/>
+        <NamedIndividual IRI="#GoMAEDA"/>
+        <NamedIndividual IRI="#SCM"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#know"/>
+        <NamedIndividual IRI="#GoMAEDA"/>
+        <NamedIndividual IRI="#Translations"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#know"/>
+        <NamedIndividual IRI="#GoMAEDA"/>
+        <NamedIndividual IRI="#UI"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#know"/>
+        <NamedIndividual IRI="#GoMAEDA"/>
+        <NamedIndividual IRI="#Accounts/Authentication"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#know"/>
+        <NamedIndividual IRI="#GoMAEDA"/>
+        <NamedIndividual IRI="#Codecleanup/refactoring"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
         <ObjectProperty IRI="#is_role_of"/>
         <NamedIndividual IRI="#Go_MAEDA"/>
         <NamedIndividual IRI="#Middle"/>
@@ -530,6 +1813,91 @@
         <ObjectProperty IRI="#know"/>
         <NamedIndividual IRI="#Go_MAEDA"/>
         <NamedIndividual IRI="#Projects"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#know"/>
+        <NamedIndividual IRI="#GregorBorsemirk"/>
+        <NamedIndividual IRI="#Issues"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#know"/>
+        <NamedIndividual IRI="#GuillermoML"/>
+        <NamedIndividual IRI="#TimeTracking"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#know"/>
+        <NamedIndividual IRI="#GuillermoML"/>
+        <NamedIndividual IRI="#Translations"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#know"/>
+        <NamedIndividual IRI="#GustavoRegal"/>
+        <NamedIndividual IRI="#EmailReceiving"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#know"/>
+        <NamedIndividual IRI="#HexiangZhang"/>
+        <NamedIndividual IRI="#IssuesList"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#know"/>
+        <NamedIndividual IRI="#HinakoTajima"/>
+        <NamedIndividual IRI="#Administration"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#know"/>
+        <NamedIndividual IRI="#HirokazuOnozato"/>
+        <NamedIndividual IRI="#UI"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#know"/>
+        <NamedIndividual IRI="#HusnaParavin"/>
+        <NamedIndividual IRI="#Projects"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#know"/>
+        <NamedIndividual IRI="#IdeaSo"/>
+        <NamedIndividual IRI="#Translations"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#know"/>
+        <NamedIndividual IRI="#IlyaKabirov"/>
+        <NamedIndividual IRI="#EmailNotifications"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#know"/>
+        <NamedIndividual IRI="#IvanCenov"/>
+        <NamedIndividual IRI="#Translations"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#know"/>
+        <NamedIndividual IRI="#IvanIvanov"/>
+        <NamedIndividual IRI="#Translations"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#know"/>
+        <NamedIndividual IRI="#JaebokOh"/>
+        <NamedIndividual IRI="#Gantt"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#know"/>
+        <NamedIndividual IRI="#JamesByrne"/>
+        <NamedIndividual IRI="#Database"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#know"/>
+        <NamedIndividual IRI="#JanFromPlaniowww.plan.io"/>
+        <NamedIndividual IRI="#EmailNotifications"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#know"/>
+        <NamedIndividual IRI="#Jean-PhilippeLang"/>
+        <NamedIndividual IRI="#Administration"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#know"/>
+        <NamedIndividual IRI="#Jean-PhilippeLang"/>
+        <NamedIndividual IRI="#GemsSupport"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="#is_role_of"/>
@@ -542,9 +1910,49 @@
         <NamedIndividual IRI="#Projects"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#know"/>
+        <NamedIndividual IRI="#JensKrдmer"/>
+        <NamedIndividual IRI="#Attachments"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#know"/>
+        <NamedIndividual IRI="#JensKrдmer"/>
+        <NamedIndividual IRI="#TextFormatting"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#know"/>
+        <NamedIndividual IRI="#Ji-HyeonGim"/>
+        <NamedIndividual IRI="#TextFormatting"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#know"/>
+        <NamedIndividual IRI="#JosйEsteves"/>
+        <NamedIndividual IRI="#Issues"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
         <ObjectProperty IRI="#related_to"/>
         <NamedIndividual IRI="#Junior"/>
         <NamedIndividual IRI="#Low"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#know"/>
+        <NamedIndividual IRI="#JйrфmeBATAILLE"/>
+        <NamedIndividual IRI="#RESTAPI"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#know"/>
+        <NamedIndividual IRI="#KitGrose"/>
+        <NamedIndividual IRI="#EmailNotifications"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#know"/>
+        <NamedIndividual IRI="#KouheiSutou"/>
+        <NamedIndividual IRI="#PDFExport"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#know"/>
+        <NamedIndividual IRI="#KouheiSutou"/>
+        <NamedIndividual IRI="#TimeTracking"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="#related_to"/>
@@ -567,6 +1975,61 @@
         <NamedIndividual IRI="#Urgant"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#know"/>
+        <NamedIndividual IRI="#LuisDoriga"/>
+        <NamedIndividual IRI="#Roadmap"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#know"/>
+        <NamedIndividual IRI="#MAROUANEYAAGOUB"/>
+        <NamedIndividual IRI="#RESTAPI"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#know"/>
+        <NamedIndividual IRI="#MariusBALTEANU"/>
+        <NamedIndividual IRI="#CustomFields"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#know"/>
+        <NamedIndividual IRI="#MariusBALTEANU"/>
+        <NamedIndividual IRI="#Database"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#know"/>
+        <NamedIndividual IRI="#MariusBALTEANU"/>
+        <NamedIndividual IRI="#GemsSupport"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#know"/>
+        <NamedIndividual IRI="#MariusBALTEANU"/>
+        <NamedIndividual IRI="#Issues"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#know"/>
+        <NamedIndividual IRI="#MariusBALTEANU"/>
+        <NamedIndividual IRI="#Projects"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#know"/>
+        <NamedIndividual IRI="#MariusBALTEANU"/>
+        <NamedIndividual IRI="#TimeTracking"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#know"/>
+        <NamedIndividual IRI="#MariusBALTEANU"/>
+        <NamedIndividual IRI="#UI"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#know"/>
+        <NamedIndividual IRI="#MariusBALTEANU"/>
+        <NamedIndividual IRI="#Codecleanup/refactoring"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#know"/>
+        <NamedIndividual IRI="#MartinaAdler"/>
+        <NamedIndividual IRI="#IssuesPermissions"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
         <ObjectProperty IRI="#related_to"/>
         <NamedIndividual IRI="#Middle"/>
         <NamedIndividual IRI="#Low"/>
@@ -575,6 +2038,176 @@
         <ObjectProperty IRI="#related_to"/>
         <NamedIndividual IRI="#Middle"/>
         <NamedIndividual IRI="#Normal"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#know"/>
+        <NamedIndividual IRI="#MischaTheEvil"/>
+        <NamedIndividual IRI="#UI"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#know"/>
+        <NamedIndividual IRI="#MischaTheEvil"/>
+        <NamedIndividual IRI="#Codecleanup/refactoring"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#know"/>
+        <NamedIndividual IRI="#MischaTheEvil"/>
+        <NamedIndividual IRI="#Website(redmine.org)"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#know"/>
+        <NamedIndividual IRI="#MizukiISHIKAWA"/>
+        <NamedIndividual IRI="#IssuesFilter"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#know"/>
+        <NamedIndividual IRI="#MizukiISHIKAWA"/>
+        <NamedIndividual IRI="#IssuesWorkflow"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#know"/>
+        <NamedIndividual IRI="#MizukiISHIKAWA"/>
+        <NamedIndividual IRI="#Projects"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#know"/>
+        <NamedIndividual IRI="#MizukiISHIKAWA"/>
+        <NamedIndividual IRI="#TextFormatting"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#know"/>
+        <NamedIndividual IRI="#MizukiISHIKAWA"/>
+        <NamedIndividual IRI="#UI"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#know"/>
+        <NamedIndividual IRI="#MizukiISHIKAWA"/>
+        <NamedIndividual IRI="#Codecleanup/refactoring"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#know"/>
+        <NamedIndividual IRI="#NevilleKuyt"/>
+        <NamedIndividual IRI="#Administration"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#know"/>
+        <NamedIndividual IRI="#NinadPatil"/>
+        <NamedIndividual IRI="#EmailReceiving"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#know"/>
+        <NamedIndividual IRI="#OlegBlyahher"/>
+        <NamedIndividual IRI="#GemsSupport"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#know"/>
+        <NamedIndividual IRI="#OlivierReyre"/>
+        <NamedIndividual IRI="#UI"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#know"/>
+        <NamedIndividual IRI="#PICCOROLenzMcKAY"/>
+        <NamedIndividual IRI="#Website(redmine.org)"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#know"/>
+        <NamedIndividual IRI="#PatrickSteinmetz"/>
+        <NamedIndividual IRI="#Issues"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#know"/>
+        <NamedIndividual IRI="#PavelRosickэ"/>
+        <NamedIndividual IRI="#GemsSupport"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#know"/>
+        <NamedIndividual IRI="#PavelRosickэ"/>
+        <NamedIndividual IRI="#PDFExport"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#know"/>
+        <NamedIndividual IRI="#PavelRosickэ"/>
+        <NamedIndividual IRI="#RailsSupport"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#know"/>
+        <NamedIndividual IRI="#PavelRosickэ"/>
+        <NamedIndividual IRI="#Translations"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#know"/>
+        <NamedIndividual IRI="#PavelRosickэ"/>
+        <NamedIndividual IRI="#Codecleanup/refactoring"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#know"/>
+        <NamedIndividual IRI="#Priyadarshini-"/>
+        <NamedIndividual IRI="#Website(redmine.org)"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#know"/>
+        <NamedIndividual IRI="#RafaelMartins"/>
+        <NamedIndividual IRI="#Translations"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#know"/>
+        <NamedIndividual IRI="#RobertChady"/>
+        <NamedIndividual IRI="#Issues"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#know"/>
+        <NamedIndividual IRI="#RobertRцttger"/>
+        <NamedIndividual IRI="#EmailNotifications"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#know"/>
+        <NamedIndividual IRI="#RomanYagodin"/>
+        <NamedIndividual IRI="#Translations"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#know"/>
+        <NamedIndividual IRI="#RostyslavRuban"/>
+        <NamedIndividual IRI="#PluginAPI"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#know"/>
+        <NamedIndividual IRI="#RyannBartolome"/>
+        <NamedIndividual IRI="#Importers"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#know"/>
+        <NamedIndividual IRI="#SandraTatarevicova"/>
+        <NamedIndividual IRI="#TimeTracking"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#know"/>
+        <NamedIndividual IRI="#SebastianPaluch"/>
+        <NamedIndividual IRI="#Projects"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#know"/>
+        <NamedIndividual IRI="#SebastianPaluch"/>
+        <NamedIndividual IRI="#TimeTracking"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#know"/>
+        <NamedIndividual IRI="#SebastianPaluch"/>
+        <NamedIndividual IRI="#UI"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#know"/>
+        <NamedIndividual IRI="#SeieiMiyagi"/>
+        <NamedIndividual IRI="#PluginAPI"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#know"/>
+        <NamedIndividual IRI="#SeieiMiyagi"/>
+        <NamedIndividual IRI="#RubySupport"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#know"/>
+        <NamedIndividual IRI="#SeieiMiyagi"/>
+        <NamedIndividual IRI="#UI"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="#related_to"/>
@@ -590,6 +2223,21 @@
         <ObjectProperty IRI="#related_to"/>
         <NamedIndividual IRI="#Senior"/>
         <NamedIndividual IRI="#Normal"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#know"/>
+        <NamedIndividual IRI="#SergeiCherevko"/>
+        <NamedIndividual IRI="#CustomFields"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#know"/>
+        <NamedIndividual IRI="#SivaprakashRamasamy"/>
+        <NamedIndividual IRI="#CustomFields"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#know"/>
+        <NamedIndividual IRI="#SlavaTretyak"/>
+        <NamedIndividual IRI="#TimeTracking"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="#end_doing"/>
@@ -617,6 +2265,61 @@
         <NamedIndividual IRI="#2011-04-06T8:02:00"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#know"/>
+        <NamedIndividual IRI="#StefanHusch"/>
+        <NamedIndividual IRI="#Website(redmine.org)"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#know"/>
+        <NamedIndividual IRI="#StefanMielke"/>
+        <NamedIndividual IRI="#EmailReceiving"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#know"/>
+        <NamedIndividual IRI="#StevenQian"/>
+        <NamedIndividual IRI="#Issues"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#know"/>
+        <NamedIndividual IRI="#TaineWoo"/>
+        <NamedIndividual IRI="#Importers"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#know"/>
+        <NamedIndividual IRI="#TaineWoo"/>
+        <NamedIndividual IRI="#IssuesFilter"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#know"/>
+        <NamedIndividual IRI="#TaineWoo"/>
+        <NamedIndividual IRI="#IssuesWorkflow"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#know"/>
+        <NamedIndividual IRI="#TakenoriTAKAKI"/>
+        <NamedIndividual IRI="#UI"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#know"/>
+        <NamedIndividual IRI="#TaylorNaungayan"/>
+        <NamedIndividual IRI="#Attachments"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#know"/>
+        <NamedIndividual IRI="#TaylorNaungayan"/>
+        <NamedIndividual IRI="#Issues"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#know"/>
+        <NamedIndividual IRI="#TobiasPitzer"/>
+        <NamedIndividual IRI="#Gantt"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#know"/>
+        <NamedIndividual IRI="#TomokoShimizu"/>
+        <NamedIndividual IRI="#IssuesList"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
         <ObjectProperty IRI="#is_role_of"/>
         <NamedIndividual IRI="#Toshi_MARUYAMA"/>
         <NamedIndividual IRI="#Lead"/>
@@ -630,6 +2333,111 @@
         <ObjectProperty IRI="#know"/>
         <NamedIndividual IRI="#Toshi_MARUYAMA"/>
         <NamedIndividual IRI="#Wiki"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#know"/>
+        <NamedIndividual IRI="#VincentRobert"/>
+        <NamedIndividual IRI="#Codecleanup/refactoring"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#know"/>
+        <NamedIndividual IRI="#XavierANDRE"/>
+        <NamedIndividual IRI="#Issues"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#know"/>
+        <NamedIndividual IRI="#YannRambourg"/>
+        <NamedIndividual IRI="#Projects"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#know"/>
+        <NamedIndividual IRI="#YuichiHARADA"/>
+        <NamedIndividual IRI="#Gantt"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#know"/>
+        <NamedIndividual IRI="#YuichiHARADA"/>
+        <NamedIndividual IRI="#TextFormatting"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#know"/>
+        <NamedIndividual IRI="#YuichiHARADA"/>
+        <NamedIndividual IRI="#Codecleanup/refactoring"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#know"/>
+        <NamedIndividual IRI="#ZoranDavidovac"/>
+        <NamedIndividual IRI="#Issues"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#know"/>
+        <NamedIndividual IRI="#briceWilmet"/>
+        <NamedIndividual IRI="#EmailNotifications"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#know"/>
+        <NamedIndividual IRI="#jiankangChen"/>
+        <NamedIndividual IRI="#RubySupport"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#know"/>
+        <NamedIndividual IRI="#nicolasFelix"/>
+        <NamedIndividual IRI="#EmailNotifications"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#know"/>
+        <NamedIndividual IRI="#pasquale"/>
+        <NamedIndividual IRI="#EmailNotifications"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#know"/>
+        <NamedIndividual IRI="#pasquale"/>
+        <NamedIndividual IRI="#Translations"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#know"/>
+        <NamedIndividual IRI="#rajeshG"/>
+        <NamedIndividual IRI="#Issues"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#know"/>
+        <NamedIndividual IRI="#rajeshG"/>
+        <NamedIndividual IRI="#IssuesFilter"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#know"/>
+        <NamedIndividual IRI="#terrellSmith"/>
+        <NamedIndividual IRI="#SCM"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#know"/>
+        <NamedIndividual IRI="#vitali-teststorchous-test"/>
+        <NamedIndividual IRI="#I18n"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#know"/>
+        <NamedIndividual IRI="#xiaomingYang"/>
+        <NamedIndividual IRI="#EmailNotifications"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#know"/>
+        <NamedIndividual IRI="#4sungnu4sungnu"/>
+        <NamedIndividual IRI="#UI"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#know"/>
+        <NamedIndividual IRI="#????????????????"/>
+        <NamedIndividual IRI="#EmailNotifications"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#know"/>
+        <NamedIndividual IRI="#MarekKami?ski"/>
+        <NamedIndividual IRI="#Administration"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#know"/>
+        <NamedIndividual IRI="#PopokiTom(@cat_in_136)"/>
+        <NamedIndividual IRI="#TextFormatting"/>
     </ObjectPropertyAssertion>
     <SubObjectPropertyOf>
         <ObjectProperty IRI="#end_doing"/>
@@ -637,6 +2445,10 @@
     </SubObjectPropertyOf>
     <SubObjectPropertyOf>
         <ObjectProperty IRI="#have_priority"/>
+        <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#is_assigned"/>
         <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
     </SubObjectPropertyOf>
     <SubObjectPropertyOf>
