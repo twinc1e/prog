@@ -1,0 +1,1 @@
+{"Collections":[{"sheetName":"author","startColumn":"C","endColumn":"C","startRow":"2","endRow":"+","comment":"","rule":"Individual: @C* \n  Types: @C1\n  Facts: specialize @D*,\nhave_priority @E*,\nstart_doing @F*,\nend_doing @G*,\nis_assigned @H*","active":true}]}

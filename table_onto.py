@@ -29,7 +29,8 @@ class MainWindow(QMainWindow):
         onto_path.append("C://Users/newLenovo/Desktop/prog")
         self.bug_onto = get_ontology("http://test.org/bug.owl/").load()
         self.table = QTableWidget(self)  # Create a table
-        self.new_domain = 0
+        self.dom_combotxt = None
+        self.prior_combotxt = None
         self.setMinimumSize(QSize(750, 120))  # Set sizes
         self.setWindowTitle("TasktrackerOnto")  # Set the window title
         central_widget = QWidget(self)  # Create a central widget
@@ -87,14 +88,18 @@ class MainWindow(QMainWindow):
     # format onto domain
     def str_odate(self, data):
         try:
-            odate = datetime.strptime(str(data), '[bug.%Y-%m-%dT%H:%M:%S]')
+            odate = datetime.strptime(str(data), 'bug.%d.%m.%Y%H-%M-%S')
         except ValueError:
-            odate = datetime.strptime(str(data), 'bug.%Y-%m-%dT%H:%M:%S')
+            odate = datetime.strptime(str(data), '[bug.%d.%m.%Y%H-%M-%S]')
 
         return odate
-
+    #get nice string from onto without onto class
     def str_onto(self, data):
-        return re.findall(r'\w+', str(data))[1]  # search().group(0)
+        try: #r - подавляют экранирование строки ("Сырые" строки)
+            ostr = re.split(r'\.', str(data), maxsplit=1)[1] # search.group(0)  # findall([^.]+$)[0]
+        except IndexError or AttributeError:
+            ostr = str(data)
+        return ostr
 
     # Set unique cells without editing for all row
     def create_item_flag(self, text):
@@ -113,6 +118,7 @@ class MainWindow(QMainWindow):
         domain = self.str_onto(inst_task[i].specialize)
         assign = self.str_onto(inst_task[i].is_assigned)
         priority = self.str_onto(inst_task[i].have_priority)
+
         # Fill the first line
         self.table.setItem(i, 0, self.create_item_flag(task))
         self.table.setItem(i, 1, self.create_item_flag(domain))
@@ -120,6 +126,7 @@ class MainWindow(QMainWindow):
         self.table.setItem(i, 3, self.create_item_flag(assign))
         self.table.setItem(i, 4, self.create_item_flag(str(end_date)))
         self.table.setItem(i, 5, self.create_item_flag(priority))
+        #self.table.setItem(i, 6, self.create_item_flag(priority))
         # self.table.setItem(i, 5, self.create_item_flag(duration))
         pass
 
@@ -136,12 +143,22 @@ class MainWindow(QMainWindow):
             self.grid_layout.addWidget(self.table, 0, 0)  # Adding the self.table to the grid
 
     # ------------ OPERATION ADD ROW --------------
-    # Check new index for combobox cell - domain
-    def selectionchange(self, combo):
-        self.new_domain = combo
-        print("combo index: %i" % combo)
+    # Check new text for combobox cell - domain
+    def dselectionchange(self, combotext):
+        self.dom_combotxt = combotext
+        print("combo txt: %s" % combotext)
+        # Add text for item. Not just widget
+        self.table.setItem(self.table.currentRow(), 1, QTableWidgetItem(self.dom_combotxt))
         pass
 
+    # ------------ OPERATION ADD ROW --------------
+    # Check new text for combobox cell - domain
+    def pselectionchange(self, combotext):
+        self.prior_combotxt = combotext
+        print("combo txt: %s" % combotext)
+        # Add text for item. Not just widget
+        self.table.setItem(self.table.currentRow(), 5, QTableWidgetItem(self.prior_combotxt))
+        pass
     # override keyPressEvent
     '''
     def keyPressEvent(self, e: QKeyEvent) -> None:
@@ -180,10 +197,11 @@ class MainWindow(QMainWindow):
             for domain in inst_domain)
         # comboBox.setCurrentIndex(0)
         self.table.setCellWidget(self.lastRow, 1, comboBox)
-        # Add text for item. Not just widget
-        self.table.setItem(self.lastRow, 1, QTableWidgetItem(comboBox.currentText()))
+        self.dom_combotxt = comboBox.currentText()
         # Event for combobox
-        comboBox.currentIndexChanged.connect(self.selectionchange)
+        comboBox.currentTextChanged.connect(self.dselectionchange)
+        # Add text for item. Not just widget
+        self.table.setItem(self.lastRow, 1, QTableWidgetItem(self.dom_combotxt))
 
         # insert combobox for priority
         p_comboBox = QComboBox()
@@ -192,10 +210,11 @@ class MainWindow(QMainWindow):
             for priority in inst_priority)
         # comboBox.setCurrentIndex(0)
         self.table.setCellWidget(self.lastRow, 5, p_comboBox)
-        # Add text for item. Not just widget
-        self.table.setItem(self.lastRow, 5, QTableWidgetItem(p_comboBox.currentText()))
+        self.prior_combotxt = p_comboBox.currentText()
         # Event for combobox
-        #p_comboBox.currentIndexChanged.connect(self.selectionchange)
+        p_comboBox.currentTextChanged.connect(self.pselectionchange)
+        # Add text for item. Not just widget
+        self.table.setItem(self.lastRow, 5, QTableWidgetItem(self.prior_combotxt))
 
         # Remember new row at the ontology
         # self.save_row(self.lastRow)
@@ -234,13 +253,13 @@ class MainWindow(QMainWindow):
                     k_as[inst_people.index(i)] += 1
                     print(f"who have domain")
           #if k_as[i] > 0:  #just for people which match with needed domain
-            #-------- Check by priority.
+            #-------- Check by priority-----
             for r in role.related_to:
                 if i.is_role_of[0] == r:
                     k_as[inst_people.index(i)] += 1
                     print(f"who have qualification")
             # ------------Check by date-----------------
-            #determine date of last task of i_people
+            # determine date of last task of i_people
             if len(i.assigned) != 0:
                 for pt in i.assigned:#pt - people's task
                     #for ot in inst_task:#ot - from all tasks
@@ -295,6 +314,22 @@ class MainWindow(QMainWindow):
         # print(to_owl(self.bug_onto))
         pass
 
+    #set roles for people
+    def role_of_pers(self, pers):
+        if len(pers.assigned) != 0:
+            pr_task_i = [who.have_priority for who in pers.assigned ]
+            print(pers, pr_task_i, len(pers.assigned))
+            #https://ru.stackoverflow.com/questions/418982/%D0%9A%D0%BE%D0%BB%D0%B8%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%BE-%D0%BF%D0%BE%D0%B2%D1%82%D0%BE%D1%80%D1%8F%D1%8E%D1%89%D0%B8%D1%85%D1%81%D1%8F-%D1%8D%D0%BB%D0%B5%D0%BC%D0%B5%D0%BD%D1%82%D0%BE%D0%B2-%D0%B2-%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B5
+            #who often met
+            pr_i = max(set(pr_task_i), key=lambda x: pr_task_i.count(x))
+            # Он может выбрать любой из ролей.
+            role = pr_i.related_to[0]
+        else:
+            role = inst_role[0]
+            print(pers, 0)
+        pers.is_role_of.append(role)
+        pass
+
     def ontology(self, fileName=None, dir=None):
         '''
         if (fileName is None):
@@ -304,16 +339,23 @@ class MainWindow(QMainWindow):
             onto_path.append(path)
         bug_onto = get_ontology("file:.{}".format(fileName)).load()
         '''
-        for i in self.bug_onto.Domain.instances():
-            inst_domain.append(i)
-        for i in self.bug_onto.People.instances():
-            inst_people.append(i)
         for i in self.bug_onto.Task.instances():
             inst_task.append(i)
+        for i in self.bug_onto.Domain.instances():
+            inst_domain.append(i)
         for i in self.bug_onto.Priority.instances():
             inst_priority.append(i)
         for i in self.bug_onto.Role.instances():
             inst_role.append(i)
+        # отсортируем список ролей по уровням, а не по алфавиту.
+        # В д.случае лидера в конец.
+        # остальные правильно построены
+        inst_role.insert(len(inst_role),inst_role.pop(1))
+
+        for i in self.bug_onto.People.instances():
+            inst_people.append(i)
+            self.role_of_pers(i)
+
         self.my_table()
 
 

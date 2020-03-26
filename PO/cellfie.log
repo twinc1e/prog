@@ -1,0 +1,1816 @@
+Date: 2020-03-17 20:08:28
+Ontology source: /C:/Users/newLenovo/Desktop/prog/bug.owl
+Worksheet source: C:\Users\newLenovo\Desktop\prog\author.xlsx
+Transformation rules: C:\Users\newLenovo\Desktop\prog\PO\rules_stylesheet.json
+
+# Cell range: (author!F2:G+) Comment: ""
+# Individual: @** 
+#   Types: @*1
+
+Individual: 43901.90069444444  # Generated from value "43901.90069444444" located at cell 'author'!F2.
+   Types: Created
+Individual: 43901.76875  # Generated from value "43901.76875" located at cell 'author'!F3.
+   Types: Created
+Individual: 43901.48472222222  # Generated from value "43901.48472222222" located at cell 'author'!F4.
+   Types: Created
+Individual: 43901.31319444445  # Generated from value "43901.31319444445" located at cell 'author'!F5.
+   Types: Created
+Individual: 43900.981944444444  # Generated from value "43900.981944444444" located at cell 'author'!F6.
+   Types: Created
+Individual: 43896.38402777778  # Generated from value "43896.38402777778" located at cell 'author'!F7.
+   Types: Created
+Individual: 43895.51736111111  # Generated from value "43895.51736111111" located at cell 'author'!F8.
+   Types: Created
+Individual: 43895.424305555556  # Generated from value "43895.424305555556" located at cell 'author'!F9.
+   Types: Created
+Individual: 43893.37430555555  # Generated from value "43893.37430555555" located at cell 'author'!F10.
+   Types: Created
+Individual: 43893.35  # Generated from value "43893.35" located at cell 'author'!F11.
+   Types: Created
+Individual: 43893.17986111111  # Generated from value "43893.17986111111" located at cell 'author'!F12.
+   Types: Created
+Individual: 43892.42638888889  # Generated from value "43892.42638888889" located at cell 'author'!F13.
+   Types: Created
+Individual: 43891.138194444444  # Generated from value "43891.138194444444" located at cell 'author'!F14.
+   Types: Created
+Individual: 43891.10555555556  # Generated from value "43891.10555555556" located at cell 'author'!F15.
+   Types: Created
+Individual: 43891.10138888889  # Generated from value "43891.10138888889" located at cell 'author'!F16.
+   Types: Created
+Individual: 43889.83125  # Generated from value "43889.83125" located at cell 'author'!F17.
+   Types: Created
+Individual: 43889.779861111114  # Generated from value "43889.779861111114" located at cell 'author'!F18.
+   Types: Created
+Individual: 43889.404861111114  # Generated from value "43889.404861111114" located at cell 'author'!F19.
+   Types: Created
+Individual: 43887.419444444444  # Generated from value "43887.419444444444" located at cell 'author'!F20.
+   Types: Created
+Individual: 43887.356944444444  # Generated from value "43887.356944444444" located at cell 'author'!F21.
+   Types: Created
+Individual: 43885.200694444444  # Generated from value "43885.200694444444" located at cell 'author'!F22.
+   Types: Created
+Individual: 43884.711805555555  # Generated from value "43884.711805555555" located at cell 'author'!F23.
+   Types: Created
+Individual: 43882.06597222222  # Generated from value "43882.06597222222" located at cell 'author'!F24.
+   Types: Created
+Individual: 43881.15625  # Generated from value "43881.15625" located at cell 'author'!F25.
+   Types: Created
+Individual: 43875.79652777778  # Generated from value "43875.79652777778" located at cell 'author'!F26.
+   Types: Created
+Individual: 43874.88055555556  # Generated from value "43874.88055555556" located at cell 'author'!F27.
+   Types: Created
+Individual: 43874.86666666667  # Generated from value "43874.86666666667" located at cell 'author'!F28.
+   Types: Created
+Individual: 43874.32638888889  # Generated from value "43874.32638888889" located at cell 'author'!F29.
+   Types: Created
+Individual: 43874.13055555556  # Generated from value "43874.13055555556" located at cell 'author'!F30.
+   Types: Created
+Individual: 43873.56805555556  # Generated from value "43873.56805555556" located at cell 'author'!F31.
+   Types: Created
+Individual: 43873.20694444444  # Generated from value "43873.20694444444" located at cell 'author'!F32.
+   Types: Created
+Individual: 43872.09861111111  # Generated from value "43872.09861111111" located at cell 'author'!F33.
+   Types: Created
+Individual: 43869.62708333333  # Generated from value "43869.62708333333" located at cell 'author'!F34.
+   Types: Created
+Individual: 43868.506944444445  # Generated from value "43868.506944444445" located at cell 'author'!F35.
+   Types: Created
+Individual: 43868.444444444445  # Generated from value "43868.444444444445" located at cell 'author'!F36.
+   Types: Created
+Individual: 43868.42013888889  # Generated from value "43868.42013888889" located at cell 'author'!F37.
+   Types: Created
+Individual: 43867.60625  # Generated from value "43867.60625" located at cell 'author'!F38.
+   Types: Created
+Individual: 43867.461805555555  # Generated from value "43867.461805555555" located at cell 'author'!F39.
+   Types: Created
+Individual: 43865.68680555555  # Generated from value "43865.68680555555" located at cell 'author'!F40.
+   Types: Created
+Individual: 43865.40347222222  # Generated from value "43865.40347222222" located at cell 'author'!F41.
+   Types: Created
+Individual: 43864.78888888889  # Generated from value "43864.78888888889" located at cell 'author'!F42.
+   Types: Created
+Individual: 43864.103472222225  # Generated from value "43864.103472222225" located at cell 'author'!F43.
+   Types: Created
+Individual: 43862.30972222222  # Generated from value "43862.30972222222" located at cell 'author'!F44.
+   Types: Created
+Individual: 43861.36041666667  # Generated from value "43861.36041666667" located at cell 'author'!F45.
+   Types: Created
+Individual: 43861.11875  # Generated from value "43861.11875" located at cell 'author'!F46.
+   Types: Created
+Individual: 43860.65069444444  # Generated from value "43860.65069444444" located at cell 'author'!F47.
+   Types: Created
+Individual: 43860.60208333333  # Generated from value "43860.60208333333" located at cell 'author'!F48.
+   Types: Created
+Individual: 43860.197916666664  # Generated from value "43860.197916666664" located at cell 'author'!F49.
+   Types: Created
+Individual: 43859.48125  # Generated from value "43859.48125" located at cell 'author'!F50.
+   Types: Created
+Individual: 43859.33819444444  # Generated from value "43859.33819444444" located at cell 'author'!F51.
+   Types: Created
+Individual: 43858.98541666667  # Generated from value "43858.98541666667" located at cell 'author'!F52.
+   Types: Created
+Individual: 43858.933333333334  # Generated from value "43858.933333333334" located at cell 'author'!F53.
+   Types: Created
+Individual: 43858.915972222225  # Generated from value "43858.915972222225" located at cell 'author'!F54.
+   Types: Created
+Individual: 43857.68680555555  # Generated from value "43857.68680555555" located at cell 'author'!F55.
+   Types: Created
+Individual: 43856.92083333333  # Generated from value "43856.92083333333" located at cell 'author'!F56.
+   Types: Created
+Individual: 43856.67152777778  # Generated from value "43856.67152777778" located at cell 'author'!F57.
+   Types: Created
+Individual: 43856.65277777778  # Generated from value "43856.65277777778" located at cell 'author'!F58.
+   Types: Created
+Individual: 43854.479166666664  # Generated from value "43854.479166666664" located at cell 'author'!F59.
+   Types: Created
+Individual: 43854.10972222222  # Generated from value "43854.10972222222" located at cell 'author'!F60.
+   Types: Created
+Individual: 43852.379166666666  # Generated from value "43852.379166666666" located at cell 'author'!F61.
+   Types: Created
+Individual: 43850.26388888889  # Generated from value "43850.26388888889" located at cell 'author'!F62.
+   Types: Created
+Individual: 43849.83611111111  # Generated from value "43849.83611111111" located at cell 'author'!F63.
+   Types: Created
+Individual: 43849.30416666667  # Generated from value "43849.30416666667" located at cell 'author'!F64.
+   Types: Created
+Individual: 43848.44236111111  # Generated from value "43848.44236111111" located at cell 'author'!F65.
+   Types: Created
+Individual: 43847.842361111114  # Generated from value "43847.842361111114" located at cell 'author'!F66.
+   Types: Created
+Individual: 43847.06319444445  # Generated from value "43847.06319444445" located at cell 'author'!F67.
+   Types: Created
+Individual: 43847.02916666667  # Generated from value "43847.02916666667" located at cell 'author'!F68.
+   Types: Created
+Individual: 43846.416666666664  # Generated from value "43846.416666666664" located at cell 'author'!F69.
+   Types: Created
+Individual: 43845.17083333333  # Generated from value "43845.17083333333" located at cell 'author'!F70.
+   Types: Created
+Individual: 43844.71875  # Generated from value "43844.71875" located at cell 'author'!F71.
+   Types: Created
+Individual: 43844.61111111111  # Generated from value "43844.61111111111" located at cell 'author'!F72.
+   Types: Created
+Individual: 43843.53472222222  # Generated from value "43843.53472222222" located at cell 'author'!F73.
+   Types: Created
+Individual: 43843.368055555555  # Generated from value "43843.368055555555" located at cell 'author'!F74.
+   Types: Created
+Individual: 43842.27013888889  # Generated from value "43842.27013888889" located at cell 'author'!F75.
+   Types: Created
+Individual: 43842.239583333336  # Generated from value "43842.239583333336" located at cell 'author'!F76.
+   Types: Created
+Individual: 43841.29305555556  # Generated from value "43841.29305555556" located at cell 'author'!F77.
+   Types: Created
+Individual: 43840.663194444445  # Generated from value "43840.663194444445" located at cell 'author'!F78.
+   Types: Created
+Individual: 43840.64513888889  # Generated from value "43840.64513888889" located at cell 'author'!F79.
+   Types: Created
+Individual: 43838.677083333336  # Generated from value "43838.677083333336" located at cell 'author'!F80.
+   Types: Created
+Individual: 43838.51944444444  # Generated from value "43838.51944444444" located at cell 'author'!F81.
+   Types: Created
+Individual: 43838.48263888889  # Generated from value "43838.48263888889" located at cell 'author'!F82.
+   Types: Created
+Individual: 43838.45347222222  # Generated from value "43838.45347222222" located at cell 'author'!F83.
+   Types: Created
+Individual: 43838.45  # Generated from value "43838.45" located at cell 'author'!F84.
+   Types: Created
+Individual: 43837.97638888889  # Generated from value "43837.97638888889" located at cell 'author'!F85.
+   Types: Created
+Individual: 43837.60208333333  # Generated from value "43837.60208333333" located at cell 'author'!F86.
+   Types: Created
+Individual: 43835.88263888889  # Generated from value "43835.88263888889" located at cell 'author'!F87.
+   Types: Created
+Individual: 43835.38055555556  # Generated from value "43835.38055555556" located at cell 'author'!F88.
+   Types: Created
+Individual: 43834.214583333334  # Generated from value "43834.214583333334" located at cell 'author'!F89.
+   Types: Created
+Individual: 43833.67569444444  # Generated from value "43833.67569444444" located at cell 'author'!F90.
+   Types: Created
+Individual: 43833.55347222222  # Generated from value "43833.55347222222" located at cell 'author'!F91.
+   Types: Created
+Individual: 43825.09027777778  # Generated from value "43825.09027777778" located at cell 'author'!F92.
+   Types: Created
+Individual: 43820.07638888889  # Generated from value "43820.07638888889" located at cell 'author'!F93.
+   Types: Created
+Individual: 43817.78958333333  # Generated from value "43817.78958333333" located at cell 'author'!F94.
+   Types: Created
+Individual: 43817.665972222225  # Generated from value "43817.665972222225" located at cell 'author'!F95.
+   Types: Created
+Individual: 43817.48472222222  # Generated from value "43817.48472222222" located at cell 'author'!F96.
+   Types: Created
+Individual: 43817.13958333333  # Generated from value "43817.13958333333" located at cell 'author'!F97.
+   Types: Created
+Individual: 43817.13611111111  # Generated from value "43817.13611111111" located at cell 'author'!F98.
+   Types: Created
+Individual: 43816.60555555556  # Generated from value "43816.60555555556" located at cell 'author'!F99.
+   Types: Created
+Individual: 43815.430555555555  # Generated from value "43815.430555555555" located at cell 'author'!F100.
+   Types: Created
+Individual: 43814.29652777778  # Generated from value "43814.29652777778" located at cell 'author'!F101.
+   Types: Created
+Individual: 43812.524305555555  # Generated from value "43812.524305555555" located at cell 'author'!F102.
+   Types: Created
+Individual: 43811.71875  # Generated from value "43811.71875" located at cell 'author'!F103.
+   Types: Created
+Individual: 43809.89444444444  # Generated from value "43809.89444444444" located at cell 'author'!F104.
+   Types: Created
+Individual: 43809.52847222222  # Generated from value "43809.52847222222" located at cell 'author'!F105.
+   Types: Created
+Individual: 43809.35625  # Generated from value "43809.35625" located at cell 'author'!F106.
+   Types: Created
+Individual: 43805.73055555556  # Generated from value "43805.73055555556" located at cell 'author'!F107.
+   Types: Created
+Individual: 43804.71527777778  # Generated from value "43804.71527777778" located at cell 'author'!F108.
+   Types: Created
+Individual: 43804.59861111111  # Generated from value "43804.59861111111" located at cell 'author'!F109.
+   Types: Created
+Individual: 43804.29236111111  # Generated from value "43804.29236111111" located at cell 'author'!F110.
+   Types: Created
+Individual: 43801.45347222222  # Generated from value "43801.45347222222" located at cell 'author'!F111.
+   Types: Created
+Individual: 43801.36875  # Generated from value "43801.36875" located at cell 'author'!F112.
+   Types: Created
+Individual: 43801.350694444445  # Generated from value "43801.350694444445" located at cell 'author'!F113.
+   Types: Created
+Individual: 43801.066666666666  # Generated from value "43801.066666666666" located at cell 'author'!F114.
+   Types: Created
+Individual: 43799.1125  # Generated from value "43799.1125" located at cell 'author'!F115.
+   Types: Created
+Individual: 43798.60833333333  # Generated from value "43798.60833333333" located at cell 'author'!F116.
+   Types: Created
+Individual: 43798.37222222222  # Generated from value "43798.37222222222" located at cell 'author'!F117.
+   Types: Created
+Individual: 43798.35486111111  # Generated from value "43798.35486111111" located at cell 'author'!F118.
+   Types: Created
+Individual: 43798.174305555556  # Generated from value "43798.174305555556" located at cell 'author'!F119.
+   Types: Created
+Individual: 43798.14166666667  # Generated from value "43798.14166666667" located at cell 'author'!F120.
+   Types: Created
+Individual: 43797.444444444445  # Generated from value "43797.444444444445" located at cell 'author'!F122.
+   Types: Created
+Individual: 43797.441666666666  # Generated from value "43797.441666666666" located at cell 'author'!F123.
+   Types: Created
+Individual: 43796.43125  # Generated from value "43796.43125" located at cell 'author'!F124.
+   Types: Created
+Individual: 43791.256944444445  # Generated from value "43791.256944444445" located at cell 'author'!F125.
+   Types: Created
+Individual: 43790.75625  # Generated from value "43790.75625" located at cell 'author'!F126.
+   Types: Created
+Individual: 43790.743055555555  # Generated from value "43790.743055555555" located at cell 'author'!F127.
+   Types: Created
+Individual: 43790.38958333333  # Generated from value "43790.38958333333" located at cell 'author'!F128.
+   Types: Created
+Individual: 43790.364583333336  # Generated from value "43790.364583333336" located at cell 'author'!F129.
+   Types: Created
+Individual: 43789.395833333336  # Generated from value "43789.395833333336" located at cell 'author'!F130.
+   Types: Created
+Individual: 43788.4625  # Generated from value "43788.4625" located at cell 'author'!F131.
+   Types: Created
+Individual: 43787.52847222222  # Generated from value "43787.52847222222" located at cell 'author'!F132.
+   Types: Created
+Individual: 43787.12152777778  # Generated from value "43787.12152777778" located at cell 'author'!F133.
+   Types: Created
+Individual: 43784.44236111111  # Generated from value "43784.44236111111" located at cell 'author'!F134.
+   Types: Created
+Individual: 43783.69513888889  # Generated from value "43783.69513888889" located at cell 'author'!F135.
+   Types: Created
+Individual: 43783.44513888889  # Generated from value "43783.44513888889" located at cell 'author'!F136.
+   Types: Created
+Individual: 43783.17152777778  # Generated from value "43783.17152777778" located at cell 'author'!F137.
+   Types: Created
+Individual: 43782.677777777775  # Generated from value "43782.677777777775" located at cell 'author'!F138.
+   Types: Created
+Individual: 43782.6375  # Generated from value "43782.6375" located at cell 'author'!F139.
+   Types: Created
+Individual: 43781.245833333334  # Generated from value "43781.245833333334" located at cell 'author'!F140.
+   Types: Created
+Individual: 43781.14722222222  # Generated from value "43781.14722222222" located at cell 'author'!F141.
+   Types: Created
+Individual: 43780.6625  # Generated from value "43780.6625" located at cell 'author'!F142.
+   Types: Created
+Individual: 43780.149305555555  # Generated from value "43780.149305555555" located at cell 'author'!F143.
+   Types: Created
+Individual: 43777.36666666667  # Generated from value "43777.36666666667" located at cell 'author'!F144.
+   Types: Created
+Individual: 43776.46666666667  # Generated from value "43776.46666666667" located at cell 'author'!F145.
+   Types: Created
+Individual: 43776.3125  # Generated from value "43776.3125" located at cell 'author'!F146.
+   Types: Created
+Individual: 43776.27916666667  # Generated from value "43776.27916666667" located at cell 'author'!F147.
+   Types: Created
+Individual: 43776.22777777778  # Generated from value "43776.22777777778" located at cell 'author'!F148.
+   Types: Created
+Individual: 43775.31736111111  # Generated from value "43775.31736111111" located at cell 'author'!F149.
+   Types: Created
+Individual: 43774.56319444445  # Generated from value "43774.56319444445" located at cell 'author'!F150.
+   Types: Created
+Individual: 43774.38055555556  # Generated from value "43774.38055555556" located at cell 'author'!F151.
+   Types: Created
+Individual: 43773.913194444445  # Generated from value "43773.913194444445" located at cell 'author'!F152.
+   Types: Created
+Individual: 43773.072222222225  # Generated from value "43773.072222222225" located at cell 'author'!F153.
+   Types: Created
+Individual: 43769.44930555556  # Generated from value "43769.44930555556" located at cell 'author'!F154.
+   Types: Created
+Individual: 43769.41180555556  # Generated from value "43769.41180555556" located at cell 'author'!F155.
+   Types: Created
+Individual: 43768.42291666667  # Generated from value "43768.42291666667" located at cell 'author'!F156.
+   Types: Created
+Individual: 43767.14513888889  # Generated from value "43767.14513888889" located at cell 'author'!F157.
+   Types: Created
+Individual: 43766.43263888889  # Generated from value "43766.43263888889" located at cell 'author'!F158.
+   Types: Created
+Individual: 43765.39027777778  # Generated from value "43765.39027777778" located at cell 'author'!F159.
+   Types: Created
+Individual: 43765.36666666667  # Generated from value "43765.36666666667" located at cell 'author'!F160.
+   Types: Created
+Individual: 43763.74444444444  # Generated from value "43763.74444444444" located at cell 'author'!F161.
+   Types: Created
+Individual: 43762.97986111111  # Generated from value "43762.97986111111" located at cell 'author'!F162.
+   Types: Created
+Individual: 43761.69513888889  # Generated from value "43761.69513888889" located at cell 'author'!F163.
+   Types: Created
+Individual: 43761.66805555556  # Generated from value "43761.66805555556" located at cell 'author'!F164.
+   Types: Created
+Individual: 43760.38263888889  # Generated from value "43760.38263888889" located at cell 'author'!F165.
+   Types: Created
+Individual: 43760.38055555556  # Generated from value "43760.38055555556" located at cell 'author'!F166.
+   Types: Created
+Individual: 43760.333333333336  # Generated from value "43760.333333333336" located at cell 'author'!F167.
+   Types: Created
+Individual: 43760.17638888889  # Generated from value "43760.17638888889" located at cell 'author'!F168.
+   Types: Created
+Individual: 43759.802083333336  # Generated from value "43759.802083333336" located at cell 'author'!F169.
+   Types: Created
+Individual: 43759.24444444444  # Generated from value "43759.24444444444" located at cell 'author'!F170.
+   Types: Created
+Individual: 43758.725694444445  # Generated from value "43758.725694444445" located at cell 'author'!F171.
+   Types: Created
+Individual: 43758.634722222225  # Generated from value "43758.634722222225" located at cell 'author'!F172.
+   Types: Created
+Individual: 43758.60138888889  # Generated from value "43758.60138888889" located at cell 'author'!F173.
+   Types: Created
+Individual: 43758.100694444445  # Generated from value "43758.100694444445" located at cell 'author'!F174.
+   Types: Created
+Individual: 43757.94652777778  # Generated from value "43757.94652777778" located at cell 'author'!F175.
+   Types: Created
+Individual: 43757.43402777778  # Generated from value "43757.43402777778" located at cell 'author'!F176.
+   Types: Created
+Individual: 43756.375  # Generated from value "43756.375" located at cell 'author'!F177.
+   Types: Created
+Individual: 43756.240277777775  # Generated from value "43756.240277777775" located at cell 'author'!F178.
+   Types: Created
+Individual: 43755.45763888889  # Generated from value "43755.45763888889" located at cell 'author'!F179.
+   Types: Created
+Individual: 43755.404861111114  # Generated from value "43755.404861111114" located at cell 'author'!F180.
+   Types: Created
+Individual: 43754.34583333333  # Generated from value "43754.34583333333" located at cell 'author'!F181.
+   Types: Created
+Individual: 43754.319444444445  # Generated from value "43754.319444444445" located at cell 'author'!F182.
+   Types: Created
+Individual: 43754.15902777778  # Generated from value "43754.15902777778" located at cell 'author'!F183.
+   Types: Created
+Individual: 43752.29791666667  # Generated from value "43752.29791666667" located at cell 'author'!F184.
+   Types: Created
+Individual: 43749.48472222222  # Generated from value "43749.48472222222" located at cell 'author'!F185.
+   Types: Created
+Individual: 43749.30694444444  # Generated from value "43749.30694444444" located at cell 'author'!F186.
+   Types: Created
+Individual: 43747.8125  # Generated from value "43747.8125" located at cell 'author'!F187.
+   Types: Created
+Individual: 43747.29722222222  # Generated from value "43747.29722222222" located at cell 'author'!F188.
+   Types: Created
+Individual: 43747.12430555555  # Generated from value "43747.12430555555" located at cell 'author'!F189.
+   Types: Created
+Individual: 43745.23611111111  # Generated from value "43745.23611111111" located at cell 'author'!F190.
+   Types: Created
+Individual: 43744.43194444444  # Generated from value "43744.43194444444" located at cell 'author'!F191.
+   Types: Created
+Individual: 43744.30486111111  # Generated from value "43744.30486111111" located at cell 'author'!F192.
+   Types: Created
+Individual: 43744.2375  # Generated from value "43744.2375" located at cell 'author'!F193.
+   Types: Created
+Individual: 43743.49930555555  # Generated from value "43743.49930555555" located at cell 'author'!F194.
+   Types: Created
+Individual: 43743.22430555556  # Generated from value "43743.22430555556" located at cell 'author'!F195.
+   Types: Created
+Individual: 43742.893055555556  # Generated from value "43742.893055555556" located at cell 'author'!F196.
+   Types: Created
+Individual: 43742.5625  # Generated from value "43742.5625" located at cell 'author'!F197.
+   Types: Created
+Individual: 43742.36944444444  # Generated from value "43742.36944444444" located at cell 'author'!F198.
+   Types: Created
+Individual: 43742.30138888889  # Generated from value "43742.30138888889" located at cell 'author'!F199.
+   Types: Created
+Individual: 43741.64791666667  # Generated from value "43741.64791666667" located at cell 'author'!F200.
+   Types: Created
+Individual: 43741.57083333333  # Generated from value "43741.57083333333" located at cell 'author'!F201.
+   Types: Created
+Individual: 43738.06805555556  # Generated from value "43738.06805555556" located at cell 'author'!F202.
+   Types: Created
+Individual: 43737.62986111111  # Generated from value "43737.62986111111" located at cell 'author'!F203.
+   Types: Created
+Individual: 43737.529861111114  # Generated from value "43737.529861111114" located at cell 'author'!F204.
+   Types: Created
+Individual: 43736.61111111111  # Generated from value "43736.61111111111" located at cell 'author'!F205.
+   Types: Created
+Individual: 43734.725694444445  # Generated from value "43734.725694444445" located at cell 'author'!F206.
+   Types: Created
+Individual: 43734.32777777778  # Generated from value "43734.32777777778" located at cell 'author'!F207.
+   Types: Created
+Individual: 43734.263194444444  # Generated from value "43734.263194444444" located at cell 'author'!F208.
+   Types: Created
+Individual: 43734.236805555556  # Generated from value "43734.236805555556" located at cell 'author'!F209.
+   Types: Created
+Individual: 43734.20208333333  # Generated from value "43734.20208333333" located at cell 'author'!F210.
+   Types: Created
+Individual: 43733.708333333336  # Generated from value "43733.708333333336" located at cell 'author'!F211.
+   Types: Created
+Individual: 43732.20694444444  # Generated from value "43732.20694444444" located at cell 'author'!F212.
+   Types: Created
+Individual: 43732.16180555556  # Generated from value "43732.16180555556" located at cell 'author'!F213.
+   Types: Created
+Individual: 43731.78680555556  # Generated from value "43731.78680555556" located at cell 'author'!F214.
+   Types: Created
+Individual: 43731.67361111111  # Generated from value "43731.67361111111" located at cell 'author'!F215.
+   Types: Created
+Individual: 43730.35486111111  # Generated from value "43730.35486111111" located at cell 'author'!F216.
+   Types: Created
+Individual: 43727.711805555555  # Generated from value "43727.711805555555" located at cell 'author'!F217.
+   Types: Created
+Individual: 43726.5375  # Generated from value "43726.5375" located at cell 'author'!F218.
+   Types: Created
+Individual: 43724.53402777778  # Generated from value "43724.53402777778" located at cell 'author'!F219.
+   Types: Created
+Individual: 43724.46597222222  # Generated from value "43724.46597222222" located at cell 'author'!F220.
+   Types: Created
+Individual: 43723.41527777778  # Generated from value "43723.41527777778" located at cell 'author'!F221.
+   Types: Created
+Individual: 43720.37430555555  # Generated from value "43720.37430555555" located at cell 'author'!F222.
+   Types: Created
+Individual: 43719.53958333333  # Generated from value "43719.53958333333" located at cell 'author'!F223.
+   Types: Created
+Individual: 43719.10833333333  # Generated from value "43719.10833333333" located at cell 'author'!F224.
+   Types: Created
+Individual: 43717.802777777775  # Generated from value "43717.802777777775" located at cell 'author'!F225.
+   Types: Created
+Individual: 43716.751388888886  # Generated from value "43716.751388888886" located at cell 'author'!F226.
+   Types: Created
+Individual: 43714.28888888889  # Generated from value "43714.28888888889" located at cell 'author'!F227.
+   Types: Created
+Individual: 43713.41111111111  # Generated from value "43713.41111111111" located at cell 'author'!F228.
+   Types: Created
+Individual: 43713.41111111111  # Generated from value "43713.41111111111" located at cell 'author'!F229.
+   Types: Created
+Individual: 43713.19305555556  # Generated from value "43713.19305555556" located at cell 'author'!F230.
+   Types: Created
+Individual: 43712.80416666667  # Generated from value "43712.80416666667" located at cell 'author'!F231.
+   Types: Created
+Individual: 43712.79027777778  # Generated from value "43712.79027777778" located at cell 'author'!F232.
+   Types: Created
+Individual: 43712.78888888889  # Generated from value "43712.78888888889" located at cell 'author'!F233.
+   Types: Created
+Individual: 43712.78680555556  # Generated from value "43712.78680555556" located at cell 'author'!F234.
+   Types: Created
+Individual: 43712.78472222222  # Generated from value "43712.78472222222" located at cell 'author'!F235.
+   Types: Created
+Individual: 43711.97986111111  # Generated from value "43711.97986111111" located at cell 'author'!F236.
+   Types: Created
+Individual: 43711.30902777778  # Generated from value "43711.30902777778" located at cell 'author'!F237.
+   Types: Created
+Individual: 43711.23472222222  # Generated from value "43711.23472222222" located at cell 'author'!F238.
+   Types: Created
+Individual: 43710.30486111111  # Generated from value "43710.30486111111" located at cell 'author'!F239.
+   Types: Created
+Individual: 43708.60833333333  # Generated from value "43708.60833333333" located at cell 'author'!F240.
+   Types: Created
+Individual: 43707.58194444444  # Generated from value "43707.58194444444" located at cell 'author'!F241.
+   Types: Created
+Individual: 43707.393055555556  # Generated from value "43707.393055555556" located at cell 'author'!F242.
+   Types: Created
+Individual: 43707.13055555556  # Generated from value "43707.13055555556" located at cell 'author'!F243.
+   Types: Created
+Individual: 43706.4875  # Generated from value "43706.4875" located at cell 'author'!F244.
+   Types: Created
+Individual: 43706.12152777778  # Generated from value "43706.12152777778" located at cell 'author'!F245.
+   Types: Created
+Individual: 43705.32916666667  # Generated from value "43705.32916666667" located at cell 'author'!F246.
+   Types: Created
+Individual: 43705.30486111111  # Generated from value "43705.30486111111" located at cell 'author'!F247.
+   Types: Created
+Individual: 43705.26875  # Generated from value "43705.26875" located at cell 'author'!F248.
+   Types: Created
+Individual: 43705.174305555556  # Generated from value "43705.174305555556" located at cell 'author'!F249.
+   Types: Created
+Individual: 43704.47222222222  # Generated from value "43704.47222222222" located at cell 'author'!F250.
+   Types: Created
+Individual: 43704.3875  # Generated from value "43704.3875" located at cell 'author'!F251.
+   Types: Created
+Individual: 43703.34375  # Generated from value "43703.34375" located at cell 'author'!F252.
+   Types: Created
+Individual: 43702.427777777775  # Generated from value "43702.427777777775" located at cell 'author'!F253.
+   Types: Created
+Individual: 43702.100694444445  # Generated from value "43702.100694444445" located at cell 'author'!F254.
+   Types: Created
+Individual: 43701.17638888889  # Generated from value "43701.17638888889" located at cell 'author'!F255.
+   Types: Created
+Individual: 43700.41388888889  # Generated from value "43700.41388888889" located at cell 'author'!F256.
+   Types: Created
+Individual: 43699.683333333334  # Generated from value "43699.683333333334" located at cell 'author'!F257.
+   Types: Created
+Individual: 43697.81736111111  # Generated from value "43697.81736111111" located at cell 'author'!F258.
+   Types: Created
+Individual: 43696.92916666667  # Generated from value "43696.92916666667" located at cell 'author'!F259.
+   Types: Created
+Individual: 43696.71875  # Generated from value "43696.71875" located at cell 'author'!F260.
+   Types: Created
+Individual: 43694.756944444445  # Generated from value "43694.756944444445" located at cell 'author'!F261.
+   Types: Created
+Individual: 43694.24236111111  # Generated from value "43694.24236111111" located at cell 'author'!F262.
+   Types: Created
+Individual: 43693.67291666667  # Generated from value "43693.67291666667" located at cell 'author'!F263.
+   Types: Created
+Individual: 43693.18263888889  # Generated from value "43693.18263888889" located at cell 'author'!F264.
+   Types: Created
+Individual: 43693.17222222222  # Generated from value "43693.17222222222" located at cell 'author'!F265.
+   Types: Created
+Individual: 43692.46597222222  # Generated from value "43692.46597222222" located at cell 'author'!F266.
+   Types: Created
+Individual: 43691.68263888889  # Generated from value "43691.68263888889" located at cell 'author'!F267.
+   Types: Created
+Individual: 43691.50902777778  # Generated from value "43691.50902777778" located at cell 'author'!F268.
+   Types: Created
+Individual: 43690.92291666667  # Generated from value "43690.92291666667" located at cell 'author'!F269.
+   Types: Created
+Individual: 43690.572222222225  # Generated from value "43690.572222222225" located at cell 'author'!F270.
+   Types: Created
+Individual: 43690.083333333336  # Generated from value "43690.083333333336" located at cell 'author'!F271.
+   Types: Created
+Individual: 43689.24444444444  # Generated from value "43689.24444444444" located at cell 'author'!F272.
+   Types: Created
+Individual: 43688.59861111111  # Generated from value "43688.59861111111" located at cell 'author'!F273.
+   Types: Created
+Individual: 43687.652083333334  # Generated from value "43687.652083333334" located at cell 'author'!F274.
+   Types: Created
+Individual: 43686.71597222222  # Generated from value "43686.71597222222" located at cell 'author'!F275.
+   Types: Created
+Individual: 43686.7125  # Generated from value "43686.7125" located at cell 'author'!F276.
+   Types: Created
+Individual: 43685.15347222222  # Generated from value "43685.15347222222" located at cell 'author'!F277.
+   Types: Created
+Individual: 43684.33541666667  # Generated from value "43684.33541666667" located at cell 'author'!F278.
+   Types: Created
+Individual: 43684.270833333336  # Generated from value "43684.270833333336" located at cell 'author'!F279.
+   Types: Created
+Individual: 43683.91805555556  # Generated from value "43683.91805555556" located at cell 'author'!F280.
+   Types: Created
+Individual: 43681.913194444445  # Generated from value "43681.913194444445" located at cell 'author'!F281.
+   Types: Created
+Individual: 43677.410416666666  # Generated from value "43677.410416666666" located at cell 'author'!F282.
+   Types: Created
+Individual: 43676.549305555556  # Generated from value "43676.549305555556" located at cell 'author'!F283.
+   Types: Created
+Individual: 43676.30625  # Generated from value "43676.30625" located at cell 'author'!F284.
+   Types: Created
+Individual: 43675.381944444445  # Generated from value "43675.381944444445" located at cell 'author'!F285.
+   Types: Created
+Individual: 43672.205555555556  # Generated from value "43672.205555555556" located at cell 'author'!F286.
+   Types: Created
+Individual: 43671.46319444444  # Generated from value "43671.46319444444" located at cell 'author'!F287.
+   Types: Created
+Individual: 43669.74652777778  # Generated from value "43669.74652777778" located at cell 'author'!F288.
+   Types: Created
+Individual: 43669.711805555555  # Generated from value "43669.711805555555" located at cell 'author'!F289.
+   Types: Created
+Individual: 43668.69652777778  # Generated from value "43668.69652777778" located at cell 'author'!F290.
+   Types: Created
+Individual: 43663.98333333333  # Generated from value "43663.98333333333" located at cell 'author'!F291.
+   Types: Created
+Individual: 43663.566666666666  # Generated from value "43663.566666666666" located at cell 'author'!F292.
+   Types: Created
+Individual: 43663.40069444444  # Generated from value "43663.40069444444" located at cell 'author'!F293.
+   Types: Created
+Individual: 43662.691666666666  # Generated from value "43662.691666666666" located at cell 'author'!F294.
+   Types: Created
+Individual: 43662.433333333334  # Generated from value "43662.433333333334" located at cell 'author'!F295.
+   Types: Created
+Individual: 43661.90902777778  # Generated from value "43661.90902777778" located at cell 'author'!F296.
+   Types: Created
+Individual: 43661.82361111111  # Generated from value "43661.82361111111" located at cell 'author'!F297.
+   Types: Created
+Individual: 43661.70277777778  # Generated from value "43661.70277777778" located at cell 'author'!F298.
+   Types: Created
+Individual: 43661.39861111111  # Generated from value "43661.39861111111" located at cell 'author'!F299.
+   Types: Created
+Individual: 43659.334027777775  # Generated from value "43659.334027777775" located at cell 'author'!F300.
+   Types: Created
+Individual: 43658.78611111111  # Generated from value "43658.78611111111" located at cell 'author'!F301.
+   Types: Created
+Individual: 43902.37222222222  # Generated from value "43902.37222222222" located at cell 'author'!G2.
+   Types: Closed
+Individual: 43901.98333333333  # Generated from value "43901.98333333333" located at cell 'author'!G3.
+   Types: Closed
+Individual: 43901.57986111111  # Generated from value "43901.57986111111" located at cell 'author'!G4.
+   Types: Closed
+Individual: 43901.36597222222  # Generated from value "43901.36597222222" located at cell 'author'!G5.
+   Types: Closed
+Individual: 43901.020833333336  # Generated from value "43901.020833333336" located at cell 'author'!G6.
+   Types: Closed
+Individual: 43901.02013888889  # Generated from value "43901.02013888889" located at cell 'author'!G7.
+   Types: Closed
+Individual: 43895.575694444444  # Generated from value "43895.575694444444" located at cell 'author'!G8.
+   Types: Closed
+Individual: 43897.38888888889  # Generated from value "43897.38888888889" located at cell 'author'!G9.
+   Types: Closed
+Individual: 43894.44097222222  # Generated from value "43894.44097222222" located at cell 'author'!G10.
+   Types: Closed
+Individual: 43894.354166666664  # Generated from value "43894.354166666664" located at cell 'author'!G11.
+   Types: Closed
+Individual: 43893.52013888889  # Generated from value "43893.52013888889" located at cell 'author'!G12.
+   Types: Closed
+Individual: 43899.26666666667  # Generated from value "43899.26666666667" located at cell 'author'!G13.
+   Types: Closed
+Individual: 43891.14097222222  # Generated from value "43891.14097222222" located at cell 'author'!G14.
+   Types: Closed
+Individual: 43893.052083333336  # Generated from value "43893.052083333336" located at cell 'author'!G15.
+   Types: Closed
+Individual: 43891.15277777778  # Generated from value "43891.15277777778" located at cell 'author'!G16.
+   Types: Closed
+Individual: 43890.19513888889  # Generated from value "43890.19513888889" located at cell 'author'!G17.
+   Types: Closed
+Individual: 43890.54027777778  # Generated from value "43890.54027777778" located at cell 'author'!G18.
+   Types: Closed
+Individual: 43890.64375  # Generated from value "43890.64375" located at cell 'author'!G19.
+   Types: Closed
+Individual: 43887.731944444444  # Generated from value "43887.731944444444" located at cell 'author'!G20.
+   Types: Closed
+Individual: 43894.36597222222  # Generated from value "43894.36597222222" located at cell 'author'!G21.
+   Types: Closed
+Individual: 43887.34583333333  # Generated from value "43887.34583333333" located at cell 'author'!G22.
+   Types: Closed
+Individual: 43885.299305555556  # Generated from value "43885.299305555556" located at cell 'author'!G23.
+   Types: Closed
+Individual: 43882.20694444444  # Generated from value "43882.20694444444" located at cell 'author'!G24.
+   Types: Closed
+Individual: 43890.19513888889  # Generated from value "43890.19513888889" located at cell 'author'!G25.
+   Types: Closed
+Individual: 43891.14097222222  # Generated from value "43891.14097222222" located at cell 'author'!G26.
+   Types: Closed
+Individual: 43881.56527777778  # Generated from value "43881.56527777778" located at cell 'author'!G27.
+   Types: Closed
+Individual: 43885.17986111111  # Generated from value "43885.17986111111" located at cell 'author'!G28.
+   Types: Closed
+Individual: 43879.12013888889  # Generated from value "43879.12013888889" located at cell 'author'!G29.
+   Types: Closed
+Individual: 43874.13402777778  # Generated from value "43874.13402777778" located at cell 'author'!G30.
+   Types: Closed
+Individual: 43890.652083333334  # Generated from value "43890.652083333334" located at cell 'author'!G31.
+   Types: Closed
+Individual: 43873.58194444444  # Generated from value "43873.58194444444" located at cell 'author'!G32.
+   Types: Closed
+Individual: 43880.697916666664  # Generated from value "43880.697916666664" located at cell 'author'!G33.
+   Types: Closed
+Individual: 43890.65069444444  # Generated from value "43890.65069444444" located at cell 'author'!G34.
+   Types: Closed
+Individual: 43869.37152777778  # Generated from value "43869.37152777778" located at cell 'author'!G35.
+   Types: Closed
+Individual: 43869.794444444444  # Generated from value "43869.794444444444" located at cell 'author'!G36.
+   Types: Closed
+Individual: 43868.839583333334  # Generated from value "43868.839583333334" located at cell 'author'!G37.
+   Types: Closed
+Individual: 43868.83888888889  # Generated from value "43868.83888888889" located at cell 'author'!G38.
+   Types: Closed
+Individual: 43870.06041666667  # Generated from value "43870.06041666667" located at cell 'author'!G39.
+   Types: Closed
+Individual: 43866.7  # Generated from value "43866.7" located at cell 'author'!G40.
+   Types: Closed
+Individual: 43874.10972222222  # Generated from value "43874.10972222222" located at cell 'author'!G41.
+   Types: Closed
+Individual: 43865.20347222222  # Generated from value "43865.20347222222" located at cell 'author'!G42.
+   Types: Closed
+Individual: 43867.57638888889  # Generated from value "43867.57638888889" located at cell 'author'!G43.
+   Types: Closed
+Individual: 43863.06319444445  # Generated from value "43863.06319444445" located at cell 'author'!G44.
+   Types: Closed
+Individual: 43865.25625  # Generated from value "43865.25625" located at cell 'author'!G45.
+   Types: Closed
+Individual: 43861.347916666666  # Generated from value "43861.347916666666" located at cell 'author'!G46.
+   Types: Closed
+Individual: 43860.654861111114  # Generated from value "43860.654861111114" located at cell 'author'!G47.
+   Types: Closed
+Individual: 43879.12986111111  # Generated from value "43879.12986111111" located at cell 'author'!G48.
+   Types: Closed
+Individual: 43890.67569444444  # Generated from value "43890.67569444444" located at cell 'author'!G49.
+   Types: Closed
+Individual: 43860.657638888886  # Generated from value "43860.657638888886" located at cell 'author'!G50.
+   Types: Closed
+Individual: 43860.643055555556  # Generated from value "43860.643055555556" located at cell 'author'!G51.
+   Types: Closed
+Individual: 43864.675  # Generated from value "43864.675" located at cell 'author'!G52.
+   Types: Closed
+Individual: 43865.33263888889  # Generated from value "43865.33263888889" located at cell 'author'!G53.
+   Types: Closed
+Individual: 43865.46111111111  # Generated from value "43865.46111111111" located at cell 'author'!G54.
+   Types: Closed
+Individual: 43871.05347222222  # Generated from value "43871.05347222222" located at cell 'author'!G55.
+   Types: Closed
+Individual: 43858.16736111111  # Generated from value "43858.16736111111" located at cell 'author'!G56.
+   Types: Closed
+Individual: 43856.96527777778  # Generated from value "43856.96527777778" located at cell 'author'!G57.
+   Types: Closed
+Individual: 43857.20416666667  # Generated from value "43857.20416666667" located at cell 'author'!G58.
+   Types: Closed
+Individual: 43856.629166666666  # Generated from value "43856.629166666666" located at cell 'author'!G59.
+   Types: Closed
+Individual: 43855.17291666667  # Generated from value "43855.17291666667" located at cell 'author'!G60.
+   Types: Closed
+Individual: 43888.32777777778  # Generated from value "43888.32777777778" located at cell 'author'!G61.
+   Types: Closed
+Individual: 43857.626388888886  # Generated from value "43857.626388888886" located at cell 'author'!G62.
+   Types: Closed
+Individual: 43855.14513888889  # Generated from value "43855.14513888889" located at cell 'author'!G63.
+   Types: Closed
+Individual: 43851.032638888886  # Generated from value "43851.032638888886" located at cell 'author'!G64.
+   Types: Closed
+Individual: 43857.36875  # Generated from value "43857.36875" located at cell 'author'!G65.
+   Types: Closed
+Individual: 43848.45763888889  # Generated from value "43848.45763888889" located at cell 'author'!G66.
+   Types: Closed
+Individual: 43851.02638888889  # Generated from value "43851.02638888889" located at cell 'author'!G67.
+   Types: Closed
+Individual: 43874.22152777778  # Generated from value "43874.22152777778" located at cell 'author'!G68.
+   Types: Closed
+Individual: 43872.09097222222  # Generated from value "43872.09097222222" located at cell 'author'!G69.
+   Types: Closed
+Individual: 43848.05763888889  # Generated from value "43848.05763888889" located at cell 'author'!G70.
+   Types: Closed
+Individual: 43845.43958333333  # Generated from value "43845.43958333333" located at cell 'author'!G71.
+   Types: Closed
+Individual: 43846.092361111114  # Generated from value "43846.092361111114" located at cell 'author'!G72.
+   Types: Closed
+Individual: 43844.243055555555  # Generated from value "43844.243055555555" located at cell 'author'!G73.
+   Types: Closed
+Individual: 43844.311111111114  # Generated from value "43844.311111111114" located at cell 'author'!G74.
+   Types: Closed
+Individual: 43856.095138888886  # Generated from value "43856.095138888886" located at cell 'author'!G75.
+   Types: Closed
+Individual: 43844.072916666664  # Generated from value "43844.072916666664" located at cell 'author'!G76.
+   Types: Closed
+Individual: 43842.30347222222  # Generated from value "43842.30347222222" located at cell 'author'!G77.
+   Types: Closed
+Individual: 43842.34583333333  # Generated from value "43842.34583333333" located at cell 'author'!G78.
+   Types: Closed
+Individual: 43842.8375  # Generated from value "43842.8375" located at cell 'author'!G79.
+   Types: Closed
+Individual: 43840.138194444444  # Generated from value "43840.138194444444" located at cell 'author'!G80.
+   Types: Closed
+Individual: 43849.15694444445  # Generated from value "43849.15694444445" located at cell 'author'!G81.
+   Types: Closed
+Individual: 43842.70486111111  # Generated from value "43842.70486111111" located at cell 'author'!G82.
+   Types: Closed
+Individual: 43842.33611111111  # Generated from value "43842.33611111111" located at cell 'author'!G83.
+   Types: Closed
+Individual: 43842.32013888889  # Generated from value "43842.32013888889" located at cell 'author'!G84.
+   Types: Closed
+Individual: 43865.645833333336  # Generated from value "43865.645833333336" located at cell 'author'!G85.
+   Types: Closed
+Individual: 43837.62152777778  # Generated from value "43837.62152777778" located at cell 'author'!G86.
+   Types: Closed
+Individual: 43838.35833333333  # Generated from value "43838.35833333333" located at cell 'author'!G87.
+   Types: Closed
+Individual: 43843.069444444445  # Generated from value "43843.069444444445" located at cell 'author'!G88.
+   Types: Closed
+Individual: 43854.02013888889  # Generated from value "43854.02013888889" located at cell 'author'!G89.
+   Types: Closed
+Individual: 43836.419444444444  # Generated from value "43836.419444444444" located at cell 'author'!G90.
+   Types: Closed
+Individual: 43839.19861111111  # Generated from value "43839.19861111111" located at cell 'author'!G91.
+   Types: Closed
+Individual: 43825.77013888889  # Generated from value "43825.77013888889" located at cell 'author'!G92.
+   Types: Closed
+Individual: 43867.072222222225  # Generated from value "43867.072222222225" located at cell 'author'!G93.
+   Types: Closed
+Individual: 43835.6625  # Generated from value "43835.6625" located at cell 'author'!G94.
+   Types: Closed
+Individual: 43817.68680555555  # Generated from value "43817.68680555555" located at cell 'author'!G95.
+   Types: Closed
+Individual: 43899.49791666667  # Generated from value "43899.49791666667" located at cell 'author'!G96.
+   Types: Closed
+Individual: 43817.14097222222  # Generated from value "43817.14097222222" located at cell 'author'!G97.
+   Types: Closed
+Individual: 43834.24097222222  # Generated from value "43834.24097222222" located at cell 'author'!G98.
+   Types: Closed
+Individual: 43817.35486111111  # Generated from value "43817.35486111111" located at cell 'author'!G99.
+   Types: Closed
+Individual: 43815.486805555556  # Generated from value "43815.486805555556" located at cell 'author'!G100.
+   Types: Closed
+Individual: 43822.44097222222  # Generated from value "43822.44097222222" located at cell 'author'!G101.
+   Types: Closed
+Individual: 43812.86875  # Generated from value "43812.86875" located at cell 'author'!G102.
+   Types: Closed
+Individual: 43851.23263888889  # Generated from value "43851.23263888889" located at cell 'author'!G103.
+   Types: Closed
+Individual: 43810.13611111111  # Generated from value "43810.13611111111" located at cell 'author'!G104.
+   Types: Closed
+Individual: 43810.42152777778  # Generated from value "43810.42152777778" located at cell 'author'!G105.
+   Types: Closed
+Individual: 43810.63125  # Generated from value "43810.63125" located at cell 'author'!G106.
+   Types: Closed
+Individual: 43805.78194444445  # Generated from value "43805.78194444445" located at cell 'author'!G107.
+   Types: Closed
+Individual: 43805.259722222225  # Generated from value "43805.259722222225" located at cell 'author'!G108.
+   Types: Closed
+Individual: 43804.63055555556  # Generated from value "43804.63055555556" located at cell 'author'!G109.
+   Types: Closed
+Individual: 43805.024305555555  # Generated from value "43805.024305555555" located at cell 'author'!G110.
+   Types: Closed
+Individual: 43812.066666666666  # Generated from value "43812.066666666666" located at cell 'author'!G111.
+   Types: Closed
+Individual: 43802.302083333336  # Generated from value "43802.302083333336" located at cell 'author'!G112.
+   Types: Closed
+Individual: 43853.69652777778  # Generated from value "43853.69652777778" located at cell 'author'!G113.
+   Types: Closed
+Individual: 43801.15  # Generated from value "43801.15" located at cell 'author'!G114.
+   Types: Closed
+Individual: 43800.37430555555  # Generated from value "43800.37430555555" located at cell 'author'!G115.
+   Types: Closed
+Individual: 43801.4125  # Generated from value "43801.4125" located at cell 'author'!G116.
+   Types: Closed
+Individual: 43798.37291666667  # Generated from value "43798.37291666667" located at cell 'author'!G117.
+   Types: Closed
+Individual: 43798.365277777775  # Generated from value "43798.365277777775" located at cell 'author'!G118.
+   Types: Closed
+Individual: 43808.569444444445  # Generated from value "43808.569444444445" located at cell 'author'!G119.
+   Types: Closed
+Individual: 43844.65277777778  # Generated from value "43844.65277777778" located at cell 'author'!G120.
+   Types: Closed
+Individual: 43818.08194444444  # Generated from value "43818.08194444444" located at cell 'author'!G122.
+   Types: Closed
+Individual: 43807.04861111111  # Generated from value "43807.04861111111" located at cell 'author'!G123.
+   Types: Closed
+Individual: 43797.46319444444  # Generated from value "43797.46319444444" located at cell 'author'!G124.
+   Types: Closed
+Individual: 43801.11041666667  # Generated from value "43801.11041666667" located at cell 'author'!G125.
+   Types: Closed
+Individual: 43792.17013888889  # Generated from value "43792.17013888889" located at cell 'author'!G126.
+   Types: Closed
+Individual: 43805.061111111114  # Generated from value "43805.061111111114" located at cell 'author'!G127.
+   Types: Closed
+Individual: 43792.17361111111  # Generated from value "43792.17361111111" located at cell 'author'!G128.
+   Types: Closed
+Individual: 43790.4  # Generated from value "43790.4" located at cell 'author'!G129.
+   Types: Closed
+Individual: 43789.6  # Generated from value "43789.6" located at cell 'author'!G130.
+   Types: Closed
+Individual: 43792.177777777775  # Generated from value "43792.177777777775" located at cell 'author'!G131.
+   Types: Closed
+Individual: 43788.04861111111  # Generated from value "43788.04861111111" located at cell 'author'!G132.
+   Types: Closed
+Individual: 43788.05486111111  # Generated from value "43788.05486111111" located at cell 'author'!G133.
+   Types: Closed
+Individual: 43865.24166666667  # Generated from value "43865.24166666667" located at cell 'author'!G134.
+   Types: Closed
+Individual: 43784.04722222222  # Generated from value "43784.04722222222" located at cell 'author'!G135.
+   Types: Closed
+Individual: 43784.32013888889  # Generated from value "43784.32013888889" located at cell 'author'!G136.
+   Types: Closed
+Individual: 43785.48125  # Generated from value "43785.48125" located at cell 'author'!G137.
+   Types: Closed
+Individual: 43812.42152777778  # Generated from value "43812.42152777778" located at cell 'author'!G138.
+   Types: Closed
+Individual: 43783.02777777778  # Generated from value "43783.02777777778" located at cell 'author'!G139.
+   Types: Closed
+Individual: 43783.058333333334  # Generated from value "43783.058333333334" located at cell 'author'!G140.
+   Types: Closed
+Individual: 43802.42847222222  # Generated from value "43802.42847222222" located at cell 'author'!G141.
+   Types: Closed
+Individual: 43888.09861111111  # Generated from value "43888.09861111111" located at cell 'author'!G142.
+   Types: Closed
+Individual: 43782.964583333334  # Generated from value "43782.964583333334" located at cell 'author'!G143.
+   Types: Closed
+Individual: 43789.67222222222  # Generated from value "43789.67222222222" located at cell 'author'!G144.
+   Types: Closed
+Individual: 43776.669444444444  # Generated from value "43776.669444444444" located at cell 'author'!G145.
+   Types: Closed
+Individual: 43778.35625  # Generated from value "43778.35625" located at cell 'author'!G146.
+   Types: Closed
+Individual: 43779.37152777778  # Generated from value "43779.37152777778" located at cell 'author'!G147.
+   Types: Closed
+Individual: 43806.12430555555  # Generated from value "43806.12430555555" located at cell 'author'!G148.
+   Types: Closed
+Individual: 43809.10833333333  # Generated from value "43809.10833333333" located at cell 'author'!G149.
+   Types: Closed
+Individual: 43781.569444444445  # Generated from value "43781.569444444445" located at cell 'author'!G150.
+   Types: Closed
+Individual: 43774.48333333333  # Generated from value "43774.48333333333" located at cell 'author'!G151.
+   Types: Closed
+Individual: 43775.62013888889  # Generated from value "43775.62013888889" located at cell 'author'!G152.
+   Types: Closed
+Individual: 43773.26458333333  # Generated from value "43773.26458333333" located at cell 'author'!G153.
+   Types: Closed
+Individual: 43851.12152777778  # Generated from value "43851.12152777778" located at cell 'author'!G154.
+   Types: Closed
+Individual: 43769.4125  # Generated from value "43769.4125" located at cell 'author'!G155.
+   Types: Closed
+Individual: 43768.43125  # Generated from value "43768.43125" located at cell 'author'!G156.
+   Types: Closed
+Individual: 43767.98125  # Generated from value "43767.98125" located at cell 'author'!G157.
+   Types: Closed
+Individual: 43767.37986111111  # Generated from value "43767.37986111111" located at cell 'author'!G158.
+   Types: Closed
+Individual: 43766.42847222222  # Generated from value "43766.42847222222" located at cell 'author'!G159.
+   Types: Closed
+Individual: 43765.37847222222  # Generated from value "43765.37847222222" located at cell 'author'!G160.
+   Types: Closed
+Individual: 43764.33611111111  # Generated from value "43764.33611111111" located at cell 'author'!G161.
+   Types: Closed
+Individual: 43763.08194444444  # Generated from value "43763.08194444444" located at cell 'author'!G162.
+   Types: Closed
+Individual: 43762.11597222222  # Generated from value "43762.11597222222" located at cell 'author'!G163.
+   Types: Closed
+Individual: 43773.131944444445  # Generated from value "43773.131944444445" located at cell 'author'!G164.
+   Types: Closed
+Individual: 43760.4  # Generated from value "43760.4" located at cell 'author'!G165.
+   Types: Closed
+Individual: 43773.135416666664  # Generated from value "43773.135416666664" located at cell 'author'!G166.
+   Types: Closed
+Individual: 43760.9375  # Generated from value "43760.9375" located at cell 'author'!G167.
+   Types: Closed
+Individual: 43760.26875  # Generated from value "43760.26875" located at cell 'author'!G168.
+   Types: Closed
+Individual: 43839.520833333336  # Generated from value "43839.520833333336" located at cell 'author'!G169.
+   Types: Closed
+Individual: 43760.16805555556  # Generated from value "43760.16805555556" located at cell 'author'!G170.
+   Types: Closed
+Individual: 43760.6125  # Generated from value "43760.6125" located at cell 'author'!G171.
+   Types: Closed
+Individual: 43760.675  # Generated from value "43760.675" located at cell 'author'!G172.
+   Types: Closed
+Individual: 43765.0875  # Generated from value "43765.0875" located at cell 'author'!G173.
+   Types: Closed
+Individual: 43758.45277777778  # Generated from value "43758.45277777778" located at cell 'author'!G174.
+   Types: Closed
+Individual: 43761.13958333333  # Generated from value "43761.13958333333" located at cell 'author'!G175.
+   Types: Closed
+Individual: 43757.43541666667  # Generated from value "43757.43541666667" located at cell 'author'!G176.
+   Types: Closed
+Individual: 43760.14861111111  # Generated from value "43760.14861111111" located at cell 'author'!G177.
+   Types: Closed
+Individual: 43757.47083333333  # Generated from value "43757.47083333333" located at cell 'author'!G178.
+   Types: Closed
+Individual: 43755.4625  # Generated from value "43755.4625" located at cell 'author'!G179.
+   Types: Closed
+Individual: 43755.67222222222  # Generated from value "43755.67222222222" located at cell 'author'!G180.
+   Types: Closed
+Individual: 43769.58888888889  # Generated from value "43769.58888888889" located at cell 'author'!G181.
+   Types: Closed
+Individual: 43754.322916666664  # Generated from value "43754.322916666664" located at cell 'author'!G182.
+   Types: Closed
+Individual: 43754.32361111111  # Generated from value "43754.32361111111" located at cell 'author'!G183.
+   Types: Closed
+Individual: 43769.59722222222  # Generated from value "43769.59722222222" located at cell 'author'!G184.
+   Types: Closed
+Individual: 43769.135416666664  # Generated from value "43769.135416666664" located at cell 'author'!G185.
+   Types: Closed
+Individual: 43867.64236111111  # Generated from value "43867.64236111111" located at cell 'author'!G186.
+   Types: Closed
+Individual: 43748.67013888889  # Generated from value "43748.67013888889" located at cell 'author'!G187.
+   Types: Closed
+Individual: 43751.08611111111  # Generated from value "43751.08611111111" located at cell 'author'!G188.
+   Types: Closed
+Individual: 43762.177083333336  # Generated from value "43762.177083333336" located at cell 'author'!G189.
+   Types: Closed
+Individual: 43745.25763888889  # Generated from value "43745.25763888889" located at cell 'author'!G190.
+   Types: Closed
+Individual: 43744.538194444445  # Generated from value "43744.538194444445" located at cell 'author'!G191.
+   Types: Closed
+Individual: 43746.149305555555  # Generated from value "43746.149305555555" located at cell 'author'!G192.
+   Types: Closed
+Individual: 43745.79861111111  # Generated from value "43745.79861111111" located at cell 'author'!G193.
+   Types: Closed
+Individual: 43743.501388888886  # Generated from value "43743.501388888886" located at cell 'author'!G194.
+   Types: Closed
+Individual: 43744.220138888886  # Generated from value "43744.220138888886" located at cell 'author'!G195.
+   Types: Closed
+Individual: 43748.69027777778  # Generated from value "43748.69027777778" located at cell 'author'!G196.
+   Types: Closed
+Individual: 43771.652083333334  # Generated from value "43771.652083333334" located at cell 'author'!G197.
+   Types: Closed
+Individual: 43799.0875  # Generated from value "43799.0875" located at cell 'author'!G198.
+   Types: Closed
+Individual: 43743.22777777778  # Generated from value "43743.22777777778" located at cell 'author'!G199.
+   Types: Closed
+Individual: 43741.65  # Generated from value "43741.65" located at cell 'author'!G200.
+   Types: Closed
+Individual: 43741.572916666664  # Generated from value "43741.572916666664" located at cell 'author'!G201.
+   Types: Closed
+Individual: 43760.65972222222  # Generated from value "43760.65972222222" located at cell 'author'!G202.
+   Types: Closed
+Individual: 43740.13125  # Generated from value "43740.13125" located at cell 'author'!G203.
+   Types: Closed
+Individual: 43746.620833333334  # Generated from value "43746.620833333334" located at cell 'author'!G204.
+   Types: Closed
+Individual: 43741.59027777778  # Generated from value "43741.59027777778" located at cell 'author'!G205.
+   Types: Closed
+Individual: 43865.555555555555  # Generated from value "43865.555555555555" located at cell 'author'!G206.
+   Types: Closed
+Individual: 43734.370833333334  # Generated from value "43734.370833333334" located at cell 'author'!G207.
+   Types: Closed
+Individual: 43744.163194444445  # Generated from value "43744.163194444445" located at cell 'author'!G208.
+   Types: Closed
+Individual: 43734.23888888889  # Generated from value "43734.23888888889" located at cell 'author'!G209.
+   Types: Closed
+Individual: 43734.22222222222  # Generated from value "43734.22222222222" located at cell 'author'!G210.
+   Types: Closed
+Individual: 43733.756944444445  # Generated from value "43733.756944444445" located at cell 'author'!G211.
+   Types: Closed
+Individual: 43735.14513888889  # Generated from value "43735.14513888889" located at cell 'author'!G212.
+   Types: Closed
+Individual: 43742.55416666667  # Generated from value "43742.55416666667" located at cell 'author'!G213.
+   Types: Closed
+Individual: 43732.06597222222  # Generated from value "43732.06597222222" located at cell 'author'!G214.
+   Types: Closed
+Individual: 43748.669444444444  # Generated from value "43748.669444444444" located at cell 'author'!G215.
+   Types: Closed
+Individual: 43742.0625  # Generated from value "43742.0625" located at cell 'author'!G216.
+   Types: Closed
+Individual: 43728.146527777775  # Generated from value "43728.146527777775" located at cell 'author'!G217.
+   Types: Closed
+Individual: 43727.149305555555  # Generated from value "43727.149305555555" located at cell 'author'!G218.
+   Types: Closed
+Individual: 43725.259722222225  # Generated from value "43725.259722222225" located at cell 'author'!G219.
+   Types: Closed
+Individual: 43724.475  # Generated from value "43724.475" located at cell 'author'!G220.
+   Types: Closed
+Individual: 43744.45486111111  # Generated from value "43744.45486111111" located at cell 'author'!G221.
+   Types: Closed
+Individual: 43729.41111111111  # Generated from value "43729.41111111111" located at cell 'author'!G222.
+   Types: Closed
+Individual: 43725.052777777775  # Generated from value "43725.052777777775" located at cell 'author'!G223.
+   Types: Closed
+Individual: 43721.03888888889  # Generated from value "43721.03888888889" located at cell 'author'!G224.
+   Types: Closed
+Individual: 43718.91111111111  # Generated from value "43718.91111111111" located at cell 'author'!G225.
+   Types: Closed
+Individual: 43723.0875  # Generated from value "43723.0875" located at cell 'author'!G226.
+   Types: Closed
+Individual: 43721.45277777778  # Generated from value "43721.45277777778" located at cell 'author'!G227.
+   Types: Closed
+Individual: 43713.495833333334  # Generated from value "43713.495833333334" located at cell 'author'!G228.
+   Types: Closed
+Individual: 43713.521527777775  # Generated from value "43713.521527777775" located at cell 'author'!G229.
+   Types: Closed
+Individual: 43713.37569444445  # Generated from value "43713.37569444445" located at cell 'author'!G230.
+   Types: Closed
+Individual: 43713.55625  # Generated from value "43713.55625" located at cell 'author'!G231.
+   Types: Closed
+Individual: 43731.19097222222  # Generated from value "43731.19097222222" located at cell 'author'!G232.
+   Types: Closed
+Individual: 43740.69583333333  # Generated from value "43740.69583333333" located at cell 'author'!G233.
+   Types: Closed
+Individual: 43734.48472222222  # Generated from value "43734.48472222222" located at cell 'author'!G234.
+   Types: Closed
+Individual: 43713.08541666667  # Generated from value "43713.08541666667" located at cell 'author'!G235.
+   Types: Closed
+Individual: 43713.25763888889  # Generated from value "43713.25763888889" located at cell 'author'!G236.
+   Types: Closed
+Individual: 43711.345138888886  # Generated from value "43711.345138888886" located at cell 'author'!G237.
+   Types: Closed
+Individual: 43711.240277777775  # Generated from value "43711.240277777775" located at cell 'author'!G238.
+   Types: Closed
+Individual: 43720.066666666666  # Generated from value "43720.066666666666" located at cell 'author'!G239.
+   Types: Closed
+Individual: 43717.993055555555  # Generated from value "43717.993055555555" located at cell 'author'!G240.
+   Types: Closed
+Individual: 43707.71944444445  # Generated from value "43707.71944444445" located at cell 'author'!G241.
+   Types: Closed
+Individual: 43707.66388888889  # Generated from value "43707.66388888889" located at cell 'author'!G242.
+   Types: Closed
+Individual: 43890.55069444444  # Generated from value "43890.55069444444" located at cell 'author'!G243.
+   Types: Closed
+Individual: 43706.9875  # Generated from value "43706.9875" located at cell 'author'!G244.
+   Types: Closed
+Individual: 43736.79722222222  # Generated from value "43736.79722222222" located at cell 'author'!G245.
+   Types: Closed
+Individual: 43705.43125  # Generated from value "43705.43125" located at cell 'author'!G246.
+   Types: Closed
+Individual: 43705.34930555556  # Generated from value "43705.34930555556" located at cell 'author'!G247.
+   Types: Closed
+Individual: 43705.274305555555  # Generated from value "43705.274305555555" located at cell 'author'!G248.
+   Types: Closed
+Individual: 43705.26180555556  # Generated from value "43705.26180555556" located at cell 'author'!G249.
+   Types: Closed
+Individual: 43704.48888888889  # Generated from value "43704.48888888889" located at cell 'author'!G250.
+   Types: Closed
+Individual: 43704.53194444445  # Generated from value "43704.53194444445" located at cell 'author'!G251.
+   Types: Closed
+Individual: 43704.538194444445  # Generated from value "43704.538194444445" located at cell 'author'!G252.
+   Types: Closed
+Individual: 43727.48541666667  # Generated from value "43727.48541666667" located at cell 'author'!G253.
+   Types: Closed
+Individual: 43702.10486111111  # Generated from value "43702.10486111111" located at cell 'author'!G254.
+   Types: Closed
+Individual: 43701.354166666664  # Generated from value "43701.354166666664" located at cell 'author'!G255.
+   Types: Closed
+Individual: 43702.99791666667  # Generated from value "43702.99791666667" located at cell 'author'!G256.
+   Types: Closed
+Individual: 43818.54791666667  # Generated from value "43818.54791666667" located at cell 'author'!G257.
+   Types: Closed
+Individual: 43698.10972222222  # Generated from value "43698.10972222222" located at cell 'author'!G258.
+   Types: Closed
+Individual: 43697.15833333333  # Generated from value "43697.15833333333" located at cell 'author'!G259.
+   Types: Closed
+Individual: 43707.65902777778  # Generated from value "43707.65902777778" located at cell 'author'!G260.
+   Types: Closed
+Individual: 43720.501388888886  # Generated from value "43720.501388888886" located at cell 'author'!G261.
+   Types: Closed
+Individual: 43694.268055555556  # Generated from value "43694.268055555556" located at cell 'author'!G262.
+   Types: Closed
+Individual: 43694.14861111111  # Generated from value "43694.14861111111" located at cell 'author'!G263.
+   Types: Closed
+Individual: 43819.375  # Generated from value "43819.375" located at cell 'author'!G264.
+   Types: Closed
+Individual: 43720.99513888889  # Generated from value "43720.99513888889" located at cell 'author'!G265.
+   Types: Closed
+Individual: 43692.47708333333  # Generated from value "43692.47708333333" located at cell 'author'!G266.
+   Types: Closed
+Individual: 43704.7375  # Generated from value "43704.7375" located at cell 'author'!G267.
+   Types: Closed
+Individual: 43694.16805555556  # Generated from value "43694.16805555556" located at cell 'author'!G268.
+   Types: Closed
+Individual: 43691.06180555555  # Generated from value "43691.06180555555" located at cell 'author'!G269.
+   Types: Closed
+Individual: 43691.06527777778  # Generated from value "43691.06527777778" located at cell 'author'!G270.
+   Types: Closed
+Individual: 43690.683333333334  # Generated from value "43690.683333333334" located at cell 'author'!G271.
+   Types: Closed
+Individual: 43738.63611111111  # Generated from value "43738.63611111111" located at cell 'author'!G272.
+   Types: Closed
+Individual: 43688.60625  # Generated from value "43688.60625" located at cell 'author'!G273.
+   Types: Closed
+Individual: 43744.46597222222  # Generated from value "43744.46597222222" located at cell 'author'!G274.
+   Types: Closed
+Individual: 43687.10277777778  # Generated from value "43687.10277777778" located at cell 'author'!G275.
+   Types: Closed
+Individual: 43695.61736111111  # Generated from value "43695.61736111111" located at cell 'author'!G276.
+   Types: Closed
+Individual: 43685.15972222222  # Generated from value "43685.15972222222" located at cell 'author'!G277.
+   Types: Closed
+Individual: 43695.22777777778  # Generated from value "43695.22777777778" located at cell 'author'!G278.
+   Types: Closed
+Individual: 43686.11597222222  # Generated from value "43686.11597222222" located at cell 'author'!G279.
+   Types: Closed
+Individual: 43694.18402777778  # Generated from value "43694.18402777778" located at cell 'author'!G280.
+   Types: Closed
+Individual: 43682.09583333333  # Generated from value "43682.09583333333" located at cell 'author'!G281.
+   Types: Closed
+Individual: 43677.5125  # Generated from value "43677.5125" located at cell 'author'!G282.
+   Types: Closed
+Individual: 43676.56041666667  # Generated from value "43676.56041666667" located at cell 'author'!G283.
+   Types: Closed
+Individual: 43676.55  # Generated from value "43676.55" located at cell 'author'!G284.
+   Types: Closed
+Individual: 43676.24513888889  # Generated from value "43676.24513888889" located at cell 'author'!G285.
+   Types: Closed
+Individual: 43684.529861111114  # Generated from value "43684.529861111114" located at cell 'author'!G286.
+   Types: Closed
+Individual: 43673.308333333334  # Generated from value "43673.308333333334" located at cell 'author'!G287.
+   Types: Closed
+Individual: 43757.44236111111  # Generated from value "43757.44236111111" located at cell 'author'!G288.
+   Types: Closed
+Individual: 43686.49236111111  # Generated from value "43686.49236111111" located at cell 'author'!G289.
+   Types: Closed
+Individual: 43836.106944444444  # Generated from value "43836.106944444444" located at cell 'author'!G290.
+   Types: Closed
+Individual: 43664.34305555555  # Generated from value "43664.34305555555" located at cell 'author'!G291.
+   Types: Closed
+Individual: 43675.785416666666  # Generated from value "43675.785416666666" located at cell 'author'!G292.
+   Types: Closed
+Individual: 43683.00486111111  # Generated from value "43683.00486111111" located at cell 'author'!G293.
+   Types: Closed
+Individual: 43692.111805555556  # Generated from value "43692.111805555556" located at cell 'author'!G294.
+   Types: Closed
+Individual: 43677.46597222222  # Generated from value "43677.46597222222" located at cell 'author'!G295.
+   Types: Closed
+Individual: 43662.425  # Generated from value "43662.425" located at cell 'author'!G296.
+   Types: Closed
+Individual: 43711.384722222225  # Generated from value "43711.384722222225" located at cell 'author'!G297.
+   Types: Closed
+Individual: 43662.586805555555  # Generated from value "43662.586805555555" located at cell 'author'!G298.
+   Types: Closed
+Individual: 43675.79305555556  # Generated from value "43675.79305555556" located at cell 'author'!G299.
+   Types: Closed
+Individual: 43677.43541666667  # Generated from value "43677.43541666667" located at cell 'author'!G300.
+   Types: Closed
+Individual: 43677.43402777778  # Generated from value "43677.43402777778" located at cell 'author'!G301.
+   Types: Closed
+
+===========================================================================================================
+Date: 2020-03-17 21:39:26
+Ontology source: /C:/Users/newLenovo/Desktop/prog/bug.owl
+Worksheet source: C:\Users\newLenovo\Desktop\prog\author.xlsx
+Transformation rules: C:\Users\newLenovo\Desktop\prog\PO\rules_stylesheet.json
+
+# Cell range: (author!E2:E+) Comment: ""
+# Individual: @**
+#   Types: @*1
+
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E2.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E3.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E4.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E5.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E6.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E7.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E8.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E9.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E10.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E11.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E12.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E13.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E14.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E15.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E16.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E17.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E18.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E19.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E20.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E21.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E22.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E23.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E24.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E25.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E26.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E27.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E28.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E29.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E30.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E31.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E32.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E33.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E34.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E35.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E36.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E37.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E38.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E39.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E40.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E41.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E42.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E43.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E44.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E45.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E46.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E47.
+   Types: Priority
+Individual: Low  # Generated from value "Low" located at cell 'author'!E48.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E49.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E50.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E51.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E52.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E53.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E54.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E55.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E56.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E57.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E58.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E59.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E60.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E61.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E62.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E63.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E64.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E65.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E66.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E67.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E68.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E69.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E70.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E71.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E72.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E73.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E74.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E75.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E76.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E77.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E78.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E79.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E80.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E81.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E82.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E83.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E84.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E85.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E86.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E87.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E88.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E89.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E90.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E91.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E92.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E93.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E94.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E95.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E96.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E97.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E98.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E99.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E100.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E101.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E102.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E103.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E104.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E105.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E106.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E107.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E108.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E109.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E110.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E111.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E112.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E113.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E114.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E115.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E116.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E117.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E118.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E119.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E120.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E122.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E123.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E124.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E125.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E126.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E127.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E128.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E129.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E130.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E131.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E132.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E133.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E134.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E135.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E136.
+   Types: Priority
+Individual: Urgent  # Generated from value "Urgent" located at cell 'author'!E137.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E138.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E139.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E140.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E141.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E142.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E143.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E144.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E145.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E146.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E147.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E148.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E149.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E150.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E151.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E152.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E153.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E154.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E155.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E156.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E157.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E158.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E159.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E160.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E161.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E162.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E163.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E164.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E165.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E166.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E167.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E168.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E169.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E170.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E171.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E172.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E173.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E174.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E175.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E176.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E177.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E178.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E179.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E180.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E181.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E182.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E183.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E184.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E185.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E186.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E187.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E188.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E189.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E190.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E191.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E192.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E193.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E194.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E195.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E196.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E197.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E198.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E199.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E200.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E201.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E202.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E203.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E204.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E205.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E206.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E207.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E208.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E209.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E210.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E211.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E212.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E213.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E214.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E215.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E216.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E217.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E218.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E219.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E220.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E221.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E222.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E223.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E224.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E225.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E226.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E227.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E228.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E229.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E230.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E231.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E232.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E233.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E234.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E235.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E236.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E237.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E238.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E239.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E240.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E241.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E242.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E243.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E244.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E245.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E246.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E247.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E248.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E249.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E250.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E251.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E252.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E253.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E254.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E255.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E256.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E257.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E258.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E259.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E260.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E261.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E262.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E263.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E264.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E265.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E266.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E267.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E268.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E269.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E270.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E271.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E272.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E273.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E274.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E275.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E276.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E277.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E278.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E279.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E280.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E281.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E282.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E283.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E284.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E285.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E286.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E287.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E288.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E289.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E290.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E291.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E292.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E293.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E294.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E295.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E296.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E297.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E298.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E299.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E300.
+   Types: Priority
+Individual: Normal  # Generated from value "Normal" located at cell 'author'!E301.
+   Types: Priority
+
+===========================================================================================================
