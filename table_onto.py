@@ -28,6 +28,13 @@ class MainWindow(QMainWindow):
 
         onto_path.append("C://Users/newLenovo/Desktop/prog")
         self.bug_onto = get_ontology("http://test.org/bug.owl/").load()
+
+        '''
+        for i in self.bug_onto.Priority.instances():
+            self.inst_prior = {i.is_same_as: i}
+        for i in self.bug_onto.Role.instances():
+            self.inst_role = {i.is_same_as: i}
+        '''
         self.table = QTableWidget(self)  # Create a table
         self.dom_combotxt = None
         self.prior_combotxt = None
@@ -84,13 +91,13 @@ class MainWindow(QMainWindow):
     # -------- Create Table ----------------------
     # format onto domain
     def str_date(self, data):
-        return datetime.strptime(str(data), '%Y-%m-%d %H:%M:%S')
+        return datetime.strptime(str(data), '%Y-%m-%d %H:%M:%S')#%Y-%m-%dT%H:%M:%S
     # format onto domain
     def str_odate(self, data):
         try:
-            odate = datetime.strptime(str(data), 'bug.%d.%m.%Y%H-%M-%S')
+            odate = datetime.strptime(str(data), 'bug.%d.%m.%YT%H-%M-%S')
         except ValueError:
-            odate = datetime.strptime(str(data), '[bug.%d.%m.%Y%H-%M-%S]')
+            odate = datetime.strptime(str(data), '[bug.%d.%m.%YT%H-%M-%S]')
 
         return odate
     #get nice string from onto without onto class
@@ -241,7 +248,7 @@ class MainWindow(QMainWindow):
         #get name of priority from new task
         new_prior = self.table.item(fill_row, 5)
         #get element from ontology which match name with cell from table
-        role = next(
+        priority = next(
             (p for p in inst_priority if new_prior.text() == p.name),
             None)
         n_day=[]
@@ -254,7 +261,7 @@ class MainWindow(QMainWindow):
                     print(f"who have domain")
           #if k_as[i] > 0:  #just for people which match with needed domain
             #-------- Check by priority-----
-            for r in role.related_to:
+            for r in priority.related_to:
                 if i.is_role_of[0] == r:
                     k_as[inst_people.index(i)] += 1
                     print(f"who have qualification")
@@ -283,8 +290,13 @@ class MainWindow(QMainWindow):
         # Remember index from max number of array k_as
         win_as = k_as.index(max(k_as))
         # если все истина, то записать в область допустимых
-        if k_as.count(max(k_as)) > 1: print("more than one assigner")
-        else: print(f"assigner - {inst_people[win_as]}")
+        all_win_as = k_as.count(max(k_as))
+        if all_win_as > 1:
+            print(f"more than one assigner {all_win_as}+str(inst_people[index_with_max_coef].name)")
+        elif all_win_as == 0:
+            print("didn't have assigner")
+        else:
+            print(f"assigner - {inst_people[win_as]}")
         self.table.setItem(fill_row, 3, QTableWidgetItem(str(inst_people[win_as].name)))  # str(inst_people[0])
 
     def save_row(self, new_row):
@@ -320,7 +332,7 @@ class MainWindow(QMainWindow):
             pr_task_i = [who.have_priority for who in pers.assigned ]
             print(pers, pr_task_i, len(pers.assigned))
             #https://ru.stackoverflow.com/questions/418982/%D0%9A%D0%BE%D0%BB%D0%B8%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%BE-%D0%BF%D0%BE%D0%B2%D1%82%D0%BE%D1%80%D1%8F%D1%8E%D1%89%D0%B8%D1%85%D1%81%D1%8F-%D1%8D%D0%BB%D0%B5%D0%BC%D0%B5%D0%BD%D1%82%D0%BE%D0%B2-%D0%B2-%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B5
-            #who often met
+            # who often met
             pr_i = max(set(pr_task_i), key=lambda x: pr_task_i.count(x))
             # Он может выбрать любой из ролей.
             role = pr_i.related_to[0]
@@ -350,7 +362,8 @@ class MainWindow(QMainWindow):
         # отсортируем список ролей по уровням, а не по алфавиту.
         # В д.случае лидера в конец.
         # остальные правильно построены
-        inst_role.insert(len(inst_role),inst_role.pop(1))
+        #inst_role.insert(len(inst_role), inst_role.pop(1))
+        # Junior, Middle, Senior, Lead
 
         for i in self.bug_onto.People.instances():
             inst_people.append(i)
