@@ -25,8 +25,8 @@ class MainWindow(QMainWindow):
         self.newAct = QAction('Save', self)
         self.impAct = QAction('owl', self)
         self.impMenu = QMenu('Import', self)
-
-        onto_path.append("C://Users/newLenovo/Desktop/prog")
+        dirname = os.path.dirname(__file__)
+        onto_path.append(dirname)#("C://Users/newLenovo/Desktop/prog")
         self.bug_onto = get_ontology("http://test.org/bug.owl/").load()
 
         '''
@@ -148,6 +148,7 @@ class MainWindow(QMainWindow):
             # Do the resize of the columns by content
             self.table.resizeColumnsToContents()
             self.grid_layout.addWidget(self.table, 0, 0)  # Adding the self.table to the grid
+        self.lastRow = -1
 
     # ------------ OPERATION ADD ROW --------------
     # Check new text for combobox cell - domain
@@ -183,11 +184,29 @@ class MainWindow(QMainWindow):
         except:
             pass
     '''
-
+    #I want to set messagebox
+    '''
+    def mousePressEvent(self, *args, **kwargs):
+        self.ao.own_signal.emit()
+        self.close()
+    def set_params(self,res,event):
+        self.ao = self.AddRow
+        self.ao.own_signal.connect(self.on_clicked)
+        self.setGeometry(200,200)
+        self.setWindowTitle("Result Message")
+        self.text()
+        self.show()
+        '''
+    def resultWindow(self,res):
+        info = QMessageBox()
+        info.setIcon(QMessageBox.Information)
+        info.about(self,"Result Message",res)
+        pass
     def addRow(self):
         # Add row to the end
         self.lastRow = self.table.rowCount()
         self.table.insertRow(self.lastRow)
+        self.table.scrollToBottom()#(0, self.table.height())
         # insert DATE
         now_date = str(datetime.now())
         self.table.setItem(self.lastRow, 2, self.create_item_flag(now_date[:len(now_date) - 7]))
@@ -236,7 +255,10 @@ class MainWindow(QMainWindow):
         # Check last added row when none selected row or
         # selected row already have assigner
         fill_row = self.lastRow \
-            if (len(selI) == 0 and self.table.item(curRow, 3) is not None) else curRow
+            if (len(selI) == 0 or self.table.item(curRow, 3) is not None) else curRow
+        if fill_row == -1:
+            self.resultWindow("Add task, please")
+            return
         #----------------------------------------------------------------
         #create coefficient which match task to people - searching assigner
         k_as = [0 for i in range(len(inst_people))]
@@ -292,12 +314,14 @@ class MainWindow(QMainWindow):
         # если все истина, то записать в область допустимых
         all_win_as = k_as.count(max(k_as))
         if all_win_as > 1:
-            print(f"more than one assigner {all_win_as}+str(inst_people[index_with_max_coef].name)")
+            res = f"more than one assigner {all_win_as}"
+            print(res)#+str(inst_people[index_with_max_coef].name)
         elif all_win_as == 0:
-            print("didn't have assigner")
+            res = "No one can be assigner"
         else:
-            print(f"assigner - {inst_people[win_as]}")
+            res = f"assigner - {inst_people[win_as]}"
         self.table.setItem(fill_row, 3, QTableWidgetItem(str(inst_people[win_as].name)))  # str(inst_people[0])
+        self.resultWindow(res)
 
     def save_row(self, new_row):
         # docs send for article
