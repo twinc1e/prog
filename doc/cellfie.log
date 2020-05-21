@@ -6442,3 +6442,1941 @@ Individual: Pavel_Rosickэ  # Generated from value "Pavel_Rosickэ" located at c
    Types: People
 
 ===========================================================================================================
+Date: 2020-04-03 01:06:53
+Ontology source: /B:/MAG/second/kursach_onto/prog/bug.owl
+Worksheet source: B:\MAG\second\kursach_onto\prog\doc\author3_add.xls
+Transformation rules: B:\MAG\second\kursach_onto\prog\doc\rules_stylesheet.json
+
+# Cell range: (Лист1!E2:F+) Comment: ""
+# Individual: @** 
+#   Types: Date
+
+Individual: 09.01.2013T10-21-00  # Generated from value "09.01.2013T10-21-00" located at cell 'Лист1'!E2.
+   Types: Date
+Individual: 09.01.2011T11-49-00  # Generated from value "09.01.2011T11-49-00" located at cell 'Лист1'!E3.
+   Types: Date
+Individual: 12.02.2012T17-19-00  # Generated from value "12.02.2012T17-19-00" located at cell 'Лист1'!E4.
+   Types: Date
+Individual: 26.06.2017T14-38-00  # Generated from value "26.06.2017T14-38-00" located at cell 'Лист1'!E5.
+   Types: Date
+Individual: 10.09.2014T9-58-00  # Generated from value "10.09.2014T9-58-00" located at cell 'Лист1'!E6.
+   Types: Date
+Individual: 08.10.2018T11-07-00  # Generated from value "08.10.2018T11-07-00" located at cell 'Лист1'!E7.
+   Types: Date
+Individual: 25.05.2011T8-43-00  # Generated from value "25.05.2011T8-43-00" located at cell 'Лист1'!E8.
+   Types: Date
+Individual: 16.01.2018T13-31-00  # Generated from value "16.01.2018T13-31-00" located at cell 'Лист1'!E9.
+   Types: Date
+Individual: 20.02.2018T19-48-00  # Generated from value "20.02.2018T19-48-00" located at cell 'Лист1'!E10.
+   Types: Date
+Individual: 26.01.2018T17-13-00  # Generated from value "26.01.2018T17-13-00" located at cell 'Лист1'!E11.
+   Types: Date
+Individual: 28.02.2018T17-19-00  # Generated from value "28.02.2018T17-19-00" located at cell 'Лист1'!E12.
+   Types: Date
+Individual: 24.08.2018T15-03-00  # Generated from value "24.08.2018T15-03-00" located at cell 'Лист1'!E13.
+   Types: Date
+Individual: 24.08.2018T15-03-00  # Generated from value "24.08.2018T15-03-00" located at cell 'Лист1'!E14.
+   Types: Date
+Individual: 17.04.2019T14-20-00  # Generated from value "17.04.2019T14-20-00" located at cell 'Лист1'!E15.
+   Types: Date
+Individual: 29.07.2018T13-44-00  # Generated from value "29.07.2018T13-44-00" located at cell 'Лист1'!E16.
+   Types: Date
+Individual: 11.06.2019T11-53-00  # Generated from value "11.06.2019T11-53-00" located at cell 'Лист1'!E17.
+   Types: Date
+Individual: 24.04.2019T11-14-00  # Generated from value "24.04.2019T11-14-00" located at cell 'Лист1'!E18.
+   Types: Date
+Individual: 12.02.2020T13-38-00  # Generated from value "12.02.2020T13-38-00" located at cell 'Лист1'!E19.
+   Types: Date
+Individual: 12.12.2013T16-09-00  # Generated from value "12.12.2013T16-09-00" located at cell 'Лист1'!E20.
+   Types: Date
+Individual: 29.11.2014T14-03-00  # Generated from value "29.11.2014T14-03-00" located at cell 'Лист1'!E21.
+   Types: Date
+Individual: 08.11.2016T15-09-00  # Generated from value "08.11.2016T15-09-00" located at cell 'Лист1'!E22.
+   Types: Date
+Individual: 13.11.2013T13-04-00  # Generated from value "13.11.2013T13-04-00" located at cell 'Лист1'!E23.
+   Types: Date
+Individual: 04.06.2016T11-11-00  # Generated from value "04.06.2016T11-11-00" located at cell 'Лист1'!E24.
+   Types: Date
+Individual: 21.07.2011T8-42-00  # Generated from value "21.07.2011T8-42-00" located at cell 'Лист1'!E25.
+   Types: Date
+Individual: 30.03.2013T22-33-00  # Generated from value "30.03.2013T22-33-00" located at cell 'Лист1'!E26.
+   Types: Date
+Individual: 13.01.2013T23-01-00  # Generated from value "13.01.2013T23-01-00" located at cell 'Лист1'!E27.
+   Types: Date
+Individual: 21.06.2013T18-23-00  # Generated from value "21.06.2013T18-23-00" located at cell 'Лист1'!E28.
+   Types: Date
+Individual: 18.01.2017T13-36-00  # Generated from value "18.01.2017T13-36-00" located at cell 'Лист1'!E29.
+   Types: Date
+Individual: 04.04.2017T19-06-00  # Generated from value "04.04.2017T19-06-00" located at cell 'Лист1'!E30.
+   Types: Date
+Individual: 25.06.2017T15-51-00  # Generated from value "25.06.2017T15-51-00" located at cell 'Лист1'!E31.
+   Types: Date
+Individual: 15.03.2019T11-09-00  # Generated from value "15.03.2019T11-09-00" located at cell 'Лист1'!E32.
+   Types: Date
+Individual: 25.10.2019T17-52-00  # Generated from value "25.10.2019T17-52-00" located at cell 'Лист1'!E33.
+   Types: Date
+Individual: 06.04.2011T8-02-00  # Generated from value "06.04.2011T8-02-00" located at cell 'Лист1'!E34.
+   Types: Date
+Individual: 12.04.2017T3-53-00  # Generated from value "12.04.2017T3-53-00" located at cell 'Лист1'!E35.
+   Types: Date
+Individual: 28.04.2017T17-13-00  # Generated from value "28.04.2017T17-13-00" located at cell 'Лист1'!E36.
+   Types: Date
+Individual: 06.02.2017T11-56-00  # Generated from value "06.02.2017T11-56-00" located at cell 'Лист1'!E37.
+   Types: Date
+Individual: 12.06.2019T8-21-00  # Generated from value "12.06.2019T8-21-00" located at cell 'Лист1'!E38.
+   Types: Date
+Individual: 07.08.2019T8-03-00  # Generated from value "07.08.2019T8-03-00" located at cell 'Лист1'!E39.
+   Types: Date
+Individual: 19.08.2019T22-18-00  # Generated from value "19.08.2019T22-18-00" located at cell 'Лист1'!E40.
+   Types: Date
+Individual: 02.09.2019T7-19-00  # Generated from value "02.09.2019T7-19-00" located at cell 'Лист1'!E41.
+   Types: Date
+Individual: 29.06.2019T13-43-00  # Generated from value "29.06.2019T13-43-00" located at cell 'Лист1'!E42.
+   Types: Date
+Individual: 20.06.2019T22-50-00  # Generated from value "20.06.2019T22-50-00" located at cell 'Лист1'!E43.
+   Types: Date
+Individual: 07.01.2020T23-26-00  # Generated from value "07.01.2020T23-26-00" located at cell 'Лист1'!E44.
+   Types: Date
+Individual: 15.12.2017T7-38-00  # Generated from value "15.12.2017T7-38-00" located at cell 'Лист1'!E45.
+   Types: Date
+Individual: 10.01.2013T16-14-00  # Generated from value "10.01.2013T16-14-00" located at cell 'Лист1'!E46.
+   Types: Date
+Individual: 01.03.2016T15-35-00  # Generated from value "01.03.2016T15-35-00" located at cell 'Лист1'!E47.
+   Types: Date
+Individual: 09.07.2015T11-37-00  # Generated from value "09.07.2015T11-37-00" located at cell 'Лист1'!E48.
+   Types: Date
+Individual: 31.03.2020T19-21-00  # Generated from value "31.03.2020T19-21-00" located at cell 'Лист1'!E49.
+   Types: Date
+Individual: 15.12.2016T2-13-00  # Generated from value "15.12.2016T2-13-00" located at cell 'Лист1'!E50.
+   Types: Date
+Individual: 07.09.2015T12-07-00  # Generated from value "07.09.2015T12-07-00" located at cell 'Лист1'!E51.
+   Types: Date
+Individual: 09.12.2017T17-09-00  # Generated from value "09.12.2017T17-09-00" located at cell 'Лист1'!E52.
+   Types: Date
+Individual: 09.12.2017T17-19-00  # Generated from value "09.12.2017T17-19-00" located at cell 'Лист1'!E53.
+   Types: Date
+Individual: 09.12.2017T20-36-00  # Generated from value "09.12.2017T20-36-00" located at cell 'Лист1'!E54.
+   Types: Date
+Individual: 21.12.2017T16-51-00  # Generated from value "21.12.2017T16-51-00" located at cell 'Лист1'!E55.
+   Types: Date
+Individual: 06.01.2013T11-12-00  # Generated from value "06.01.2013T11-12-00" located at cell 'Лист1'!E56.
+   Types: Date
+Individual: 25.11.2014T17-05-00  # Generated from value "25.11.2014T17-05-00" located at cell 'Лист1'!E57.
+   Types: Date
+Individual: 04.07.2017T10-31-00  # Generated from value "04.07.2017T10-31-00" located at cell 'Лист1'!E58.
+   Types: Date
+Individual: 25.07.2018T11-09-00  # Generated from value "25.07.2018T11-09-00" located at cell 'Лист1'!E59.
+   Types: Date
+Individual: 29.08.2017T11-31-00  # Generated from value "29.08.2017T11-31-00" located at cell 'Лист1'!E60.
+   Types: Date
+Individual: 06.02.2019T19-15-00  # Generated from value "06.02.2019T19-15-00" located at cell 'Лист1'!E61.
+   Types: Date
+Individual: 04.09.2017T10-47-00  # Generated from value "04.09.2017T10-47-00" located at cell 'Лист1'!E62.
+   Types: Date
+Individual: 13.10.2016T12-13-00  # Generated from value "13.10.2016T12-13-00" located at cell 'Лист1'!E63.
+   Types: Date
+Individual: 17.07.2012T6-30-00  # Generated from value "17.07.2012T6-30-00" located at cell 'Лист1'!E64.
+   Types: Date
+Individual: 09.01.2013T17-48-00  # Generated from value "09.01.2013T17-48-00" located at cell 'Лист1'!F2.
+   Types: Date
+Individual: 02.02.2011T11-04-00  # Generated from value "02.02.2011T11-04-00" located at cell 'Лист1'!F3.
+   Types: Date
+Individual: 12.02.2012T17-42-00  # Generated from value "12.02.2012T17-42-00" located at cell 'Лист1'!F4.
+   Types: Date
+Individual: 27.06.2017T7-27-00  # Generated from value "27.06.2017T7-27-00" located at cell 'Лист1'!F5.
+   Types: Date
+Individual: 11.09.2014T19-46-00  # Generated from value "11.09.2014T19-46-00" located at cell 'Лист1'!F6.
+   Types: Date
+Individual: 08.10.2018T16-55-00  # Generated from value "08.10.2018T16-55-00" located at cell 'Лист1'!F7.
+   Types: Date
+Individual: 09.03.2020T14-42-00  # Generated from value "09.03.2020T14-42-00" located at cell 'Лист1'!F8.
+   Types: Date
+Individual: 26.01.2018T1-01-00  # Generated from value "26.01.2018T1-01-00" located at cell 'Лист1'!F9.
+   Types: Date
+Individual: 20.02.2018T20-41-00  # Generated from value "20.02.2018T20-41-00" located at cell 'Лист1'!F10.
+   Types: Date
+Individual: 29.05.2018T6-52-00  # Generated from value "29.05.2018T6-52-00" located at cell 'Лист1'!F11.
+   Types: Date
+Individual: 16.06.2018T12-54-00  # Generated from value "16.06.2018T12-54-00" located at cell 'Лист1'!F12.
+   Types: Date
+Individual: 29.08.2018T9-26-00  # Generated from value "29.08.2018T9-26-00" located at cell 'Лист1'!F13.
+   Types: Date
+Individual: 29.08.2018T9-26-00  # Generated from value "29.08.2018T9-26-00" located at cell 'Лист1'!F14.
+   Types: Date
+Individual: 18.04.2019T9-44-00  # Generated from value "18.04.2019T9-44-00" located at cell 'Лист1'!F15.
+   Types: Date
+Individual: 23.04.2019T17-37-00  # Generated from value "23.04.2019T17-37-00" located at cell 'Лист1'!F16.
+   Types: Date
+Individual: 30.06.2019T7-38-00  # Generated from value "30.06.2019T7-38-00" located at cell 'Лист1'!F17.
+   Types: Date
+Individual: 27.08.2019T3-05-00  # Generated from value "27.08.2019T3-05-00" located at cell 'Лист1'!F18.
+   Types: Date
+Individual: 29.02.2020T15-39-00  # Generated from value "29.02.2020T15-39-00" located at cell 'Лист1'!F19.
+   Types: Date
+Individual: 11.01.2014T12-23-00  # Generated from value "11.01.2014T12-23-00" located at cell 'Лист1'!F20.
+   Types: Date
+Individual: 26.12.2014T11-42-00  # Generated from value "26.12.2014T11-42-00" located at cell 'Лист1'!F21.
+   Types: Date
+Individual: 26.11.2016T10-01-00  # Generated from value "26.11.2016T10-01-00" located at cell 'Лист1'!F22.
+   Types: Date
+Individual: 10.02.2014T9-32-00  # Generated from value "10.02.2014T9-32-00" located at cell 'Лист1'!F23.
+   Types: Date
+Individual: 05.06.2016T2-55-00  # Generated from value "05.06.2016T2-55-00" located at cell 'Лист1'!F24.
+   Types: Date
+Individual: 04.08.2011T23-30-00  # Generated from value "04.08.2011T23-30-00" located at cell 'Лист1'!F25.
+   Types: Date
+Individual: 29.05.2013T23-16-00  # Generated from value "29.05.2013T23-16-00" located at cell 'Лист1'!F26.
+   Types: Date
+Individual: 14.01.2013T8-43-00  # Generated from value "14.01.2013T8-43-00" located at cell 'Лист1'!F27.
+   Types: Date
+Individual: 25.06.2013T14-53-00  # Generated from value "25.06.2013T14-53-00" located at cell 'Лист1'!F28.
+   Types: Date
+Individual: 18.01.2017T14-49-00  # Generated from value "18.01.2017T14-49-00" located at cell 'Лист1'!F29.
+   Types: Date
+Individual: 04.04.2017T19-07-00  # Generated from value "04.04.2017T19-07-00" located at cell 'Лист1'!F30.
+   Types: Date
+Individual: 25.06.2017T15-52-00  # Generated from value "25.06.2017T15-52-00" located at cell 'Лист1'!F31.
+   Types: Date
+Individual: 15.03.2019T11-11-00  # Generated from value "15.03.2019T11-11-00" located at cell 'Лист1'!F32.
+   Types: Date
+Individual: 26.10.2019T8-04-00  # Generated from value "26.10.2019T8-04-00" located at cell 'Лист1'!F33.
+   Types: Date
+Individual: 06.04.2011T10-30-00  # Generated from value "06.04.2011T10-30-00" located at cell 'Лист1'!F34.
+   Types: Date
+Individual: 13.04.2017T14-10-00  # Generated from value "13.04.2017T14-10-00" located at cell 'Лист1'!F35.
+   Types: Date
+Individual: 23.09.2018T10-27-00  # Generated from value "23.09.2018T10-27-00" located at cell 'Лист1'!F36.
+   Types: Date
+Individual: 02.03.2017T20-42-00  # Generated from value "02.03.2017T20-42-00" located at cell 'Лист1'!F37.
+   Types: Date
+Individual: 14.08.2019T7-24-00  # Generated from value "14.08.2019T7-24-00" located at cell 'Лист1'!F38.
+   Types: Date
+Individual: 18.08.2019T5-28-00  # Generated from value "18.08.2019T5-28-00" located at cell 'Лист1'!F39.
+   Types: Date
+Individual: 20.08.2019T3-48-00  # Generated from value "20.08.2019T3-48-00" located at cell 'Лист1'!F40.
+   Types: Date
+Individual: 12.09.2019T1-36-00  # Generated from value "12.09.2019T1-36-00" located at cell 'Лист1'!F41.
+   Types: Date
+Individual: 14.09.2019T3-03-00  # Generated from value "14.09.2019T3-03-00" located at cell 'Лист1'!F42.
+   Types: Date
+Individual: 27.09.2019T11-38-00  # Generated from value "27.09.2019T11-38-00" located at cell 'Лист1'!F43.
+   Types: Date
+Individual: 04.02.2020T15-30-00  # Generated from value "04.02.2020T15-30-00" located at cell 'Лист1'!F44.
+   Types: Date
+Individual: 09.08.2018T13-50-00  # Generated from value "09.08.2018T13-50-00" located at cell 'Лист1'!F45.
+   Types: Date
+Individual: 11.01.2013T10-48-00  # Generated from value "11.01.2013T10-48-00" located at cell 'Лист1'!F46.
+   Types: Date
+Individual: 12.06.2016T8-03-00  # Generated from value "12.06.2016T8-03-00" located at cell 'Лист1'!F47.
+   Types: Date
+Individual: 12.12.2019T15-57-00  # Generated from value "12.12.2019T15-57-00" located at cell 'Лист1'!F48.
+   Types: Date
+Individual: 02.04.2020T10-04-00  # Generated from value "02.04.2020T10-04-00" located at cell 'Лист1'!F49.
+   Types: Date
+Individual: 28.01.2017T8-56-00  # Generated from value "28.01.2017T8-56-00" located at cell 'Лист1'!F50.
+   Types: Date
+Individual: 12.09.2015T16-54-00  # Generated from value "12.09.2015T16-54-00" located at cell 'Лист1'!F51.
+   Types: Date
+Individual: 10.12.2017T4-49-00  # Generated from value "10.12.2017T4-49-00" located at cell 'Лист1'!F52.
+   Types: Date
+Individual: 10.12.2017T4-52-00  # Generated from value "10.12.2017T4-52-00" located at cell 'Лист1'!F53.
+   Types: Date
+Individual: 10.12.2017T4-53-00  # Generated from value "10.12.2017T4-53-00" located at cell 'Лист1'!F54.
+   Types: Date
+Individual: 21.12.2017T18-15-00  # Generated from value "21.12.2017T18-15-00" located at cell 'Лист1'!F55.
+   Types: Date
+Individual: 06.01.2013T13-06-00  # Generated from value "06.01.2013T13-06-00" located at cell 'Лист1'!F56.
+   Types: Date
+Individual: 01.12.2014T23-12-00  # Generated from value "01.12.2014T23-12-00" located at cell 'Лист1'!F57.
+   Types: Date
+Individual: 11.01.2018T13-32-00  # Generated from value "11.01.2018T13-32-00" located at cell 'Лист1'!F58.
+   Types: Date
+Individual: 23.09.2018T14-02-00  # Generated from value "23.09.2018T14-02-00" located at cell 'Лист1'!F59.
+   Types: Date
+Individual: 04.12.2018T11-06-00  # Generated from value "04.12.2018T11-06-00" located at cell 'Лист1'!F60.
+   Types: Date
+Individual: 11.02.2019T16-58-00  # Generated from value "11.02.2019T16-58-00" located at cell 'Лист1'!F61.
+   Types: Date
+Individual: 15.03.2019T8-54-00  # Generated from value "15.03.2019T8-54-00" located at cell 'Лист1'!F62.
+   Types: Date
+Individual: 03.12.2016T9-42-00  # Generated from value "03.12.2016T9-42-00" located at cell 'Лист1'!F63.
+   Types: Date
+Individual: 17.07.2012T16-52-00  # Generated from value "17.07.2012T16-52-00" located at cell 'Лист1'!F64.
+   Types: Date
+
+# Cell range: (Лист1!B2:B+) Comment: ""
+# Individual: @B* 
+#   Types: @B1
+#   Facts: specialize @C*,
+# have_priority @D*,
+# start_doing @E*,
+# end_doing @F*,
+# is_assigned @G*
+
+Individual: Update_Security_Advisories_to_include_latest_rails_vulnerabilities.  # Generated from value "Update_Security_Advisories_to_include_latest_rails_vulnerabilities." located at cell 'Лист1'!B2.
+   Facts: specialize "Website_redmine.org"  # Generated from value "Website_redmine.org" located at cell 'Лист1'!C2.,
+         have_priority "High"  # Generated from value "High" located at cell 'Лист1'!D2.,
+         start_doing "09.01.2013T10-21-00"  # Generated from value "09.01.2013T10-21-00" located at cell 'Лист1'!E2.,
+         end_doing "09.01.2013T17-48-00"  # Generated from value "09.01.2013T17-48-00" located at cell 'Лист1'!F2.,
+         is_assigned "Jan_Niggemann_redmine.org_team_member"  # Generated from value "Jan_Niggemann_redmine.org_team_member" located at cell 'Лист1'!G2.
+   Types: Task
+Individual: Test_failures_in_MercurialAdapterTest  # Generated from value "Test_failures_in_MercurialAdapterTest" located at cell 'Лист1'!B3.
+   Facts: specialize "SCM"  # Generated from value "SCM" located at cell 'Лист1'!C3.,
+         have_priority "High"  # Generated from value "High" located at cell 'Лист1'!D3.,
+         start_doing "09.01.2011T11-49-00"  # Generated from value "09.01.2011T11-49-00" located at cell 'Лист1'!E3.,
+         end_doing "02.02.2011T11-04-00"  # Generated from value "02.02.2011T11-04-00" located at cell 'Лист1'!F3.,
+         is_assigned "Jean-Philippe_Lang"  # Generated from value "Jean-Philippe_Lang" located at cell 'Лист1'!G3.
+   Types: Task
+Individual: Atom_returns_500_error  # Generated from value "Atom_returns_500_error" located at cell 'Лист1'!B4.
+   Facts: specialize "Website_redmine.org"  # Generated from value "Website_redmine.org" located at cell 'Лист1'!C4.,
+         have_priority "High"  # Generated from value "High" located at cell 'Лист1'!D4.,
+         start_doing "12.02.2012T17-19-00"  # Generated from value "12.02.2012T17-19-00" located at cell 'Лист1'!E4.,
+         end_doing "12.02.2012T17-42-00"  # Generated from value "12.02.2012T17-42-00" located at cell 'Лист1'!F4.,
+         is_assigned "Toshi_MARUYAMA"  # Generated from value "Toshi_MARUYAMA" located at cell 'Лист1'!G4.
+   Types: Task
+Individual: _Simplified_Chinese_translation_for_3.3-stable  # Generated from value "_Simplified_Chinese_translation_for_3.3-stable" located at cell 'Лист1'!B5.
+   Facts: specialize "Translations"  # Generated from value "Translations" located at cell 'Лист1'!C5.,
+         have_priority "Normal"  # Generated from value "Normal" located at cell 'Лист1'!D5.,
+         start_doing "26.06.2017T14-38-00"  # Generated from value "26.06.2017T14-38-00" located at cell 'Лист1'!E5.,
+         end_doing "27.06.2017T7-27-00"  # Generated from value "27.06.2017T7-27-00" located at cell 'Лист1'!F5.,
+         is_assigned "Toshi_MARUYAMA"  # Generated from value "Toshi_MARUYAMA" located at cell 'Лист1'!G5.
+   Types: Task
+Individual: PDF_export_fails_if_there_is_U+FFFD_in_issue_data_or_journals  # Generated from value "PDF_export_fails_if_there_is_U+FFFD_in_issue_data_or_journals" located at cell 'Лист1'!B6.
+   Facts: specialize "PDF_export"  # Generated from value "PDF_export" located at cell 'Лист1'!C6.,
+         have_priority "Normal"  # Generated from value "Normal" located at cell 'Лист1'!D6.,
+         start_doing "10.09.2014T9-58-00"  # Generated from value "10.09.2014T9-58-00" located at cell 'Лист1'!E6.,
+         end_doing "11.09.2014T19-46-00"  # Generated from value "11.09.2014T19-46-00" located at cell 'Лист1'!F6.,
+         is_assigned "Toshi_MARUYAMA"  # Generated from value "Toshi_MARUYAMA" located at cell 'Лист1'!G6.
+   Types: Task
+Individual: Conflict_with_rights_and_roles.  # Generated from value "Conflict_with_rights_and_roles." located at cell 'Лист1'!B7.
+   Facts: specialize "Permissions_and_roles"  # Generated from value "Permissions_and_roles" located at cell 'Лист1'!C7.,
+         have_priority "Normal"  # Generated from value "Normal" located at cell 'Лист1'!D7.,
+         start_doing "08.10.2018T11-07-00"  # Generated from value "08.10.2018T11-07-00" located at cell 'Лист1'!E7.,
+         end_doing "08.10.2018T16-55-00"  # Generated from value "08.10.2018T16-55-00" located at cell 'Лист1'!F7.
+   Types: Task
+Individual: Change_default_theme_to_pixelcookers  # Generated from value "Change_default_theme_to_pixelcookers" located at cell 'Лист1'!B8.
+   Facts: specialize "Themes"  # Generated from value "Themes" located at cell 'Лист1'!C8.,
+         have_priority "Normal"  # Generated from value "Normal" located at cell 'Лист1'!D8.,
+         start_doing "25.05.2011T8-43-00"  # Generated from value "25.05.2011T8-43-00" located at cell 'Лист1'!E8.,
+         end_doing "09.03.2020T14-42-00"  # Generated from value "09.03.2020T14-42-00" located at cell 'Лист1'!F8.
+   Types: Task
+Individual: Inappropriate_file_uploads_in_the_documentation  # Generated from value "Inappropriate_file_uploads_in_the_documentation" located at cell 'Лист1'!B9.
+   Facts: specialize "Website_redmine.org"  # Generated from value "Website_redmine.org" located at cell 'Лист1'!C9.,
+         have_priority "High"  # Generated from value "High" located at cell 'Лист1'!D9.,
+         start_doing "16.01.2018T13-31-00"  # Generated from value "16.01.2018T13-31-00" located at cell 'Лист1'!E9.,
+         end_doing "26.01.2018T1-01-00"  # Generated from value "26.01.2018T1-01-00" located at cell 'Лист1'!F9.
+   Types: Task
+Individual: Misplaced_macro_on_donors_wiki_page  # Generated from value "Misplaced_macro_on_donors_wiki_page" located at cell 'Лист1'!B10.
+   Facts: specialize "Website_redmine.org"  # Generated from value "Website_redmine.org" located at cell 'Лист1'!C10.,
+         have_priority "Normal"  # Generated from value "Normal" located at cell 'Лист1'!D10.,
+         start_doing "20.02.2018T19-48-00"  # Generated from value "20.02.2018T19-48-00" located at cell 'Лист1'!E10.,
+         end_doing "20.02.2018T20-41-00"  # Generated from value "20.02.2018T20-41-00" located at cell 'Лист1'!F10.
+   Types: Task
+Individual: Add_context_menu_for_attributes_in_issue_details  # Generated from value "Add_context_menu_for_attributes_in_issue_details" located at cell 'Лист1'!B11.
+   Facts: specialize "Issues"  # Generated from value "Issues" located at cell 'Лист1'!C11.,
+         have_priority "Normal"  # Generated from value "Normal" located at cell 'Лист1'!D11.,
+         start_doing "26.01.2018T17-13-00"  # Generated from value "26.01.2018T17-13-00" located at cell 'Лист1'!E11.,
+         end_doing "29.05.2018T6-52-00"  # Generated from value "29.05.2018T6-52-00" located at cell 'Лист1'!F11.
+   Types: Task
+Individual: Global_and_public_custom_queries_are_shown_as_editable_to_non_administrators_in_projects  # Generated from value "Global_and_public_custom_queries_are_shown_as_editable_to_non_administrators_in_projects" located at cell 'Лист1'!B12.
+   Facts: specialize "Issues"  # Generated from value "Issues" located at cell 'Лист1'!C12.,
+         have_priority "Normal"  # Generated from value "Normal" located at cell 'Лист1'!D12.,
+         start_doing "28.02.2018T17-19-00"  # Generated from value "28.02.2018T17-19-00" located at cell 'Лист1'!E12.,
+         end_doing "16.06.2018T12-54-00"  # Generated from value "16.06.2018T12-54-00" located at cell 'Лист1'!F12.
+   Types: Task
+Individual: Render_forums_list_in_project_settings_as_table  # Generated from value "Render_forums_list_in_project_settings_as_table" located at cell 'Лист1'!B13.
+   Facts: specialize "UI"  # Generated from value "UI" located at cell 'Лист1'!C13.,
+         have_priority "Normal"  # Generated from value "Normal" located at cell 'Лист1'!D13.,
+         start_doing "24.08.2018T15-03-00"  # Generated from value "24.08.2018T15-03-00" located at cell 'Лист1'!E13.,
+         end_doing "29.08.2018T9-26-00"  # Generated from value "29.08.2018T9-26-00" located at cell 'Лист1'!F13.
+   Types: Task
+Individual: Render_forums_list_in_project_settings_as_table  # Generated from value "Render_forums_list_in_project_settings_as_table" located at cell 'Лист1'!B14.
+   Facts: specialize "UI"  # Generated from value "UI" located at cell 'Лист1'!C14.,
+         have_priority "Normal"  # Generated from value "Normal" located at cell 'Лист1'!D14.,
+         start_doing "24.08.2018T15-03-00"  # Generated from value "24.08.2018T15-03-00" located at cell 'Лист1'!E14.,
+         end_doing "29.08.2018T9-26-00"  # Generated from value "29.08.2018T9-26-00" located at cell 'Лист1'!F14.
+   Types: Task
+Individual: Multiselect_elements_don't_expand_anymore  # Generated from value "Multiselect_elements_don't_expand_anymore" located at cell 'Лист1'!B15.
+   Facts: specialize "UI"  # Generated from value "UI" located at cell 'Лист1'!C15.,
+         have_priority "Normal"  # Generated from value "Normal" located at cell 'Лист1'!D15.,
+         start_doing "17.04.2019T14-20-00"  # Generated from value "17.04.2019T14-20-00" located at cell 'Лист1'!E15.,
+         end_doing "18.04.2019T9-44-00"  # Generated from value "18.04.2019T9-44-00" located at cell 'Лист1'!F15.
+   Types: Task
+Individual: Wrap_subprojects_in_the_overview_section_with_an_unordered_list_to_improve_customisation  # Generated from value "Wrap_subprojects_in_the_overview_section_with_an_unordered_list_to_improve_customisation" located at cell 'Лист1'!B16.
+   Facts: specialize "UI"  # Generated from value "UI" located at cell 'Лист1'!C16.,
+         have_priority "Normal"  # Generated from value "Normal" located at cell 'Лист1'!D16.,
+         start_doing "29.07.2018T13-44-00"  # Generated from value "29.07.2018T13-44-00" located at cell 'Лист1'!E16.,
+         end_doing "23.04.2019T17-37-00"  # Generated from value "23.04.2019T17-37-00" located at cell 'Лист1'!F16.
+   Types: Task
+Individual: View_switches_from_gantt_to_list_after_editing_an_issue  # Generated from value "View_switches_from_gantt_to_list_after_editing_an_issue" located at cell 'Лист1'!B17.
+   Facts: specialize "Gantt"  # Generated from value "Gantt" located at cell 'Лист1'!C17.,
+         have_priority "Normal"  # Generated from value "Normal" located at cell 'Лист1'!D17.,
+         start_doing "11.06.2019T11-53-00"  # Generated from value "11.06.2019T11-53-00" located at cell 'Лист1'!E17.,
+         end_doing "30.06.2019T7-38-00"  # Generated from value "30.06.2019T7-38-00" located at cell 'Лист1'!F17.
+   Types: Task
+Individual: german_translation_for_missing_parts  # Generated from value "german_translation_for_missing_parts" located at cell 'Лист1'!B18.
+   Facts: specialize "Translations"  # Generated from value "Translations" located at cell 'Лист1'!C18.,
+         have_priority "Normal"  # Generated from value "Normal" located at cell 'Лист1'!D18.,
+         start_doing "24.04.2019T11-14-00"  # Generated from value "24.04.2019T11-14-00" located at cell 'Лист1'!E18.,
+         end_doing "27.08.2019T3-05-00"  # Generated from value "27.08.2019T3-05-00" located at cell 'Лист1'!F18.
+   Types: Task
+Individual: Make_group_names_bold_on_tracker_summary_view  # Generated from value "Make_group_names_bold_on_tracker_summary_view" located at cell 'Лист1'!B19.
+   Facts: specialize "UI"  # Generated from value "UI" located at cell 'Лист1'!C19.,
+         have_priority "Normal"  # Generated from value "Normal" located at cell 'Лист1'!D19.,
+         start_doing "12.02.2020T13-38-00"  # Generated from value "12.02.2020T13-38-00" located at cell 'Лист1'!E19.,
+         end_doing "29.02.2020T15-39-00"  # Generated from value "29.02.2020T15-39-00" located at cell 'Лист1'!F19.
+   Types: Task
+Individual: Make_favicon_themeable  # Generated from value "Make_favicon_themeable" located at cell 'Лист1'!B20.
+   Facts: specialize "Themes"  # Generated from value "Themes" located at cell 'Лист1'!C20.,
+         have_priority "Normal"  # Generated from value "Normal" located at cell 'Лист1'!D20.,
+         start_doing "12.12.2013T16-09-00"  # Generated from value "12.12.2013T16-09-00" located at cell 'Лист1'!E20.,
+         end_doing "11.01.2014T12-23-00"  # Generated from value "11.01.2014T12-23-00" located at cell 'Лист1'!F20.
+   Types: Task
+Individual: Localisation_not_set_correctly_on_authenticity_token_errors  # Generated from value "Localisation_not_set_correctly_on_authenticity_token_errors" located at cell 'Лист1'!B21.
+   Facts: specialize "I18n"  # Generated from value "I18n" located at cell 'Лист1'!C21.,
+         have_priority "Normal"  # Generated from value "Normal" located at cell 'Лист1'!D21.,
+         start_doing "29.11.2014T14-03-00"  # Generated from value "29.11.2014T14-03-00" located at cell 'Лист1'!E21.,
+         end_doing "26.12.2014T11-42-00"  # Generated from value "26.12.2014T11-42-00" located at cell 'Лист1'!F21.
+   Types: Task
+Individual: Show_action_not_allowed_for_time_entries_in_closed_projects  # Generated from value "Show_action_not_allowed_for_time_entries_in_closed_projects" located at cell 'Лист1'!B22.
+   Facts: specialize "Permissions_and_roles"  # Generated from value "Permissions_and_roles" located at cell 'Лист1'!C22.,
+         have_priority "Normal"  # Generated from value "Normal" located at cell 'Лист1'!D22.,
+         start_doing "08.11.2016T15-09-00"  # Generated from value "08.11.2016T15-09-00" located at cell 'Лист1'!E22.,
+         end_doing "26.11.2016T10-01-00"  # Generated from value "26.11.2016T10-01-00" located at cell 'Лист1'!F22.
+   Types: Task
+Individual: Allow_project_specific_css_files_inside_a_theme_folder  # Generated from value "Allow_project_specific_css_files_inside_a_theme_folder" located at cell 'Лист1'!B23.
+   Facts: specialize "Themes"  # Generated from value "Themes" located at cell 'Лист1'!C23.,
+         have_priority "Normal"  # Generated from value "Normal" located at cell 'Лист1'!D23.,
+         start_doing "13.11.2013T13-04-00"  # Generated from value "13.11.2013T13-04-00" located at cell 'Лист1'!E23.,
+         end_doing "10.02.2014T9-32-00"  # Generated from value "10.02.2014T9-32-00" located at cell 'Лист1'!F23.
+   Types: Task
+Individual: PM_can_manage_local_group_in_Project  # Generated from value "PM_can_manage_local_group_in_Project" located at cell 'Лист1'!B24.
+   Facts: specialize "Project_settings"  # Generated from value "Project_settings" located at cell 'Лист1'!C24.,
+         have_priority "Normal"  # Generated from value "Normal" located at cell 'Лист1'!D24.,
+         start_doing "04.06.2016T11-11-00"  # Generated from value "04.06.2016T11-11-00" located at cell 'Лист1'!E24.,
+         end_doing "05.06.2016T2-55-00"  # Generated from value "05.06.2016T2-55-00" located at cell 'Лист1'!F24.
+   Types: Task
+Individual: Per_user_themes  # Generated from value "Per_user_themes" located at cell 'Лист1'!B25.
+   Facts: specialize "Themes"  # Generated from value "Themes" located at cell 'Лист1'!C25.,
+         have_priority "Normal"  # Generated from value "Normal" located at cell 'Лист1'!D25.,
+         start_doing "21.07.2011T8-42-00"  # Generated from value "21.07.2011T8-42-00" located at cell 'Лист1'!E25.,
+         end_doing "04.08.2011T23-30-00"  # Generated from value "04.08.2011T23-30-00" located at cell 'Лист1'!F25.
+   Types: Task
+Individual: unwanted_commercial_email_by_Easy_Redmine  # Generated from value "unwanted_commercial_email_by_Easy_Redmine" located at cell 'Лист1'!B26.
+   Facts: specialize "Website_redmine.org"  # Generated from value "Website_redmine.org" located at cell 'Лист1'!C26.,
+         have_priority "High"  # Generated from value "High" located at cell 'Лист1'!D26.,
+         start_doing "30.03.2013T22-33-00"  # Generated from value "30.03.2013T22-33-00" located at cell 'Лист1'!E26.,
+         end_doing "29.05.2013T23-16-00"  # Generated from value "29.05.2013T23-16-00" located at cell 'Лист1'!F26.
+   Types: Task
+Individual: Remove_blog_plugin_from_catalogue  # Generated from value "Remove_blog_plugin_from_catalogue" located at cell 'Лист1'!B27.
+   Facts: specialize "Website_redmine.org"  # Generated from value "Website_redmine.org" located at cell 'Лист1'!C27.,
+         have_priority "Normal"  # Generated from value "Normal" located at cell 'Лист1'!D27.,
+         start_doing "13.01.2013T23-01-00"  # Generated from value "13.01.2013T23-01-00" located at cell 'Лист1'!E27.,
+         end_doing "14.01.2013T8-43-00"  # Generated from value "14.01.2013T8-43-00" located at cell 'Лист1'!F27.
+   Types: Task
+Individual: Re-Create_the_Community_Relations_Team  # Generated from value "Re-Create_the_Community_Relations_Team" located at cell 'Лист1'!B28.
+   Facts: specialize "Website_redmine.org"  # Generated from value "Website_redmine.org" located at cell 'Лист1'!C28.,
+         have_priority "Normal"  # Generated from value "Normal" located at cell 'Лист1'!D28.,
+         start_doing "21.06.2013T18-23-00"  # Generated from value "21.06.2013T18-23-00" located at cell 'Лист1'!E28.,
+         end_doing "25.06.2013T14-53-00"  # Generated from value "25.06.2013T14-53-00" located at cell 'Лист1'!F28.
+   Types: Task
+Individual: Load_associations_of_query_results_more_efficiently  # Generated from value "Load_associations_of_query_results_more_efficiently" located at cell 'Лист1'!B29.
+   Facts: specialize "Performance"  # Generated from value "Performance" located at cell 'Лист1'!C29.,
+         have_priority "Normal"  # Generated from value "Normal" located at cell 'Лист1'!D29.,
+         start_doing "18.01.2017T13-36-00"  # Generated from value "18.01.2017T13-36-00" located at cell 'Лист1'!E29.,
+         end_doing "18.01.2017T14-49-00"  # Generated from value "18.01.2017T14-49-00" located at cell 'Лист1'!F29.
+   Types: Task
+Individual: View_attachments_on_the_issue_list  # Generated from value "View_attachments_on_the_issue_list" located at cell 'Лист1'!B30.
+   Facts: specialize "Issues_list"  # Generated from value "Issues_list" located at cell 'Лист1'!C30.,
+         have_priority "Normal"  # Generated from value "Normal" located at cell 'Лист1'!D30.,
+         start_doing "04.04.2017T19-06-00"  # Generated from value "04.04.2017T19-06-00" located at cell 'Лист1'!E30.,
+         end_doing "04.04.2017T19-07-00"  # Generated from value "04.04.2017T19-07-00" located at cell 'Лист1'!F30.
+   Types: Task
+Individual: Render_repository_graphs_using_Chart.js_instead_of_SVG  # Generated from value "Render_repository_graphs_using_Chart.js_instead_of_SVG" located at cell 'Лист1'!B31.
+   Facts: specialize "UI"  # Generated from value "UI" located at cell 'Лист1'!C31.,
+         have_priority "Normal"  # Generated from value "Normal" located at cell 'Лист1'!D31.,
+         start_doing "25.06.2017T15-51-00"  # Generated from value "25.06.2017T15-51-00" located at cell 'Лист1'!E31.,
+         end_doing "25.06.2017T15-52-00"  # Generated from value "25.06.2017T15-52-00" located at cell 'Лист1'!F31.
+   Types: Task
+Individual: Display_details_about_inheritance_when_editing_a_member_roles  # Generated from value "Display_details_about_inheritance_when_editing_a_member_roles" located at cell 'Лист1'!B32.
+   Facts: specialize "Project_settings"  # Generated from value "Project_settings" located at cell 'Лист1'!C32.,
+         have_priority "Normal"  # Generated from value "Normal" located at cell 'Лист1'!D32.,
+         start_doing "15.03.2019T11-09-00"  # Generated from value "15.03.2019T11-09-00" located at cell 'Лист1'!E32.,
+         end_doing "15.03.2019T11-11-00"  # Generated from value "15.03.2019T11-11-00" located at cell 'Лист1'!F32.
+   Types: Task
+Individual: Ability_to_filter_roles_that_are_displayed_on_the_permissions_report  # Generated from value "Ability_to_filter_roles_that_are_displayed_on_the_permissions_report" located at cell 'Лист1'!B33.
+   Facts: specialize "Administration"  # Generated from value "Administration" located at cell 'Лист1'!C33.,
+         have_priority "Normal"  # Generated from value "Normal" located at cell 'Лист1'!D33.,
+         start_doing "25.10.2019T17-52-00"  # Generated from value "25.10.2019T17-52-00" located at cell 'Лист1'!E33.,
+         end_doing "26.10.2019T8-04-00"  # Generated from value "26.10.2019T8-04-00" located at cell 'Лист1'!F33.
+   Types: Task
+Individual: Stable_branch_broken  # Generated from value "Stable_branch_broken" located at cell 'Лист1'!B34.
+   Facts: specialize "SCM"  # Generated from value "SCM" located at cell 'Лист1'!C34.,
+         have_priority "Urgent"  # Generated from value "Urgent" located at cell 'Лист1'!D34.,
+         start_doing "06.04.2011T8-02-00"  # Generated from value "06.04.2011T8-02-00" located at cell 'Лист1'!E34.,
+         end_doing "06.04.2011T10-30-00"  # Generated from value "06.04.2011T10-30-00" located at cell 'Лист1'!F34.
+   Types: Task
+Individual: prevent_deadlocks_in_attachment_deduplication  # Generated from value "prevent_deadlocks_in_attachment_deduplication" located at cell 'Лист1'!B35.
+   Facts: specialize "Attachments"  # Generated from value "Attachments" located at cell 'Лист1'!C35.,
+         have_priority "Normal"  # Generated from value "Normal" located at cell 'Лист1'!D35.,
+         start_doing "12.04.2017T3-53-00"  # Generated from value "12.04.2017T3-53-00" located at cell 'Лист1'!E35.,
+         end_doing "13.04.2017T14-10-00"  # Generated from value "13.04.2017T14-10-00" located at cell 'Лист1'!F35.
+   Types: Task
+Individual: Issue_details_page_shows_default_values_for_custom_fields_that_aren't_actually_set  # Generated from value "Issue_details_page_shows_default_values_for_custom_fields_that_aren't_actually_set" located at cell 'Лист1'!B36.
+   Facts: specialize "Custom_fields"  # Generated from value "Custom_fields" located at cell 'Лист1'!C36.,
+         have_priority "Normal"  # Generated from value "Normal" located at cell 'Лист1'!D36.,
+         start_doing "28.04.2017T17-13-00"  # Generated from value "28.04.2017T17-13-00" located at cell 'Лист1'!E36.,
+         end_doing "23.09.2018T10-27-00"  # Generated from value "23.09.2018T10-27-00" located at cell 'Лист1'!F36.
+   Types: Task
+Individual: redmine/i18n.rb_-_languages_lookup_class_variable_is_rebuilt_every_time  # Generated from value "redmine/i18n.rb_-_languages_lookup_class_variable_is_rebuilt_every_time" located at cell 'Лист1'!B37.
+   Facts: specialize "I18n"  # Generated from value "I18n" located at cell 'Лист1'!C37.,
+         have_priority "Normal"  # Generated from value "Normal" located at cell 'Лист1'!D37.,
+         start_doing "06.02.2017T11-56-00"  # Generated from value "06.02.2017T11-56-00" located at cell 'Лист1'!E37.,
+         end_doing "02.03.2017T20-42-00"  # Generated from value "02.03.2017T20-42-00" located at cell 'Лист1'!F37.
+   Types: Task
+Individual: Update_Rouge_to_3.12.0  # Generated from value "Update_Rouge_to_3.12.0" located at cell 'Лист1'!B38.
+   Facts: specialize "Gems_support"  # Generated from value "Gems_support" located at cell 'Лист1'!C38.,
+         have_priority "Normal"  # Generated from value "Normal" located at cell 'Лист1'!D38.,
+         start_doing "12.06.2019T8-21-00"  # Generated from value "12.06.2019T8-21-00" located at cell 'Лист1'!E38.,
+         end_doing "14.08.2019T7-24-00"  # Generated from value "14.08.2019T7-24-00" located at cell 'Лист1'!F38.
+   Types: Task
+Individual: Per_role_visibility_settings_for_spent_time_custom_fields  # Generated from value "Per_role_visibility_settings_for_spent_time_custom_fields" located at cell 'Лист1'!B39.
+   Facts: specialize "Custom_fields"  # Generated from value "Custom_fields" located at cell 'Лист1'!C39.,
+         have_priority "Normal"  # Generated from value "Normal" located at cell 'Лист1'!D39.,
+         start_doing "07.08.2019T8-03-00"  # Generated from value "07.08.2019T8-03-00" located at cell 'Лист1'!E39.,
+         end_doing "18.08.2019T5-28-00"  # Generated from value "18.08.2019T5-28-00" located at cell 'Лист1'!F39.
+   Types: Task
+Individual: Per_role_visibility_settings_for_project_custom_fields  # Generated from value "Per_role_visibility_settings_for_project_custom_fields" located at cell 'Лист1'!B40.
+   Facts: specialize "Custom_fields"  # Generated from value "Custom_fields" located at cell 'Лист1'!C40.,
+         have_priority "Normal"  # Generated from value "Normal" located at cell 'Лист1'!D40.,
+         start_doing "19.08.2019T22-18-00"  # Generated from value "19.08.2019T22-18-00" located at cell 'Лист1'!E40.,
+         end_doing "20.08.2019T3-48-00"  # Generated from value "20.08.2019T3-48-00" located at cell 'Лист1'!F40.
+   Types: Task
+Individual: Allow_issue_auto_complete_to_return_10_issues_when_there_is_not_search_term_provided  # Generated from value "Allow_issue_auto_complete_to_return_10_issues_when_there_is_not_search_term_provided" located at cell 'Лист1'!B41.
+   Facts: specialize "Issues"  # Generated from value "Issues" located at cell 'Лист1'!C41.,
+         have_priority "Normal"  # Generated from value "Normal" located at cell 'Лист1'!D41.,
+         start_doing "02.09.2019T7-19-00"  # Generated from value "02.09.2019T7-19-00" located at cell 'Лист1'!E41.,
+         end_doing "12.09.2019T1-36-00"  # Generated from value "12.09.2019T1-36-00" located at cell 'Лист1'!F41.
+   Types: Task
+Individual: Add_clear_query_icon_next_to_selected_query_in_sidebar  # Generated from value "Add_clear_query_icon_next_to_selected_query_in_sidebar" located at cell 'Лист1'!B42.
+   Facts: specialize "UI"  # Generated from value "UI" located at cell 'Лист1'!C42.,
+         have_priority "Normal"  # Generated from value "Normal" located at cell 'Лист1'!D42.,
+         start_doing "29.06.2019T13-43-00"  # Generated from value "29.06.2019T13-43-00" located at cell 'Лист1'!E42.,
+         end_doing "14.09.2019T3-03-00"  # Generated from value "14.09.2019T3-03-00" located at cell 'Лист1'!F42.
+   Types: Task
+Individual: Move_the_links_(All_time_entries,_Import)_from_Spent_time_section_of_the_spent_time_list_sidebar_under_a_dropdown_  # Generated from value "Move_the_links_(All_time_entries,_Import)_from_Spent_time_section_of_the_spent_time_list_sidebar_under_a_dropdown_" located at cell 'Лист1'!B43.
+   Facts: specialize "UI"  # Generated from value "UI" located at cell 'Лист1'!C43.,
+         have_priority "Normal"  # Generated from value "Normal" located at cell 'Лист1'!D43.,
+         start_doing "20.06.2019T22-50-00"  # Generated from value "20.06.2019T22-50-00" located at cell 'Лист1'!E43.,
+         end_doing "27.09.2019T11-38-00"  # Generated from value "27.09.2019T11-38-00" located at cell 'Лист1'!F43.
+   Types: Task
+Individual: Make_form_validation_errors_more_obvious_for_users_  # Generated from value "Make_form_validation_errors_more_obvious_for_users_" located at cell 'Лист1'!B44.
+   Facts: specialize "UI"  # Generated from value "UI" located at cell 'Лист1'!C44.,
+         have_priority "Normal"  # Generated from value "Normal" located at cell 'Лист1'!D44.,
+         start_doing "07.01.2020T23-26-00"  # Generated from value "07.01.2020T23-26-00" located at cell 'Лист1'!E44.,
+         end_doing "04.02.2020T15-30-00"  # Generated from value "04.02.2020T15-30-00" located at cell 'Лист1'!F44.
+   Types: Task
+Individual: Mark_default_version_in_versions_tab_from_project_settings  # Generated from value "Mark_default_version_in_versions_tab_from_project_settings" located at cell 'Лист1'!B45.
+   Facts: specialize "Project_settings"  # Generated from value "Project_settings" located at cell 'Лист1'!C45.,
+         have_priority "Normal"  # Generated from value "Normal" located at cell 'Лист1'!D45.,
+         start_doing "15.12.2017T7-38-00"  # Generated from value "15.12.2017T7-38-00" located at cell 'Лист1'!E45.,
+         end_doing "09.08.2018T13-50-00"  # Generated from value "09.08.2018T13-50-00" located at cell 'Лист1'!F45.
+   Types: Task
+Individual: Serbian_Latin_translation_patch_(sr-YU.yml)  # Generated from value "Serbian_Latin_translation_patch_(sr-YU.yml)" located at cell 'Лист1'!B46.
+   Facts: specialize "Translations"  # Generated from value "Translations" located at cell 'Лист1'!C46.,
+         have_priority "Normal"  # Generated from value "Normal" located at cell 'Лист1'!D46.,
+         start_doing "10.01.2013T16-14-00"  # Generated from value "10.01.2013T16-14-00" located at cell 'Лист1'!E46.,
+         end_doing "11.01.2013T10-48-00"  # Generated from value "11.01.2013T10-48-00" located at cell 'Лист1'!F46.
+   Types: Task
+Individual: Totals_cannot_be_removed_completely_if_some_columns_are_set_in_the_global_settings  # Generated from value "Totals_cannot_be_removed_completely_if_some_columns_are_set_in_the_global_settings" located at cell 'Лист1'!B47.
+   Facts: specialize "Issues_filter"  # Generated from value "Issues_filter" located at cell 'Лист1'!C47.,
+         have_priority "Normal"  # Generated from value "Normal" located at cell 'Лист1'!D47.,
+         start_doing "01.03.2016T15-35-00"  # Generated from value "01.03.2016T15-35-00" located at cell 'Лист1'!E47.,
+         end_doing "12.06.2016T8-03-00"  # Generated from value "12.06.2016T8-03-00" located at cell 'Лист1'!F47.
+   Types: Task
+Individual: Couldn't_find_template_for_digesting_error_in_the_log_when_sending_a_thumbnail_or_an_attachment  # Generated from value "Couldn't_find_template_for_digesting_error_in_the_log_when_sending_a_thumbnail_or_an_attachment" located at cell 'Лист1'!B48.
+   Facts: specialize "Attachments"  # Generated from value "Attachments" located at cell 'Лист1'!C48.,
+         have_priority "Low"  # Generated from value "Low" located at cell 'Лист1'!D48.,
+         start_doing "09.07.2015T11-37-00"  # Generated from value "09.07.2015T11-37-00" located at cell 'Лист1'!E48.,
+         end_doing "12.12.2019T15-57-00"  # Generated from value "12.12.2019T15-57-00" located at cell 'Лист1'!F48.
+   Types: Task
+Individual: Skip_thumbnail_tests_if_ImageMagick_convert_command_is_not_available  # Generated from value "Skip_thumbnail_tests_if_ImageMagick_convert_command_is_not_available" located at cell 'Лист1'!B49.
+   Facts: specialize "Code_cleanup/refactoring"  # Generated from value "Code_cleanup/refactoring" located at cell 'Лист1'!C49.,
+         have_priority "Normal"  # Generated from value "Normal" located at cell 'Лист1'!D49.,
+         start_doing "31.03.2020T19-21-00"  # Generated from value "31.03.2020T19-21-00" located at cell 'Лист1'!E49.,
+         end_doing "02.04.2020T10-04-00"  # Generated from value "02.04.2020T10-04-00" located at cell 'Лист1'!F49.
+   Types: Task
+Individual: Should_not_replace_all_invalid_utf8_characters_(e.g_in_mail)  # Generated from value "Should_not_replace_all_invalid_utf8_characters_(e.g_in_mail)" located at cell 'Лист1'!B50.
+   Facts: specialize "I18n"  # Generated from value "I18n" located at cell 'Лист1'!C50.,
+         have_priority "Normal"  # Generated from value "Normal" located at cell 'Лист1'!D50.,
+         start_doing "15.12.2016T2-13-00"  # Generated from value "15.12.2016T2-13-00" located at cell 'Лист1'!E50.,
+         end_doing "28.01.2017T8-56-00"  # Generated from value "28.01.2017T8-56-00" located at cell 'Лист1'!F50.
+   Types: Task
+Individual: Add_Total_estimated_hours_column_on_issue_list_  # Generated from value "Add_Total_estimated_hours_column_on_issue_list_" located at cell 'Лист1'!B51.
+   Facts: specialize "Issues"  # Generated from value "Issues" located at cell 'Лист1'!C51.,
+         have_priority "Normal"  # Generated from value "Normal" located at cell 'Лист1'!D51.,
+         start_doing "07.09.2015T12-07-00"  # Generated from value "07.09.2015T12-07-00" located at cell 'Лист1'!E51.,
+         end_doing "12.09.2015T16-54-00"  # Generated from value "12.09.2015T16-54-00" located at cell 'Лист1'!F51.
+   Types: Task
+Individual: Lithuanian_translation_for_3.3-stable  # Generated from value "Lithuanian_translation_for_3.3-stable" located at cell 'Лист1'!B52.
+   Facts: specialize "Translations"  # Generated from value "Translations" located at cell 'Лист1'!C52.,
+         have_priority "Normal"  # Generated from value "Normal" located at cell 'Лист1'!D52.,
+         start_doing "09.12.2017T17-09-00"  # Generated from value "09.12.2017T17-09-00" located at cell 'Лист1'!E52.,
+         end_doing "10.12.2017T4-49-00"  # Generated from value "10.12.2017T4-49-00" located at cell 'Лист1'!F52.
+   Types: Task
+Individual: Czech_translation_for_3.4-stable  # Generated from value "Czech_translation_for_3.4-stable" located at cell 'Лист1'!B53.
+   Facts: specialize "Translations"  # Generated from value "Translations" located at cell 'Лист1'!C53.,
+         have_priority "Normal"  # Generated from value "Normal" located at cell 'Лист1'!D53.,
+         start_doing "09.12.2017T17-19-00"  # Generated from value "09.12.2017T17-19-00" located at cell 'Лист1'!E53.,
+         end_doing "10.12.2017T4-52-00"  # Generated from value "10.12.2017T4-52-00" located at cell 'Лист1'!F53.
+   Types: Task
+Individual: Lithuanian_default_role_developer_translation_change  # Generated from value "Lithuanian_default_role_developer_translation_change" located at cell 'Лист1'!B54.
+   Facts: specialize "Translations"  # Generated from value "Translations" located at cell 'Лист1'!C54.,
+         have_priority "Normal"  # Generated from value "Normal" located at cell 'Лист1'!D54.,
+         start_doing "09.12.2017T20-36-00"  # Generated from value "09.12.2017T20-36-00" located at cell 'Лист1'!E54.,
+         end_doing "10.12.2017T4-53-00"  # Generated from value "10.12.2017T4-53-00" located at cell 'Лист1'!F54.
+   Types: Task
+Individual: Brazilian_translation_for_3.3-stable  # Generated from value "Brazilian_translation_for_3.3-stable" located at cell 'Лист1'!B55.
+   Facts: specialize "Translations"  # Generated from value "Translations" located at cell 'Лист1'!C55.,
+         have_priority "Normal"  # Generated from value "Normal" located at cell 'Лист1'!D55.,
+         start_doing "21.12.2017T16-51-00"  # Generated from value "21.12.2017T16-51-00" located at cell 'Лист1'!E55.,
+         end_doing "21.12.2017T18-15-00"  # Generated from value "21.12.2017T18-15-00" located at cell 'Лист1'!F55.
+   Types: Task
+Individual: Updated_Japanese_translation_for_notice_account_register_done  # Generated from value "Updated_Japanese_translation_for_notice_account_register_done" located at cell 'Лист1'!B56.
+   Facts: specialize "Translations"  # Generated from value "Translations" located at cell 'Лист1'!C56.,
+         have_priority "Normal"  # Generated from value "Normal" located at cell 'Лист1'!D56.,
+         start_doing "06.01.2013T11-12-00"  # Generated from value "06.01.2013T11-12-00" located at cell 'Лист1'!E56.,
+         end_doing "06.01.2013T13-06-00"  # Generated from value "06.01.2013T13-06-00" located at cell 'Лист1'!F56.
+   Types: Task
+Individual: Journals_could_be_ordered_using_the_create_on_attribute_instead_of_the_id  # Generated from value "Journals_could_be_ordered_using_the_create_on_attribute_instead_of_the_id" located at cell 'Лист1'!B57.
+   Facts: specialize "Issues"  # Generated from value "Issues" located at cell 'Лист1'!C57.,
+         have_priority "Low"  # Generated from value "Low" located at cell 'Лист1'!D57.,
+         start_doing "25.11.2014T17-05-00"  # Generated from value "25.11.2014T17-05-00" located at cell 'Лист1'!E57.,
+         end_doing "01.12.2014T23-12-00"  # Generated from value "01.12.2014T23-12-00" located at cell 'Лист1'!F57.
+   Types: Task
+Individual: Add_useful_details_to_error_message_when_a_template_is_missing  # Generated from value "Add_useful_details_to_error_message_when_a_template_is_missing" located at cell 'Лист1'!B58.
+   Facts: specialize "Administration"  # Generated from value "Administration" located at cell 'Лист1'!C58.,
+         have_priority "Normal"  # Generated from value "Normal" located at cell 'Лист1'!D58.,
+         start_doing "04.07.2017T10-31-00"  # Generated from value "04.07.2017T10-31-00" located at cell 'Лист1'!E58.,
+         end_doing "11.01.2018T13-32-00"  # Generated from value "11.01.2018T13-32-00" located at cell 'Лист1'!F58.
+   Types: Task
+Individual: Update_French_translations  # Generated from value "Update_French_translations" located at cell 'Лист1'!B59.
+   Facts: specialize "Translations"  # Generated from value "Translations" located at cell 'Лист1'!C59.,
+         have_priority "Normal"  # Generated from value "Normal" located at cell 'Лист1'!D59.,
+         start_doing "25.07.2018T11-09-00"  # Generated from value "25.07.2018T11-09-00" located at cell 'Лист1'!E59.,
+         end_doing "23.09.2018T14-02-00"  # Generated from value "23.09.2018T14-02-00" located at cell 'Лист1'!F59.
+   Types: Task
+Individual: Wrong_columns_after_CSV_export  # Generated from value "Wrong_columns_after_CSV_export" located at cell 'Лист1'!B60.
+   Facts: specialize "Issues_filter"  # Generated from value "Issues_filter" located at cell 'Лист1'!C60.,
+         have_priority "Normal"  # Generated from value "Normal" located at cell 'Лист1'!D60.,
+         start_doing "29.08.2017T11-31-00"  # Generated from value "29.08.2017T11-31-00" located at cell 'Лист1'!E60.,
+         end_doing "04.12.2018T11-06-00"  # Generated from value "04.12.2018T11-06-00" located at cell 'Лист1'!F60.
+   Types: Task
+Individual: Preview_URL_in_Wiki_Toolbar_should_be_escaped  # Generated from value "Preview_URL_in_Wiki_Toolbar_should_be_escaped" located at cell 'Лист1'!B61.
+   Facts: specialize "Wiki"  # Generated from value "Wiki" located at cell 'Лист1'!C61.,
+         have_priority "Normal"  # Generated from value "Normal" located at cell 'Лист1'!D61.,
+         start_doing "06.02.2019T19-15-00"  # Generated from value "06.02.2019T19-15-00" located at cell 'Лист1'!E61.,
+         end_doing "11.02.2019T16-58-00"  # Generated from value "11.02.2019T16-58-00" located at cell 'Лист1'!F61.
+   Types: Task
+Individual: Filtering_issues_via_context_menu_should_not_reset_selected_columns  # Generated from value "Filtering_issues_via_context_menu_should_not_reset_selected_columns" located at cell 'Лист1'!B62.
+   Facts: specialize "Issues_list"  # Generated from value "Issues_list" located at cell 'Лист1'!C62.,
+         have_priority "Normal"  # Generated from value "Normal" located at cell 'Лист1'!D62.,
+         start_doing "04.09.2017T10-47-00"  # Generated from value "04.09.2017T10-47-00" located at cell 'Лист1'!E62.,
+         end_doing "15.03.2019T8-54-00"  # Generated from value "15.03.2019T8-54-00" located at cell 'Лист1'!F62.
+   Types: Task
+Individual: Allow_only_vertical_reorderingin_sortable_lists  # Generated from value "Allow_only_vertical_reorderingin_sortable_lists" located at cell 'Лист1'!B63.
+   Facts: specialize "UI"  # Generated from value "UI" located at cell 'Лист1'!C63.,
+         have_priority "Normal"  # Generated from value "Normal" located at cell 'Лист1'!D63.,
+         start_doing "13.10.2016T12-13-00"  # Generated from value "13.10.2016T12-13-00" located at cell 'Лист1'!E63.,
+         end_doing "03.12.2016T9-42-00"  # Generated from value "03.12.2016T9-42-00" located at cell 'Лист1'!F63.
+   Types: Task
+Individual: Fix_wrong_Japanese_label_attachment_translation  # Generated from value "Fix_wrong_Japanese_label_attachment_translation" located at cell 'Лист1'!B64.
+   Facts: specialize "Translations"  # Generated from value "Translations" located at cell 'Лист1'!C64.,
+         have_priority "Normal"  # Generated from value "Normal" located at cell 'Лист1'!D64.,
+         start_doing "17.07.2012T6-30-00"  # Generated from value "17.07.2012T6-30-00" located at cell 'Лист1'!E64.,
+         end_doing "17.07.2012T16-52-00"  # Generated from value "17.07.2012T16-52-00" located at cell 'Лист1'!F64.
+   Types: Task
+
+===========================================================================================================
+Date: 2020-04-03 12:28:37
+Ontology source: /B:/MAG/second/kursach_onto/prog/bug.owl
+Worksheet source: B:\MAG\second\kursach_onto\prog\doc\author3_add.xls
+Transformation rules: B:\MAG\second\kursach_onto\prog\doc\rules_stylesheet.json
+
+# Cell range: (Лист1!E2:F+) Comment: ""
+# Individual: @** 
+#   Types: Date
+
+Individual: 12.02.2012T17-19-00  # Generated from value "12.02.2012T17-19-00" located at cell 'Лист1'!E2.
+   Types: Date
+Individual: 09.01.2011T11-49-00  # Generated from value "09.01.2011T11-49-00" located at cell 'Лист1'!E3.
+   Types: Date
+Individual: 16.01.2018T13-31-00  # Generated from value "16.01.2018T13-31-00" located at cell 'Лист1'!E4.
+   Types: Date
+Individual: 26.06.2017T14-38-00  # Generated from value "26.06.2017T14-38-00" located at cell 'Лист1'!E5.
+   Types: Date
+Individual: 10.09.2014T9-58-00  # Generated from value "10.09.2014T9-58-00" located at cell 'Лист1'!E6.
+   Types: Date
+Individual: 08.10.2018T11-07-00  # Generated from value "08.10.2018T11-07-00" located at cell 'Лист1'!E7.
+   Types: Date
+Individual: 25.05.2011T8-43-00  # Generated from value "25.05.2011T8-43-00" located at cell 'Лист1'!E8.
+   Types: Date
+Individual: 20.02.2018T19-48-00  # Generated from value "20.02.2018T19-48-00" located at cell 'Лист1'!E9.
+   Types: Date
+Individual: 21.06.2013T18-23-00  # Generated from value "21.06.2013T18-23-00" located at cell 'Лист1'!E10.
+   Types: Date
+Individual: 26.01.2018T17-13-00  # Generated from value "26.01.2018T17-13-00" located at cell 'Лист1'!E11.
+   Types: Date
+Individual: 28.02.2018T17-19-00  # Generated from value "28.02.2018T17-19-00" located at cell 'Лист1'!E12.
+   Types: Date
+Individual: 24.08.2018T15-03-00  # Generated from value "24.08.2018T15-03-00" located at cell 'Лист1'!E13.
+   Types: Date
+Individual: 24.08.2018T15-03-00  # Generated from value "24.08.2018T15-03-00" located at cell 'Лист1'!E14.
+   Types: Date
+Individual: 17.04.2019T14-20-00  # Generated from value "17.04.2019T14-20-00" located at cell 'Лист1'!E15.
+   Types: Date
+Individual: 29.07.2018T13-44-00  # Generated from value "29.07.2018T13-44-00" located at cell 'Лист1'!E16.
+   Types: Date
+Individual: 11.06.2019T11-53-00  # Generated from value "11.06.2019T11-53-00" located at cell 'Лист1'!E17.
+   Types: Date
+Individual: 24.04.2019T11-14-00  # Generated from value "24.04.2019T11-14-00" located at cell 'Лист1'!E18.
+   Types: Date
+Individual: 12.02.2020T13-38-00  # Generated from value "12.02.2020T13-38-00" located at cell 'Лист1'!E19.
+   Types: Date
+Individual: 12.12.2013T16-09-00  # Generated from value "12.12.2013T16-09-00" located at cell 'Лист1'!E20.
+   Types: Date
+Individual: 29.11.2014T14-03-00  # Generated from value "29.11.2014T14-03-00" located at cell 'Лист1'!E21.
+   Types: Date
+Individual: 08.11.2016T15-09-00  # Generated from value "08.11.2016T15-09-00" located at cell 'Лист1'!E22.
+   Types: Date
+Individual: 13.11.2013T13-04-00  # Generated from value "13.11.2013T13-04-00" located at cell 'Лист1'!E23.
+   Types: Date
+Individual: 04.06.2016T11-11-00  # Generated from value "04.06.2016T11-11-00" located at cell 'Лист1'!E24.
+   Types: Date
+Individual: 21.07.2011T8-42-00  # Generated from value "21.07.2011T8-42-00" located at cell 'Лист1'!E25.
+   Types: Date
+Individual: 13.01.2013T23-01-00  # Generated from value "13.01.2013T23-01-00" located at cell 'Лист1'!E26.
+   Types: Date
+Individual: 30.03.2013T22-33-00  # Generated from value "30.03.2013T22-33-00" located at cell 'Лист1'!E27.
+   Types: Date
+Individual: 09.01.2013T10-21-00  # Generated from value "09.01.2013T10-21-00" located at cell 'Лист1'!E28.
+   Types: Date
+Individual: 18.01.2017T13-36-00  # Generated from value "18.01.2017T13-36-00" located at cell 'Лист1'!E29.
+   Types: Date
+Individual: 04.04.2017T19-06-00  # Generated from value "04.04.2017T19-06-00" located at cell 'Лист1'!E30.
+   Types: Date
+Individual: 25.06.2017T15-51-00  # Generated from value "25.06.2017T15-51-00" located at cell 'Лист1'!E31.
+   Types: Date
+Individual: 15.03.2019T11-09-00  # Generated from value "15.03.2019T11-09-00" located at cell 'Лист1'!E32.
+   Types: Date
+Individual: 25.10.2019T17-52-00  # Generated from value "25.10.2019T17-52-00" located at cell 'Лист1'!E33.
+   Types: Date
+Individual: 06.04.2011T8-02-00  # Generated from value "06.04.2011T8-02-00" located at cell 'Лист1'!E34.
+   Types: Date
+Individual: 12.04.2017T3-53-00  # Generated from value "12.04.2017T3-53-00" located at cell 'Лист1'!E35.
+   Types: Date
+Individual: 28.04.2017T17-13-00  # Generated from value "28.04.2017T17-13-00" located at cell 'Лист1'!E36.
+   Types: Date
+Individual: 06.02.2017T11-56-00  # Generated from value "06.02.2017T11-56-00" located at cell 'Лист1'!E37.
+   Types: Date
+Individual: 12.06.2019T8-21-00  # Generated from value "12.06.2019T8-21-00" located at cell 'Лист1'!E38.
+   Types: Date
+Individual: 07.08.2019T8-03-00  # Generated from value "07.08.2019T8-03-00" located at cell 'Лист1'!E39.
+   Types: Date
+Individual: 19.08.2019T22-18-00  # Generated from value "19.08.2019T22-18-00" located at cell 'Лист1'!E40.
+   Types: Date
+Individual: 02.09.2019T7-19-00  # Generated from value "02.09.2019T7-19-00" located at cell 'Лист1'!E41.
+   Types: Date
+Individual: 29.06.2019T13-43-00  # Generated from value "29.06.2019T13-43-00" located at cell 'Лист1'!E42.
+   Types: Date
+Individual: 20.06.2019T22-50-00  # Generated from value "20.06.2019T22-50-00" located at cell 'Лист1'!E43.
+   Types: Date
+Individual: 07.01.2020T23-26-00  # Generated from value "07.01.2020T23-26-00" located at cell 'Лист1'!E44.
+   Types: Date
+Individual: 15.12.2017T7-38-00  # Generated from value "15.12.2017T7-38-00" located at cell 'Лист1'!E45.
+   Types: Date
+Individual: 10.01.2013T16-14-00  # Generated from value "10.01.2013T16-14-00" located at cell 'Лист1'!E46.
+   Types: Date
+Individual: 01.03.2016T15-35-00  # Generated from value "01.03.2016T15-35-00" located at cell 'Лист1'!E47.
+   Types: Date
+Individual: 09.07.2015T11-37-00  # Generated from value "09.07.2015T11-37-00" located at cell 'Лист1'!E48.
+   Types: Date
+Individual: 31.03.2020T19-21-00  # Generated from value "31.03.2020T19-21-00" located at cell 'Лист1'!E49.
+   Types: Date
+Individual: 15.12.2016T2-13-00  # Generated from value "15.12.2016T2-13-00" located at cell 'Лист1'!E50.
+   Types: Date
+Individual: 07.09.2015T12-07-00  # Generated from value "07.09.2015T12-07-00" located at cell 'Лист1'!E51.
+   Types: Date
+Individual: 09.12.2017T17-09-00  # Generated from value "09.12.2017T17-09-00" located at cell 'Лист1'!E52.
+   Types: Date
+Individual: 09.12.2017T17-19-00  # Generated from value "09.12.2017T17-19-00" located at cell 'Лист1'!E53.
+   Types: Date
+Individual: 09.12.2017T20-36-00  # Generated from value "09.12.2017T20-36-00" located at cell 'Лист1'!E54.
+   Types: Date
+Individual: 21.12.2017T16-51-00  # Generated from value "21.12.2017T16-51-00" located at cell 'Лист1'!E55.
+   Types: Date
+Individual: 06.01.2013T11-12-00  # Generated from value "06.01.2013T11-12-00" located at cell 'Лист1'!E56.
+   Types: Date
+Individual: 25.11.2014T17-05-00  # Generated from value "25.11.2014T17-05-00" located at cell 'Лист1'!E57.
+   Types: Date
+Individual: 04.07.2017T10-31-00  # Generated from value "04.07.2017T10-31-00" located at cell 'Лист1'!E58.
+   Types: Date
+Individual: 25.07.2018T11-09-00  # Generated from value "25.07.2018T11-09-00" located at cell 'Лист1'!E59.
+   Types: Date
+Individual: 29.08.2017T11-31-00  # Generated from value "29.08.2017T11-31-00" located at cell 'Лист1'!E60.
+   Types: Date
+Individual: 06.02.2019T19-15-00  # Generated from value "06.02.2019T19-15-00" located at cell 'Лист1'!E61.
+   Types: Date
+Individual: 04.09.2017T10-47-00  # Generated from value "04.09.2017T10-47-00" located at cell 'Лист1'!E62.
+   Types: Date
+Individual: 13.10.2016T12-13-00  # Generated from value "13.10.2016T12-13-00" located at cell 'Лист1'!E63.
+   Types: Date
+Individual: 17.07.2012T6-30-00  # Generated from value "17.07.2012T6-30-00" located at cell 'Лист1'!E64.
+   Types: Date
+Individual: 12.02.2012T17-42-00  # Generated from value "12.02.2012T17-42-00" located at cell 'Лист1'!F2.
+   Types: Date
+Individual: 02.02.2011T11-04-00  # Generated from value "02.02.2011T11-04-00" located at cell 'Лист1'!F3.
+   Types: Date
+Individual: 26.01.2018T1-01-00  # Generated from value "26.01.2018T1-01-00" located at cell 'Лист1'!F4.
+   Types: Date
+Individual: 27.06.2017T7-27-00  # Generated from value "27.06.2017T7-27-00" located at cell 'Лист1'!F5.
+   Types: Date
+Individual: 11.09.2014T19-46-00  # Generated from value "11.09.2014T19-46-00" located at cell 'Лист1'!F6.
+   Types: Date
+Individual: 08.10.2018T16-55-00  # Generated from value "08.10.2018T16-55-00" located at cell 'Лист1'!F7.
+   Types: Date
+Individual: 09.03.2020T14-42-00  # Generated from value "09.03.2020T14-42-00" located at cell 'Лист1'!F8.
+   Types: Date
+Individual: 20.02.2018T20-41-00  # Generated from value "20.02.2018T20-41-00" located at cell 'Лист1'!F9.
+   Types: Date
+Individual: 25.06.2013T14-53-00  # Generated from value "25.06.2013T14-53-00" located at cell 'Лист1'!F10.
+   Types: Date
+Individual: 29.05.2018T6-52-00  # Generated from value "29.05.2018T6-52-00" located at cell 'Лист1'!F11.
+   Types: Date
+Individual: 16.06.2018T12-54-00  # Generated from value "16.06.2018T12-54-00" located at cell 'Лист1'!F12.
+   Types: Date
+Individual: 29.08.2018T9-26-00  # Generated from value "29.08.2018T9-26-00" located at cell 'Лист1'!F13.
+   Types: Date
+Individual: 29.08.2018T9-26-00  # Generated from value "29.08.2018T9-26-00" located at cell 'Лист1'!F14.
+   Types: Date
+Individual: 18.04.2019T9-44-00  # Generated from value "18.04.2019T9-44-00" located at cell 'Лист1'!F15.
+   Types: Date
+Individual: 23.04.2019T17-37-00  # Generated from value "23.04.2019T17-37-00" located at cell 'Лист1'!F16.
+   Types: Date
+Individual: 30.06.2019T7-38-00  # Generated from value "30.06.2019T7-38-00" located at cell 'Лист1'!F17.
+   Types: Date
+Individual: 27.08.2019T3-05-00  # Generated from value "27.08.2019T3-05-00" located at cell 'Лист1'!F18.
+   Types: Date
+Individual: 29.02.2020T15-39-00  # Generated from value "29.02.2020T15-39-00" located at cell 'Лист1'!F19.
+   Types: Date
+Individual: 11.01.2014T12-23-00  # Generated from value "11.01.2014T12-23-00" located at cell 'Лист1'!F20.
+   Types: Date
+Individual: 26.12.2014T11-42-00  # Generated from value "26.12.2014T11-42-00" located at cell 'Лист1'!F21.
+   Types: Date
+Individual: 26.11.2016T10-01-00  # Generated from value "26.11.2016T10-01-00" located at cell 'Лист1'!F22.
+   Types: Date
+Individual: 10.02.2014T9-32-00  # Generated from value "10.02.2014T9-32-00" located at cell 'Лист1'!F23.
+   Types: Date
+Individual: 05.06.2016T2-55-00  # Generated from value "05.06.2016T2-55-00" located at cell 'Лист1'!F24.
+   Types: Date
+Individual: 04.08.2011T23-30-00  # Generated from value "04.08.2011T23-30-00" located at cell 'Лист1'!F25.
+   Types: Date
+Individual: 14.01.2013T8-43-00  # Generated from value "14.01.2013T8-43-00" located at cell 'Лист1'!F26.
+   Types: Date
+Individual: 29.05.2013T23-16-00  # Generated from value "29.05.2013T23-16-00" located at cell 'Лист1'!F27.
+   Types: Date
+Individual: 09.01.2013T17-48-00  # Generated from value "09.01.2013T17-48-00" located at cell 'Лист1'!F28.
+   Types: Date
+Individual: 18.01.2017T14-49-00  # Generated from value "18.01.2017T14-49-00" located at cell 'Лист1'!F29.
+   Types: Date
+Individual: 04.04.2017T19-07-00  # Generated from value "04.04.2017T19-07-00" located at cell 'Лист1'!F30.
+   Types: Date
+Individual: 25.06.2017T15-52-00  # Generated from value "25.06.2017T15-52-00" located at cell 'Лист1'!F31.
+   Types: Date
+Individual: 15.03.2019T11-11-00  # Generated from value "15.03.2019T11-11-00" located at cell 'Лист1'!F32.
+   Types: Date
+Individual: 26.10.2019T8-04-00  # Generated from value "26.10.2019T8-04-00" located at cell 'Лист1'!F33.
+   Types: Date
+Individual: 06.04.2011T10-30-00  # Generated from value "06.04.2011T10-30-00" located at cell 'Лист1'!F34.
+   Types: Date
+Individual: 13.04.2017T14-10-00  # Generated from value "13.04.2017T14-10-00" located at cell 'Лист1'!F35.
+   Types: Date
+Individual: 23.09.2018T10-27-00  # Generated from value "23.09.2018T10-27-00" located at cell 'Лист1'!F36.
+   Types: Date
+Individual: 02.03.2017T20-42-00  # Generated from value "02.03.2017T20-42-00" located at cell 'Лист1'!F37.
+   Types: Date
+Individual: 14.08.2019T7-24-00  # Generated from value "14.08.2019T7-24-00" located at cell 'Лист1'!F38.
+   Types: Date
+Individual: 18.08.2019T5-28-00  # Generated from value "18.08.2019T5-28-00" located at cell 'Лист1'!F39.
+   Types: Date
+Individual: 20.08.2019T3-48-00  # Generated from value "20.08.2019T3-48-00" located at cell 'Лист1'!F40.
+   Types: Date
+Individual: 12.09.2019T1-36-00  # Generated from value "12.09.2019T1-36-00" located at cell 'Лист1'!F41.
+   Types: Date
+Individual: 14.09.2019T3-03-00  # Generated from value "14.09.2019T3-03-00" located at cell 'Лист1'!F42.
+   Types: Date
+Individual: 27.09.2019T11-38-00  # Generated from value "27.09.2019T11-38-00" located at cell 'Лист1'!F43.
+   Types: Date
+Individual: 04.02.2020T15-30-00  # Generated from value "04.02.2020T15-30-00" located at cell 'Лист1'!F44.
+   Types: Date
+Individual: 09.08.2018T13-50-00  # Generated from value "09.08.2018T13-50-00" located at cell 'Лист1'!F45.
+   Types: Date
+Individual: 11.01.2013T10-48-00  # Generated from value "11.01.2013T10-48-00" located at cell 'Лист1'!F46.
+   Types: Date
+Individual: 12.06.2016T8-03-00  # Generated from value "12.06.2016T8-03-00" located at cell 'Лист1'!F47.
+   Types: Date
+Individual: 12.12.2019T15-57-00  # Generated from value "12.12.2019T15-57-00" located at cell 'Лист1'!F48.
+   Types: Date
+Individual: 02.04.2020T10-04-00  # Generated from value "02.04.2020T10-04-00" located at cell 'Лист1'!F49.
+   Types: Date
+Individual: 28.01.2017T8-56-00  # Generated from value "28.01.2017T8-56-00" located at cell 'Лист1'!F50.
+   Types: Date
+Individual: 12.09.2015T16-54-00  # Generated from value "12.09.2015T16-54-00" located at cell 'Лист1'!F51.
+   Types: Date
+Individual: 10.12.2017T4-49-00  # Generated from value "10.12.2017T4-49-00" located at cell 'Лист1'!F52.
+   Types: Date
+Individual: 10.12.2017T4-52-00  # Generated from value "10.12.2017T4-52-00" located at cell 'Лист1'!F53.
+   Types: Date
+Individual: 10.12.2017T4-53-00  # Generated from value "10.12.2017T4-53-00" located at cell 'Лист1'!F54.
+   Types: Date
+Individual: 21.12.2017T18-15-00  # Generated from value "21.12.2017T18-15-00" located at cell 'Лист1'!F55.
+   Types: Date
+Individual: 06.01.2013T13-06-00  # Generated from value "06.01.2013T13-06-00" located at cell 'Лист1'!F56.
+   Types: Date
+Individual: 01.12.2014T23-12-00  # Generated from value "01.12.2014T23-12-00" located at cell 'Лист1'!F57.
+   Types: Date
+Individual: 11.01.2018T13-32-00  # Generated from value "11.01.2018T13-32-00" located at cell 'Лист1'!F58.
+   Types: Date
+Individual: 23.09.2018T14-02-00  # Generated from value "23.09.2018T14-02-00" located at cell 'Лист1'!F59.
+   Types: Date
+Individual: 04.12.2018T11-06-00  # Generated from value "04.12.2018T11-06-00" located at cell 'Лист1'!F60.
+   Types: Date
+Individual: 11.02.2019T16-58-00  # Generated from value "11.02.2019T16-58-00" located at cell 'Лист1'!F61.
+   Types: Date
+Individual: 15.03.2019T8-54-00  # Generated from value "15.03.2019T8-54-00" located at cell 'Лист1'!F62.
+   Types: Date
+Individual: 03.12.2016T9-42-00  # Generated from value "03.12.2016T9-42-00" located at cell 'Лист1'!F63.
+   Types: Date
+Individual: 17.07.2012T16-52-00  # Generated from value "17.07.2012T16-52-00" located at cell 'Лист1'!F64.
+   Types: Date
+
+# Cell range: (Лист1!B2:B+) Comment: ""
+# Individual: @B* 
+#   Types: @B1
+#   Facts: specialize @C*,
+# have_priority @D*,
+# start_doing @E*,
+# end_doing @F*,
+# is_assigned @G*
+
+Individual: Atom_returns_500_error  # Generated from value "Atom_returns_500_error" located at cell 'Лист1'!B2.
+   Facts: specialize "Website_redmine.org"  # Generated from value "Website_redmine.org" located at cell 'Лист1'!C2.,
+         have_priority "High"  # Generated from value "High" located at cell 'Лист1'!D2.,
+         start_doing "12.02.2012T17-19-00"  # Generated from value "12.02.2012T17-19-00" located at cell 'Лист1'!E2.,
+         end_doing "12.02.2012T17-42-00"  # Generated from value "12.02.2012T17-42-00" located at cell 'Лист1'!F2.,
+         is_assigned "Toshi_MARUYAMA"  # Generated from value "Toshi_MARUYAMA" located at cell 'Лист1'!G2.
+   Types: Task
+Individual: Test_failures_in_MercurialAdapterTest  # Generated from value "Test_failures_in_MercurialAdapterTest" located at cell 'Лист1'!B3.
+   Facts: specialize "SCM"  # Generated from value "SCM" located at cell 'Лист1'!C3.,
+         have_priority "High"  # Generated from value "High" located at cell 'Лист1'!D3.,
+         start_doing "09.01.2011T11-49-00"  # Generated from value "09.01.2011T11-49-00" located at cell 'Лист1'!E3.,
+         end_doing "02.02.2011T11-04-00"  # Generated from value "02.02.2011T11-04-00" located at cell 'Лист1'!F3.,
+         is_assigned "Jean-Philippe_Lang"  # Generated from value "Jean-Philippe_Lang" located at cell 'Лист1'!G3.
+   Types: Task
+Individual: Inappropriate_file_uploads_in_the_documentation  # Generated from value "Inappropriate_file_uploads_in_the_documentation" located at cell 'Лист1'!B4.
+   Facts: specialize "Website_redmine.org"  # Generated from value "Website_redmine.org" located at cell 'Лист1'!C4.,
+         have_priority "High"  # Generated from value "High" located at cell 'Лист1'!D4.,
+         start_doing "16.01.2018T13-31-00"  # Generated from value "16.01.2018T13-31-00" located at cell 'Лист1'!E4.,
+         end_doing "26.01.2018T1-01-00"  # Generated from value "26.01.2018T1-01-00" located at cell 'Лист1'!F4.
+   Types: Task
+Individual: _Simplified_Chinese_translation_for_3.3-stable  # Generated from value "_Simplified_Chinese_translation_for_3.3-stable" located at cell 'Лист1'!B5.
+   Facts: specialize "Translations"  # Generated from value "Translations" located at cell 'Лист1'!C5.,
+         have_priority "Normal"  # Generated from value "Normal" located at cell 'Лист1'!D5.,
+         start_doing "26.06.2017T14-38-00"  # Generated from value "26.06.2017T14-38-00" located at cell 'Лист1'!E5.,
+         end_doing "27.06.2017T7-27-00"  # Generated from value "27.06.2017T7-27-00" located at cell 'Лист1'!F5.,
+         is_assigned "Toshi_MARUYAMA"  # Generated from value "Toshi_MARUYAMA" located at cell 'Лист1'!G5.
+   Types: Task
+Individual: PDF_export_fails_if_there_is_U+FFFD_in_issue_data_or_journals  # Generated from value "PDF_export_fails_if_there_is_U+FFFD_in_issue_data_or_journals" located at cell 'Лист1'!B6.
+   Facts: specialize "PDF_export"  # Generated from value "PDF_export" located at cell 'Лист1'!C6.,
+         have_priority "Normal"  # Generated from value "Normal" located at cell 'Лист1'!D6.,
+         start_doing "10.09.2014T9-58-00"  # Generated from value "10.09.2014T9-58-00" located at cell 'Лист1'!E6.,
+         end_doing "11.09.2014T19-46-00"  # Generated from value "11.09.2014T19-46-00" located at cell 'Лист1'!F6.,
+         is_assigned "Toshi_MARUYAMA"  # Generated from value "Toshi_MARUYAMA" located at cell 'Лист1'!G6.
+   Types: Task
+Individual: Conflict_with_rights_and_roles.  # Generated from value "Conflict_with_rights_and_roles." located at cell 'Лист1'!B7.
+   Facts: specialize "Permissions_and_roles"  # Generated from value "Permissions_and_roles" located at cell 'Лист1'!C7.,
+         have_priority "Normal"  # Generated from value "Normal" located at cell 'Лист1'!D7.,
+         start_doing "08.10.2018T11-07-00"  # Generated from value "08.10.2018T11-07-00" located at cell 'Лист1'!E7.,
+         end_doing "08.10.2018T16-55-00"  # Generated from value "08.10.2018T16-55-00" located at cell 'Лист1'!F7.
+   Types: Task
+Individual: Change_default_theme_to_pixelcookers  # Generated from value "Change_default_theme_to_pixelcookers" located at cell 'Лист1'!B8.
+   Facts: specialize "Themes"  # Generated from value "Themes" located at cell 'Лист1'!C8.,
+         have_priority "Normal"  # Generated from value "Normal" located at cell 'Лист1'!D8.,
+         start_doing "25.05.2011T8-43-00"  # Generated from value "25.05.2011T8-43-00" located at cell 'Лист1'!E8.,
+         end_doing "09.03.2020T14-42-00"  # Generated from value "09.03.2020T14-42-00" located at cell 'Лист1'!F8.
+   Types: Task
+Individual: Misplaced_macro_on_donors_wiki_page  # Generated from value "Misplaced_macro_on_donors_wiki_page" located at cell 'Лист1'!B9.
+   Facts: specialize "Website_redmine.org"  # Generated from value "Website_redmine.org" located at cell 'Лист1'!C9.,
+         have_priority "Normal"  # Generated from value "Normal" located at cell 'Лист1'!D9.,
+         start_doing "20.02.2018T19-48-00"  # Generated from value "20.02.2018T19-48-00" located at cell 'Лист1'!E9.,
+         end_doing "20.02.2018T20-41-00"  # Generated from value "20.02.2018T20-41-00" located at cell 'Лист1'!F9.
+   Types: Task
+Individual: Re-Create_the_Community_Relations_Team  # Generated from value "Re-Create_the_Community_Relations_Team" located at cell 'Лист1'!B10.
+   Facts: specialize "Website_redmine.org"  # Generated from value "Website_redmine.org" located at cell 'Лист1'!C10.,
+         have_priority "Normal"  # Generated from value "Normal" located at cell 'Лист1'!D10.,
+         start_doing "21.06.2013T18-23-00"  # Generated from value "21.06.2013T18-23-00" located at cell 'Лист1'!E10.,
+         end_doing "25.06.2013T14-53-00"  # Generated from value "25.06.2013T14-53-00" located at cell 'Лист1'!F10.
+   Types: Task
+Individual: Add_context_menu_for_attributes_in_issue_details  # Generated from value "Add_context_menu_for_attributes_in_issue_details" located at cell 'Лист1'!B11.
+   Facts: specialize "Issues"  # Generated from value "Issues" located at cell 'Лист1'!C11.,
+         have_priority "Normal"  # Generated from value "Normal" located at cell 'Лист1'!D11.,
+         start_doing "26.01.2018T17-13-00"  # Generated from value "26.01.2018T17-13-00" located at cell 'Лист1'!E11.,
+         end_doing "29.05.2018T6-52-00"  # Generated from value "29.05.2018T6-52-00" located at cell 'Лист1'!F11.
+   Types: Task
+Individual: Global_and_public_custom_queries_are_shown_as_editable_to_non_administrators_in_projects  # Generated from value "Global_and_public_custom_queries_are_shown_as_editable_to_non_administrators_in_projects" located at cell 'Лист1'!B12.
+   Facts: specialize "Issues"  # Generated from value "Issues" located at cell 'Лист1'!C12.,
+         have_priority "Normal"  # Generated from value "Normal" located at cell 'Лист1'!D12.,
+         start_doing "28.02.2018T17-19-00"  # Generated from value "28.02.2018T17-19-00" located at cell 'Лист1'!E12.,
+         end_doing "16.06.2018T12-54-00"  # Generated from value "16.06.2018T12-54-00" located at cell 'Лист1'!F12.
+   Types: Task
+Individual: Render_forums_list_in_project_settings_as_table  # Generated from value "Render_forums_list_in_project_settings_as_table" located at cell 'Лист1'!B13.
+   Facts: specialize "UI"  # Generated from value "UI" located at cell 'Лист1'!C13.,
+         have_priority "Normal"  # Generated from value "Normal" located at cell 'Лист1'!D13.,
+         start_doing "24.08.2018T15-03-00"  # Generated from value "24.08.2018T15-03-00" located at cell 'Лист1'!E13.,
+         end_doing "29.08.2018T9-26-00"  # Generated from value "29.08.2018T9-26-00" located at cell 'Лист1'!F13.
+   Types: Task
+Individual: Render_forums_list_in_project_settings_as_table  # Generated from value "Render_forums_list_in_project_settings_as_table" located at cell 'Лист1'!B14.
+   Facts: specialize "UI"  # Generated from value "UI" located at cell 'Лист1'!C14.,
+         have_priority "Normal"  # Generated from value "Normal" located at cell 'Лист1'!D14.,
+         start_doing "24.08.2018T15-03-00"  # Generated from value "24.08.2018T15-03-00" located at cell 'Лист1'!E14.,
+         end_doing "29.08.2018T9-26-00"  # Generated from value "29.08.2018T9-26-00" located at cell 'Лист1'!F14.
+   Types: Task
+Individual: Multiselect_elements_don't_expand_anymore  # Generated from value "Multiselect_elements_don't_expand_anymore" located at cell 'Лист1'!B15.
+   Facts: specialize "UI"  # Generated from value "UI" located at cell 'Лист1'!C15.,
+         have_priority "Normal"  # Generated from value "Normal" located at cell 'Лист1'!D15.,
+         start_doing "17.04.2019T14-20-00"  # Generated from value "17.04.2019T14-20-00" located at cell 'Лист1'!E15.,
+         end_doing "18.04.2019T9-44-00"  # Generated from value "18.04.2019T9-44-00" located at cell 'Лист1'!F15.
+   Types: Task
+Individual: Wrap_subprojects_in_the_overview_section_with_an_unordered_list_to_improve_customisation  # Generated from value "Wrap_subprojects_in_the_overview_section_with_an_unordered_list_to_improve_customisation" located at cell 'Лист1'!B16.
+   Facts: specialize "UI"  # Generated from value "UI" located at cell 'Лист1'!C16.,
+         have_priority "Normal"  # Generated from value "Normal" located at cell 'Лист1'!D16.,
+         start_doing "29.07.2018T13-44-00"  # Generated from value "29.07.2018T13-44-00" located at cell 'Лист1'!E16.,
+         end_doing "23.04.2019T17-37-00"  # Generated from value "23.04.2019T17-37-00" located at cell 'Лист1'!F16.
+   Types: Task
+Individual: View_switches_from_gantt_to_list_after_editing_an_issue  # Generated from value "View_switches_from_gantt_to_list_after_editing_an_issue" located at cell 'Лист1'!B17.
+   Facts: specialize "Gantt"  # Generated from value "Gantt" located at cell 'Лист1'!C17.,
+         have_priority "Normal"  # Generated from value "Normal" located at cell 'Лист1'!D17.,
+         start_doing "11.06.2019T11-53-00"  # Generated from value "11.06.2019T11-53-00" located at cell 'Лист1'!E17.,
+         end_doing "30.06.2019T7-38-00"  # Generated from value "30.06.2019T7-38-00" located at cell 'Лист1'!F17.
+   Types: Task
+Individual: german_translation_for_missing_parts  # Generated from value "german_translation_for_missing_parts" located at cell 'Лист1'!B18.
+   Facts: specialize "Translations"  # Generated from value "Translations" located at cell 'Лист1'!C18.,
+         have_priority "Normal"  # Generated from value "Normal" located at cell 'Лист1'!D18.,
+         start_doing "24.04.2019T11-14-00"  # Generated from value "24.04.2019T11-14-00" located at cell 'Лист1'!E18.,
+         end_doing "27.08.2019T3-05-00"  # Generated from value "27.08.2019T3-05-00" located at cell 'Лист1'!F18.
+   Types: Task
+Individual: Make_group_names_bold_on_tracker_summary_view  # Generated from value "Make_group_names_bold_on_tracker_summary_view" located at cell 'Лист1'!B19.
+   Facts: specialize "UI"  # Generated from value "UI" located at cell 'Лист1'!C19.,
+         have_priority "Normal"  # Generated from value "Normal" located at cell 'Лист1'!D19.,
+         start_doing "12.02.2020T13-38-00"  # Generated from value "12.02.2020T13-38-00" located at cell 'Лист1'!E19.,
+         end_doing "29.02.2020T15-39-00"  # Generated from value "29.02.2020T15-39-00" located at cell 'Лист1'!F19.
+   Types: Task
+Individual: Make_favicon_themeable  # Generated from value "Make_favicon_themeable" located at cell 'Лист1'!B20.
+   Facts: specialize "Themes"  # Generated from value "Themes" located at cell 'Лист1'!C20.,
+         have_priority "Normal"  # Generated from value "Normal" located at cell 'Лист1'!D20.,
+         start_doing "12.12.2013T16-09-00"  # Generated from value "12.12.2013T16-09-00" located at cell 'Лист1'!E20.,
+         end_doing "11.01.2014T12-23-00"  # Generated from value "11.01.2014T12-23-00" located at cell 'Лист1'!F20.
+   Types: Task
+Individual: Localisation_not_set_correctly_on_authenticity_token_errors  # Generated from value "Localisation_not_set_correctly_on_authenticity_token_errors" located at cell 'Лист1'!B21.
+   Facts: specialize "I18n"  # Generated from value "I18n" located at cell 'Лист1'!C21.,
+         have_priority "Normal"  # Generated from value "Normal" located at cell 'Лист1'!D21.,
+         start_doing "29.11.2014T14-03-00"  # Generated from value "29.11.2014T14-03-00" located at cell 'Лист1'!E21.,
+         end_doing "26.12.2014T11-42-00"  # Generated from value "26.12.2014T11-42-00" located at cell 'Лист1'!F21.
+   Types: Task
+Individual: Show_action_not_allowed_for_time_entries_in_closed_projects  # Generated from value "Show_action_not_allowed_for_time_entries_in_closed_projects" located at cell 'Лист1'!B22.
+   Facts: specialize "Permissions_and_roles"  # Generated from value "Permissions_and_roles" located at cell 'Лист1'!C22.,
+         have_priority "Normal"  # Generated from value "Normal" located at cell 'Лист1'!D22.,
+         start_doing "08.11.2016T15-09-00"  # Generated from value "08.11.2016T15-09-00" located at cell 'Лист1'!E22.,
+         end_doing "26.11.2016T10-01-00"  # Generated from value "26.11.2016T10-01-00" located at cell 'Лист1'!F22.
+   Types: Task
+Individual: Allow_project_specific_css_files_inside_a_theme_folder  # Generated from value "Allow_project_specific_css_files_inside_a_theme_folder" located at cell 'Лист1'!B23.
+   Facts: specialize "Themes"  # Generated from value "Themes" located at cell 'Лист1'!C23.,
+         have_priority "Normal"  # Generated from value "Normal" located at cell 'Лист1'!D23.,
+         start_doing "13.11.2013T13-04-00"  # Generated from value "13.11.2013T13-04-00" located at cell 'Лист1'!E23.,
+         end_doing "10.02.2014T9-32-00"  # Generated from value "10.02.2014T9-32-00" located at cell 'Лист1'!F23.
+   Types: Task
+Individual: PM_can_manage_local_group_in_Project  # Generated from value "PM_can_manage_local_group_in_Project" located at cell 'Лист1'!B24.
+   Facts: specialize "Project_settings"  # Generated from value "Project_settings" located at cell 'Лист1'!C24.,
+         have_priority "Normal"  # Generated from value "Normal" located at cell 'Лист1'!D24.,
+         start_doing "04.06.2016T11-11-00"  # Generated from value "04.06.2016T11-11-00" located at cell 'Лист1'!E24.,
+         end_doing "05.06.2016T2-55-00"  # Generated from value "05.06.2016T2-55-00" located at cell 'Лист1'!F24.
+   Types: Task
+Individual: Per_user_themes  # Generated from value "Per_user_themes" located at cell 'Лист1'!B25.
+   Facts: specialize "Themes"  # Generated from value "Themes" located at cell 'Лист1'!C25.,
+         have_priority "Normal"  # Generated from value "Normal" located at cell 'Лист1'!D25.,
+         start_doing "21.07.2011T8-42-00"  # Generated from value "21.07.2011T8-42-00" located at cell 'Лист1'!E25.,
+         end_doing "04.08.2011T23-30-00"  # Generated from value "04.08.2011T23-30-00" located at cell 'Лист1'!F25.
+   Types: Task
+Individual: Remove_blog_plugin_from_catalogue  # Generated from value "Remove_blog_plugin_from_catalogue" located at cell 'Лист1'!B26.
+   Facts: specialize "Website_redmine.org"  # Generated from value "Website_redmine.org" located at cell 'Лист1'!C26.,
+         have_priority "Normal"  # Generated from value "Normal" located at cell 'Лист1'!D26.,
+         start_doing "13.01.2013T23-01-00"  # Generated from value "13.01.2013T23-01-00" located at cell 'Лист1'!E26.,
+         end_doing "14.01.2013T8-43-00"  # Generated from value "14.01.2013T8-43-00" located at cell 'Лист1'!F26.
+   Types: Task
+Individual: unwanted_commercial_email_by_Easy_Redmine  # Generated from value "unwanted_commercial_email_by_Easy_Redmine" located at cell 'Лист1'!B27.
+   Facts: specialize "Website_redmine.org"  # Generated from value "Website_redmine.org" located at cell 'Лист1'!C27.,
+         have_priority "High"  # Generated from value "High" located at cell 'Лист1'!D27.,
+         start_doing "30.03.2013T22-33-00"  # Generated from value "30.03.2013T22-33-00" located at cell 'Лист1'!E27.,
+         end_doing "29.05.2013T23-16-00"  # Generated from value "29.05.2013T23-16-00" located at cell 'Лист1'!F27.
+   Types: Task
+Individual: Update_Security_Advisories_to_include_latest_rails_vulnerabilities.  # Generated from value "Update_Security_Advisories_to_include_latest_rails_vulnerabilities." located at cell 'Лист1'!B28.
+   Facts: specialize "Website_redmine.org"  # Generated from value "Website_redmine.org" located at cell 'Лист1'!C28.,
+         have_priority "High"  # Generated from value "High" located at cell 'Лист1'!D28.,
+         start_doing "09.01.2013T10-21-00"  # Generated from value "09.01.2013T10-21-00" located at cell 'Лист1'!E28.,
+         end_doing "09.01.2013T17-48-00"  # Generated from value "09.01.2013T17-48-00" located at cell 'Лист1'!F28.,
+         is_assigned "Jan_Niggemann_redmine.org_team_member"  # Generated from value "Jan_Niggemann_redmine.org_team_member" located at cell 'Лист1'!G28.
+   Types: Task
+Individual: Load_associations_of_query_results_more_efficiently  # Generated from value "Load_associations_of_query_results_more_efficiently" located at cell 'Лист1'!B29.
+   Facts: specialize "Performance"  # Generated from value "Performance" located at cell 'Лист1'!C29.,
+         have_priority "Normal"  # Generated from value "Normal" located at cell 'Лист1'!D29.,
+         start_doing "18.01.2017T13-36-00"  # Generated from value "18.01.2017T13-36-00" located at cell 'Лист1'!E29.,
+         end_doing "18.01.2017T14-49-00"  # Generated from value "18.01.2017T14-49-00" located at cell 'Лист1'!F29.
+   Types: Task
+Individual: View_attachments_on_the_issue_list  # Generated from value "View_attachments_on_the_issue_list" located at cell 'Лист1'!B30.
+   Facts: specialize "Issues_list"  # Generated from value "Issues_list" located at cell 'Лист1'!C30.,
+         have_priority "Normal"  # Generated from value "Normal" located at cell 'Лист1'!D30.,
+         start_doing "04.04.2017T19-06-00"  # Generated from value "04.04.2017T19-06-00" located at cell 'Лист1'!E30.,
+         end_doing "04.04.2017T19-07-00"  # Generated from value "04.04.2017T19-07-00" located at cell 'Лист1'!F30.
+   Types: Task
+Individual: Render_repository_graphs_using_Chart.js_instead_of_SVG  # Generated from value "Render_repository_graphs_using_Chart.js_instead_of_SVG" located at cell 'Лист1'!B31.
+   Facts: specialize "UI"  # Generated from value "UI" located at cell 'Лист1'!C31.,
+         have_priority "Normal"  # Generated from value "Normal" located at cell 'Лист1'!D31.,
+         start_doing "25.06.2017T15-51-00"  # Generated from value "25.06.2017T15-51-00" located at cell 'Лист1'!E31.,
+         end_doing "25.06.2017T15-52-00"  # Generated from value "25.06.2017T15-52-00" located at cell 'Лист1'!F31.
+   Types: Task
+Individual: Display_details_about_inheritance_when_editing_a_member_roles  # Generated from value "Display_details_about_inheritance_when_editing_a_member_roles" located at cell 'Лист1'!B32.
+   Facts: specialize "Project_settings"  # Generated from value "Project_settings" located at cell 'Лист1'!C32.,
+         have_priority "Normal"  # Generated from value "Normal" located at cell 'Лист1'!D32.,
+         start_doing "15.03.2019T11-09-00"  # Generated from value "15.03.2019T11-09-00" located at cell 'Лист1'!E32.,
+         end_doing "15.03.2019T11-11-00"  # Generated from value "15.03.2019T11-11-00" located at cell 'Лист1'!F32.
+   Types: Task
+Individual: Ability_to_filter_roles_that_are_displayed_on_the_permissions_report  # Generated from value "Ability_to_filter_roles_that_are_displayed_on_the_permissions_report" located at cell 'Лист1'!B33.
+   Facts: specialize "Administration"  # Generated from value "Administration" located at cell 'Лист1'!C33.,
+         have_priority "Normal"  # Generated from value "Normal" located at cell 'Лист1'!D33.,
+         start_doing "25.10.2019T17-52-00"  # Generated from value "25.10.2019T17-52-00" located at cell 'Лист1'!E33.,
+         end_doing "26.10.2019T8-04-00"  # Generated from value "26.10.2019T8-04-00" located at cell 'Лист1'!F33.
+   Types: Task
+Individual: Stable_branch_broken  # Generated from value "Stable_branch_broken" located at cell 'Лист1'!B34.
+   Facts: specialize "SCM"  # Generated from value "SCM" located at cell 'Лист1'!C34.,
+         have_priority "Urgent"  # Generated from value "Urgent" located at cell 'Лист1'!D34.,
+         start_doing "06.04.2011T8-02-00"  # Generated from value "06.04.2011T8-02-00" located at cell 'Лист1'!E34.,
+         end_doing "06.04.2011T10-30-00"  # Generated from value "06.04.2011T10-30-00" located at cell 'Лист1'!F34.
+   Types: Task
+Individual: prevent_deadlocks_in_attachment_deduplication  # Generated from value "prevent_deadlocks_in_attachment_deduplication" located at cell 'Лист1'!B35.
+   Facts: specialize "Attachments"  # Generated from value "Attachments" located at cell 'Лист1'!C35.,
+         have_priority "Normal"  # Generated from value "Normal" located at cell 'Лист1'!D35.,
+         start_doing "12.04.2017T3-53-00"  # Generated from value "12.04.2017T3-53-00" located at cell 'Лист1'!E35.,
+         end_doing "13.04.2017T14-10-00"  # Generated from value "13.04.2017T14-10-00" located at cell 'Лист1'!F35.
+   Types: Task
+Individual: Issue_details_page_shows_default_values_for_custom_fields_that_aren't_actually_set  # Generated from value "Issue_details_page_shows_default_values_for_custom_fields_that_aren't_actually_set" located at cell 'Лист1'!B36.
+   Facts: specialize "Custom_fields"  # Generated from value "Custom_fields" located at cell 'Лист1'!C36.,
+         have_priority "Normal"  # Generated from value "Normal" located at cell 'Лист1'!D36.,
+         start_doing "28.04.2017T17-13-00"  # Generated from value "28.04.2017T17-13-00" located at cell 'Лист1'!E36.,
+         end_doing "23.09.2018T10-27-00"  # Generated from value "23.09.2018T10-27-00" located at cell 'Лист1'!F36.
+   Types: Task
+Individual: redmine/i18n.rb_-_languages_lookup_class_variable_is_rebuilt_every_time  # Generated from value "redmine/i18n.rb_-_languages_lookup_class_variable_is_rebuilt_every_time" located at cell 'Лист1'!B37.
+   Facts: specialize "I18n"  # Generated from value "I18n" located at cell 'Лист1'!C37.,
+         have_priority "Normal"  # Generated from value "Normal" located at cell 'Лист1'!D37.,
+         start_doing "06.02.2017T11-56-00"  # Generated from value "06.02.2017T11-56-00" located at cell 'Лист1'!E37.,
+         end_doing "02.03.2017T20-42-00"  # Generated from value "02.03.2017T20-42-00" located at cell 'Лист1'!F37.
+   Types: Task
+Individual: Update_Rouge_to_3.12.0  # Generated from value "Update_Rouge_to_3.12.0" located at cell 'Лист1'!B38.
+   Facts: specialize "Gems_support"  # Generated from value "Gems_support" located at cell 'Лист1'!C38.,
+         have_priority "Normal"  # Generated from value "Normal" located at cell 'Лист1'!D38.,
+         start_doing "12.06.2019T8-21-00"  # Generated from value "12.06.2019T8-21-00" located at cell 'Лист1'!E38.,
+         end_doing "14.08.2019T7-24-00"  # Generated from value "14.08.2019T7-24-00" located at cell 'Лист1'!F38.
+   Types: Task
+Individual: Per_role_visibility_settings_for_spent_time_custom_fields  # Generated from value "Per_role_visibility_settings_for_spent_time_custom_fields" located at cell 'Лист1'!B39.
+   Facts: specialize "Custom_fields"  # Generated from value "Custom_fields" located at cell 'Лист1'!C39.,
+         have_priority "Normal"  # Generated from value "Normal" located at cell 'Лист1'!D39.,
+         start_doing "07.08.2019T8-03-00"  # Generated from value "07.08.2019T8-03-00" located at cell 'Лист1'!E39.,
+         end_doing "18.08.2019T5-28-00"  # Generated from value "18.08.2019T5-28-00" located at cell 'Лист1'!F39.
+   Types: Task
+Individual: Per_role_visibility_settings_for_project_custom_fields  # Generated from value "Per_role_visibility_settings_for_project_custom_fields" located at cell 'Лист1'!B40.
+   Facts: specialize "Custom_fields"  # Generated from value "Custom_fields" located at cell 'Лист1'!C40.,
+         have_priority "Normal"  # Generated from value "Normal" located at cell 'Лист1'!D40.,
+         start_doing "19.08.2019T22-18-00"  # Generated from value "19.08.2019T22-18-00" located at cell 'Лист1'!E40.,
+         end_doing "20.08.2019T3-48-00"  # Generated from value "20.08.2019T3-48-00" located at cell 'Лист1'!F40.
+   Types: Task
+Individual: Allow_issue_auto_complete_to_return_10_issues_when_there_is_not_search_term_provided  # Generated from value "Allow_issue_auto_complete_to_return_10_issues_when_there_is_not_search_term_provided" located at cell 'Лист1'!B41.
+   Facts: specialize "Issues"  # Generated from value "Issues" located at cell 'Лист1'!C41.,
+         have_priority "Normal"  # Generated from value "Normal" located at cell 'Лист1'!D41.,
+         start_doing "02.09.2019T7-19-00"  # Generated from value "02.09.2019T7-19-00" located at cell 'Лист1'!E41.,
+         end_doing "12.09.2019T1-36-00"  # Generated from value "12.09.2019T1-36-00" located at cell 'Лист1'!F41.
+   Types: Task
+Individual: Add_clear_query_icon_next_to_selected_query_in_sidebar  # Generated from value "Add_clear_query_icon_next_to_selected_query_in_sidebar" located at cell 'Лист1'!B42.
+   Facts: specialize "UI"  # Generated from value "UI" located at cell 'Лист1'!C42.,
+         have_priority "Normal"  # Generated from value "Normal" located at cell 'Лист1'!D42.,
+         start_doing "29.06.2019T13-43-00"  # Generated from value "29.06.2019T13-43-00" located at cell 'Лист1'!E42.,
+         end_doing "14.09.2019T3-03-00"  # Generated from value "14.09.2019T3-03-00" located at cell 'Лист1'!F42.
+   Types: Task
+Individual: Move_the_links_(All_time_entries,_Import)_from_Spent_time_section_of_the_spent_time_list_sidebar_under_a_dropdown_  # Generated from value "Move_the_links_(All_time_entries,_Import)_from_Spent_time_section_of_the_spent_time_list_sidebar_under_a_dropdown_" located at cell 'Лист1'!B43.
+   Facts: specialize "UI"  # Generated from value "UI" located at cell 'Лист1'!C43.,
+         have_priority "Normal"  # Generated from value "Normal" located at cell 'Лист1'!D43.,
+         start_doing "20.06.2019T22-50-00"  # Generated from value "20.06.2019T22-50-00" located at cell 'Лист1'!E43.,
+         end_doing "27.09.2019T11-38-00"  # Generated from value "27.09.2019T11-38-00" located at cell 'Лист1'!F43.
+   Types: Task
+Individual: Make_form_validation_errors_more_obvious_for_users_  # Generated from value "Make_form_validation_errors_more_obvious_for_users_" located at cell 'Лист1'!B44.
+   Facts: specialize "UI"  # Generated from value "UI" located at cell 'Лист1'!C44.,
+         have_priority "Normal"  # Generated from value "Normal" located at cell 'Лист1'!D44.,
+         start_doing "07.01.2020T23-26-00"  # Generated from value "07.01.2020T23-26-00" located at cell 'Лист1'!E44.,
+         end_doing "04.02.2020T15-30-00"  # Generated from value "04.02.2020T15-30-00" located at cell 'Лист1'!F44.
+   Types: Task
+Individual: Mark_default_version_in_versions_tab_from_project_settings  # Generated from value "Mark_default_version_in_versions_tab_from_project_settings" located at cell 'Лист1'!B45.
+   Facts: specialize "Project_settings"  # Generated from value "Project_settings" located at cell 'Лист1'!C45.,
+         have_priority "Normal"  # Generated from value "Normal" located at cell 'Лист1'!D45.,
+         start_doing "15.12.2017T7-38-00"  # Generated from value "15.12.2017T7-38-00" located at cell 'Лист1'!E45.,
+         end_doing "09.08.2018T13-50-00"  # Generated from value "09.08.2018T13-50-00" located at cell 'Лист1'!F45.
+   Types: Task
+Individual: Serbian_Latin_translation_patch_(sr-YU.yml)  # Generated from value "Serbian_Latin_translation_patch_(sr-YU.yml)" located at cell 'Лист1'!B46.
+   Facts: specialize "Translations"  # Generated from value "Translations" located at cell 'Лист1'!C46.,
+         have_priority "Normal"  # Generated from value "Normal" located at cell 'Лист1'!D46.,
+         start_doing "10.01.2013T16-14-00"  # Generated from value "10.01.2013T16-14-00" located at cell 'Лист1'!E46.,
+         end_doing "11.01.2013T10-48-00"  # Generated from value "11.01.2013T10-48-00" located at cell 'Лист1'!F46.
+   Types: Task
+Individual: Totals_cannot_be_removed_completely_if_some_columns_are_set_in_the_global_settings  # Generated from value "Totals_cannot_be_removed_completely_if_some_columns_are_set_in_the_global_settings" located at cell 'Лист1'!B47.
+   Facts: specialize "Issues_filter"  # Generated from value "Issues_filter" located at cell 'Лист1'!C47.,
+         have_priority "Normal"  # Generated from value "Normal" located at cell 'Лист1'!D47.,
+         start_doing "01.03.2016T15-35-00"  # Generated from value "01.03.2016T15-35-00" located at cell 'Лист1'!E47.,
+         end_doing "12.06.2016T8-03-00"  # Generated from value "12.06.2016T8-03-00" located at cell 'Лист1'!F47.
+   Types: Task
+Individual: Couldn't_find_template_for_digesting_error_in_the_log_when_sending_a_thumbnail_or_an_attachment  # Generated from value "Couldn't_find_template_for_digesting_error_in_the_log_when_sending_a_thumbnail_or_an_attachment" located at cell 'Лист1'!B48.
+   Facts: specialize "Attachments"  # Generated from value "Attachments" located at cell 'Лист1'!C48.,
+         have_priority "Low"  # Generated from value "Low" located at cell 'Лист1'!D48.,
+         start_doing "09.07.2015T11-37-00"  # Generated from value "09.07.2015T11-37-00" located at cell 'Лист1'!E48.,
+         end_doing "12.12.2019T15-57-00"  # Generated from value "12.12.2019T15-57-00" located at cell 'Лист1'!F48.
+   Types: Task
+Individual: Skip_thumbnail_tests_if_ImageMagick_convert_command_is_not_available  # Generated from value "Skip_thumbnail_tests_if_ImageMagick_convert_command_is_not_available" located at cell 'Лист1'!B49.
+   Facts: specialize "Code_cleanup/refactoring"  # Generated from value "Code_cleanup/refactoring" located at cell 'Лист1'!C49.,
+         have_priority "Normal"  # Generated from value "Normal" located at cell 'Лист1'!D49.,
+         start_doing "31.03.2020T19-21-00"  # Generated from value "31.03.2020T19-21-00" located at cell 'Лист1'!E49.,
+         end_doing "02.04.2020T10-04-00"  # Generated from value "02.04.2020T10-04-00" located at cell 'Лист1'!F49.
+   Types: Task
+Individual: Should_not_replace_all_invalid_utf8_characters_(e.g_in_mail)  # Generated from value "Should_not_replace_all_invalid_utf8_characters_(e.g_in_mail)" located at cell 'Лист1'!B50.
+   Facts: specialize "I18n"  # Generated from value "I18n" located at cell 'Лист1'!C50.,
+         have_priority "Normal"  # Generated from value "Normal" located at cell 'Лист1'!D50.,
+         start_doing "15.12.2016T2-13-00"  # Generated from value "15.12.2016T2-13-00" located at cell 'Лист1'!E50.,
+         end_doing "28.01.2017T8-56-00"  # Generated from value "28.01.2017T8-56-00" located at cell 'Лист1'!F50.
+   Types: Task
+Individual: Add_Total_estimated_hours_column_on_issue_list_  # Generated from value "Add_Total_estimated_hours_column_on_issue_list_" located at cell 'Лист1'!B51.
+   Facts: specialize "Issues"  # Generated from value "Issues" located at cell 'Лист1'!C51.,
+         have_priority "Normal"  # Generated from value "Normal" located at cell 'Лист1'!D51.,
+         start_doing "07.09.2015T12-07-00"  # Generated from value "07.09.2015T12-07-00" located at cell 'Лист1'!E51.,
+         end_doing "12.09.2015T16-54-00"  # Generated from value "12.09.2015T16-54-00" located at cell 'Лист1'!F51.
+   Types: Task
+Individual: Lithuanian_translation_for_3.3-stable  # Generated from value "Lithuanian_translation_for_3.3-stable" located at cell 'Лист1'!B52.
+   Facts: specialize "Translations"  # Generated from value "Translations" located at cell 'Лист1'!C52.,
+         have_priority "Normal"  # Generated from value "Normal" located at cell 'Лист1'!D52.,
+         start_doing "09.12.2017T17-09-00"  # Generated from value "09.12.2017T17-09-00" located at cell 'Лист1'!E52.,
+         end_doing "10.12.2017T4-49-00"  # Generated from value "10.12.2017T4-49-00" located at cell 'Лист1'!F52.
+   Types: Task
+Individual: Czech_translation_for_3.4-stable  # Generated from value "Czech_translation_for_3.4-stable" located at cell 'Лист1'!B53.
+   Facts: specialize "Translations"  # Generated from value "Translations" located at cell 'Лист1'!C53.,
+         have_priority "Normal"  # Generated from value "Normal" located at cell 'Лист1'!D53.,
+         start_doing "09.12.2017T17-19-00"  # Generated from value "09.12.2017T17-19-00" located at cell 'Лист1'!E53.,
+         end_doing "10.12.2017T4-52-00"  # Generated from value "10.12.2017T4-52-00" located at cell 'Лист1'!F53.
+   Types: Task
+Individual: Lithuanian_default_role_developer_translation_change  # Generated from value "Lithuanian_default_role_developer_translation_change" located at cell 'Лист1'!B54.
+   Facts: specialize "Translations"  # Generated from value "Translations" located at cell 'Лист1'!C54.,
+         have_priority "Normal"  # Generated from value "Normal" located at cell 'Лист1'!D54.,
+         start_doing "09.12.2017T20-36-00"  # Generated from value "09.12.2017T20-36-00" located at cell 'Лист1'!E54.,
+         end_doing "10.12.2017T4-53-00"  # Generated from value "10.12.2017T4-53-00" located at cell 'Лист1'!F54.
+   Types: Task
+Individual: Brazilian_translation_for_3.3-stable  # Generated from value "Brazilian_translation_for_3.3-stable" located at cell 'Лист1'!B55.
+   Facts: specialize "Translations"  # Generated from value "Translations" located at cell 'Лист1'!C55.,
+         have_priority "Normal"  # Generated from value "Normal" located at cell 'Лист1'!D55.,
+         start_doing "21.12.2017T16-51-00"  # Generated from value "21.12.2017T16-51-00" located at cell 'Лист1'!E55.,
+         end_doing "21.12.2017T18-15-00"  # Generated from value "21.12.2017T18-15-00" located at cell 'Лист1'!F55.
+   Types: Task
+Individual: Updated_Japanese_translation_for_notice_account_register_done  # Generated from value "Updated_Japanese_translation_for_notice_account_register_done" located at cell 'Лист1'!B56.
+   Facts: specialize "Translations"  # Generated from value "Translations" located at cell 'Лист1'!C56.,
+         have_priority "Normal"  # Generated from value "Normal" located at cell 'Лист1'!D56.,
+         start_doing "06.01.2013T11-12-00"  # Generated from value "06.01.2013T11-12-00" located at cell 'Лист1'!E56.,
+         end_doing "06.01.2013T13-06-00"  # Generated from value "06.01.2013T13-06-00" located at cell 'Лист1'!F56.
+   Types: Task
+Individual: Journals_could_be_ordered_using_the_create_on_attribute_instead_of_the_id  # Generated from value "Journals_could_be_ordered_using_the_create_on_attribute_instead_of_the_id" located at cell 'Лист1'!B57.
+   Facts: specialize "Issues"  # Generated from value "Issues" located at cell 'Лист1'!C57.,
+         have_priority "Low"  # Generated from value "Low" located at cell 'Лист1'!D57.,
+         start_doing "25.11.2014T17-05-00"  # Generated from value "25.11.2014T17-05-00" located at cell 'Лист1'!E57.,
+         end_doing "01.12.2014T23-12-00"  # Generated from value "01.12.2014T23-12-00" located at cell 'Лист1'!F57.
+   Types: Task
+Individual: Add_useful_details_to_error_message_when_a_template_is_missing  # Generated from value "Add_useful_details_to_error_message_when_a_template_is_missing" located at cell 'Лист1'!B58.
+   Facts: specialize "Administration"  # Generated from value "Administration" located at cell 'Лист1'!C58.,
+         have_priority "Normal"  # Generated from value "Normal" located at cell 'Лист1'!D58.,
+         start_doing "04.07.2017T10-31-00"  # Generated from value "04.07.2017T10-31-00" located at cell 'Лист1'!E58.,
+         end_doing "11.01.2018T13-32-00"  # Generated from value "11.01.2018T13-32-00" located at cell 'Лист1'!F58.
+   Types: Task
+Individual: Update_French_translations  # Generated from value "Update_French_translations" located at cell 'Лист1'!B59.
+   Facts: specialize "Translations"  # Generated from value "Translations" located at cell 'Лист1'!C59.,
+         have_priority "Normal"  # Generated from value "Normal" located at cell 'Лист1'!D59.,
+         start_doing "25.07.2018T11-09-00"  # Generated from value "25.07.2018T11-09-00" located at cell 'Лист1'!E59.,
+         end_doing "23.09.2018T14-02-00"  # Generated from value "23.09.2018T14-02-00" located at cell 'Лист1'!F59.
+   Types: Task
+Individual: Wrong_columns_after_CSV_export  # Generated from value "Wrong_columns_after_CSV_export" located at cell 'Лист1'!B60.
+   Facts: specialize "Issues_filter"  # Generated from value "Issues_filter" located at cell 'Лист1'!C60.,
+         have_priority "Normal"  # Generated from value "Normal" located at cell 'Лист1'!D60.,
+         start_doing "29.08.2017T11-31-00"  # Generated from value "29.08.2017T11-31-00" located at cell 'Лист1'!E60.,
+         end_doing "04.12.2018T11-06-00"  # Generated from value "04.12.2018T11-06-00" located at cell 'Лист1'!F60.
+   Types: Task
+Individual: Preview_URL_in_Wiki_Toolbar_should_be_escaped  # Generated from value "Preview_URL_in_Wiki_Toolbar_should_be_escaped" located at cell 'Лист1'!B61.
+   Facts: specialize "Wiki"  # Generated from value "Wiki" located at cell 'Лист1'!C61.,
+         have_priority "Normal"  # Generated from value "Normal" located at cell 'Лист1'!D61.,
+         start_doing "06.02.2019T19-15-00"  # Generated from value "06.02.2019T19-15-00" located at cell 'Лист1'!E61.,
+         end_doing "11.02.2019T16-58-00"  # Generated from value "11.02.2019T16-58-00" located at cell 'Лист1'!F61.
+   Types: Task
+Individual: Filtering_issues_via_context_menu_should_not_reset_selected_columns  # Generated from value "Filtering_issues_via_context_menu_should_not_reset_selected_columns" located at cell 'Лист1'!B62.
+   Facts: specialize "Issues_list"  # Generated from value "Issues_list" located at cell 'Лист1'!C62.,
+         have_priority "Normal"  # Generated from value "Normal" located at cell 'Лист1'!D62.,
+         start_doing "04.09.2017T10-47-00"  # Generated from value "04.09.2017T10-47-00" located at cell 'Лист1'!E62.,
+         end_doing "15.03.2019T8-54-00"  # Generated from value "15.03.2019T8-54-00" located at cell 'Лист1'!F62.
+   Types: Task
+Individual: Allow_only_vertical_reorderingin_sortable_lists  # Generated from value "Allow_only_vertical_reorderingin_sortable_lists" located at cell 'Лист1'!B63.
+   Facts: specialize "UI"  # Generated from value "UI" located at cell 'Лист1'!C63.,
+         have_priority "Normal"  # Generated from value "Normal" located at cell 'Лист1'!D63.,
+         start_doing "13.10.2016T12-13-00"  # Generated from value "13.10.2016T12-13-00" located at cell 'Лист1'!E63.,
+         end_doing "03.12.2016T9-42-00"  # Generated from value "03.12.2016T9-42-00" located at cell 'Лист1'!F63.
+   Types: Task
+Individual: Fix_wrong_Japanese_label_attachment_translation  # Generated from value "Fix_wrong_Japanese_label_attachment_translation" located at cell 'Лист1'!B64.
+   Facts: specialize "Translations"  # Generated from value "Translations" located at cell 'Лист1'!C64.,
+         have_priority "Normal"  # Generated from value "Normal" located at cell 'Лист1'!D64.,
+         start_doing "17.07.2012T6-30-00"  # Generated from value "17.07.2012T6-30-00" located at cell 'Лист1'!E64.,
+         end_doing "17.07.2012T16-52-00"  # Generated from value "17.07.2012T16-52-00" located at cell 'Лист1'!F64.
+   Types: Task
+
+===========================================================================================================
+Date: 2020-04-03 12:58:39
+Ontology source: /B:/MAG/second/kursach_onto/prog/bug.owl
+Worksheet source: B:\MAG\second\kursach_onto\prog\doc\author3_add.xls
+Transformation rules: B:\MAG\second\kursach_onto\prog\doc\rules_stylesheet.json
+
+# Cell range: (Лист1!E2:F+) Comment: ""
+# Individual: @** 
+#   Types: Date
+
+Individual: 26.06.2017T14-38-00  # Generated from value "26.06.2017T14-38-00" located at cell 'Лист1'!E2.
+   Types: Date
+Individual: 25.10.2019T17-52-00  # Generated from value "25.10.2019T17-52-00" located at cell 'Лист1'!E3.
+   Types: Date
+Individual: 29.06.2019T13-43-00  # Generated from value "29.06.2019T13-43-00" located at cell 'Лист1'!E4.
+   Types: Date
+Individual: 26.01.2018T17-13-00  # Generated from value "26.01.2018T17-13-00" located at cell 'Лист1'!E5.
+   Types: Date
+Individual: 07.09.2015T12-07-00  # Generated from value "07.09.2015T12-07-00" located at cell 'Лист1'!E6.
+   Types: Date
+Individual: 04.07.2017T10-31-00  # Generated from value "04.07.2017T10-31-00" located at cell 'Лист1'!E7.
+   Types: Date
+Individual: 02.09.2019T7-19-00  # Generated from value "02.09.2019T7-19-00" located at cell 'Лист1'!E8.
+   Types: Date
+Individual: 13.10.2016T12-13-00  # Generated from value "13.10.2016T12-13-00" located at cell 'Лист1'!E9.
+   Types: Date
+Individual: 13.11.2013T13-04-00  # Generated from value "13.11.2013T13-04-00" located at cell 'Лист1'!E10.
+   Types: Date
+Individual: 12.02.2012T17-19-00  # Generated from value "12.02.2012T17-19-00" located at cell 'Лист1'!E11.
+   Types: Date
+Individual: 21.12.2017T16-51-00  # Generated from value "21.12.2017T16-51-00" located at cell 'Лист1'!E12.
+   Types: Date
+Individual: 25.05.2011T8-43-00  # Generated from value "25.05.2011T8-43-00" located at cell 'Лист1'!E13.
+   Types: Date
+Individual: 08.10.2018T11-07-00  # Generated from value "08.10.2018T11-07-00" located at cell 'Лист1'!E14.
+   Types: Date
+Individual: 09.07.2015T11-37-00  # Generated from value "09.07.2015T11-37-00" located at cell 'Лист1'!E15.
+   Types: Date
+Individual: 09.12.2017T17-19-00  # Generated from value "09.12.2017T17-19-00" located at cell 'Лист1'!E16.
+   Types: Date
+Individual: 15.03.2019T11-09-00  # Generated from value "15.03.2019T11-09-00" located at cell 'Лист1'!E17.
+   Types: Date
+Individual: 04.09.2017T10-47-00  # Generated from value "04.09.2017T10-47-00" located at cell 'Лист1'!E18.
+   Types: Date
+Individual: 17.07.2012T6-30-00  # Generated from value "17.07.2012T6-30-00" located at cell 'Лист1'!E19.
+   Types: Date
+Individual: 24.04.2019T11-14-00  # Generated from value "24.04.2019T11-14-00" located at cell 'Лист1'!E20.
+   Types: Date
+Individual: 28.02.2018T17-19-00  # Generated from value "28.02.2018T17-19-00" located at cell 'Лист1'!E21.
+   Types: Date
+Individual: 16.01.2018T13-31-00  # Generated from value "16.01.2018T13-31-00" located at cell 'Лист1'!E22.
+   Types: Date
+Individual: 25.11.2014T17-05-00  # Generated from value "25.11.2014T17-05-00" located at cell 'Лист1'!E23.
+   Types: Date
+Individual: 09.12.2017T20-36-00  # Generated from value "09.12.2017T20-36-00" located at cell 'Лист1'!E24.
+   Types: Date
+Individual: 09.12.2017T17-09-00  # Generated from value "09.12.2017T17-09-00" located at cell 'Лист1'!E25.
+   Types: Date
+Individual: 18.01.2017T13-36-00  # Generated from value "18.01.2017T13-36-00" located at cell 'Лист1'!E26.
+   Types: Date
+Individual: 29.11.2014T14-03-00  # Generated from value "29.11.2014T14-03-00" located at cell 'Лист1'!E27.
+   Types: Date
+Individual: 12.12.2013T16-09-00  # Generated from value "12.12.2013T16-09-00" located at cell 'Лист1'!E28.
+   Types: Date
+Individual: 15.12.2017T7-38-00  # Generated from value "15.12.2017T7-38-00" located at cell 'Лист1'!E29.
+   Types: Date
+Individual: 20.02.2018T19-48-00  # Generated from value "20.02.2018T19-48-00" located at cell 'Лист1'!E30.
+   Types: Date
+Individual: 20.06.2019T22-50-00  # Generated from value "20.06.2019T22-50-00" located at cell 'Лист1'!E31.
+   Types: Date
+Individual: 17.04.2019T14-20-00  # Generated from value "17.04.2019T14-20-00" located at cell 'Лист1'!E32.
+   Types: Date
+Individual: 10.09.2014T9-58-00  # Generated from value "10.09.2014T9-58-00" located at cell 'Лист1'!E33.
+   Types: Date
+Individual: 19.08.2019T22-18-00  # Generated from value "19.08.2019T22-18-00" located at cell 'Лист1'!E34.
+   Types: Date
+Individual: 07.08.2019T8-03-00  # Generated from value "07.08.2019T8-03-00" located at cell 'Лист1'!E35.
+   Types: Date
+Individual: 21.07.2011T8-42-00  # Generated from value "21.07.2011T8-42-00" located at cell 'Лист1'!E36.
+   Types: Date
+Individual: 04.06.2016T11-11-00  # Generated from value "04.06.2016T11-11-00" located at cell 'Лист1'!E37.
+   Types: Date
+Individual: 12.04.2017T3-53-00  # Generated from value "12.04.2017T3-53-00" located at cell 'Лист1'!E38.
+   Types: Date
+Individual: 06.02.2019T19-15-00  # Generated from value "06.02.2019T19-15-00" located at cell 'Лист1'!E39.
+   Types: Date
+Individual: 21.06.2013T18-23-00  # Generated from value "21.06.2013T18-23-00" located at cell 'Лист1'!E40.
+   Types: Date
+Individual: 06.02.2017T11-56-00  # Generated from value "06.02.2017T11-56-00" located at cell 'Лист1'!E41.
+   Types: Date
+Individual: 13.01.2013T23-01-00  # Generated from value "13.01.2013T23-01-00" located at cell 'Лист1'!E42.
+   Types: Date
+Individual: 24.08.2018T15-03-00  # Generated from value "24.08.2018T15-03-00" located at cell 'Лист1'!E43.
+   Types: Date
+Individual: 24.08.2018T15-03-00  # Generated from value "24.08.2018T15-03-00" located at cell 'Лист1'!E44.
+   Types: Date
+Individual: 25.06.2017T15-51-00  # Generated from value "25.06.2017T15-51-00" located at cell 'Лист1'!E45.
+   Types: Date
+Individual: 10.01.2013T16-14-00  # Generated from value "10.01.2013T16-14-00" located at cell 'Лист1'!E46.
+   Types: Date
+Individual: 15.12.2016T2-13-00  # Generated from value "15.12.2016T2-13-00" located at cell 'Лист1'!E47.
+   Types: Date
+Individual: 08.11.2016T15-09-00  # Generated from value "08.11.2016T15-09-00" located at cell 'Лист1'!E48.
+   Types: Date
+Individual: 31.03.2020T19-21-00  # Generated from value "31.03.2020T19-21-00" located at cell 'Лист1'!E49.
+   Types: Date
+Individual: 06.04.2011T8-02-00  # Generated from value "06.04.2011T8-02-00" located at cell 'Лист1'!E50.
+   Types: Date
+Individual: 09.01.2011T11-49-00  # Generated from value "09.01.2011T11-49-00" located at cell 'Лист1'!E51.
+   Types: Date
+Individual: 01.03.2016T15-35-00  # Generated from value "01.03.2016T15-35-00" located at cell 'Лист1'!E52.
+   Types: Date
+Individual: 30.03.2013T22-33-00  # Generated from value "30.03.2013T22-33-00" located at cell 'Лист1'!E53.
+   Types: Date
+Individual: 25.07.2018T11-09-00  # Generated from value "25.07.2018T11-09-00" located at cell 'Лист1'!E54.
+   Types: Date
+Individual: 12.06.2019T8-21-00  # Generated from value "12.06.2019T8-21-00" located at cell 'Лист1'!E55.
+   Types: Date
+Individual: 09.01.2013T10-21-00  # Generated from value "09.01.2013T10-21-00" located at cell 'Лист1'!E56.
+   Types: Date
+Individual: 06.01.2013T11-12-00  # Generated from value "06.01.2013T11-12-00" located at cell 'Лист1'!E57.
+   Types: Date
+Individual: 04.04.2017T19-06-00  # Generated from value "04.04.2017T19-06-00" located at cell 'Лист1'!E58.
+   Types: Date
+Individual: 11.06.2019T11-53-00  # Generated from value "11.06.2019T11-53-00" located at cell 'Лист1'!E59.
+   Types: Date
+Individual: 29.07.2018T13-44-00  # Generated from value "29.07.2018T13-44-00" located at cell 'Лист1'!E60.
+   Types: Date
+Individual: 29.08.2017T11-31-00  # Generated from value "29.08.2017T11-31-00" located at cell 'Лист1'!E61.
+   Types: Date
+Individual: 27.06.2017T7-27-00  # Generated from value "27.06.2017T7-27-00" located at cell 'Лист1'!F2.
+   Types: Date
+Individual: 26.10.2019T8-04-00  # Generated from value "26.10.2019T8-04-00" located at cell 'Лист1'!F3.
+   Types: Date
+Individual: 14.09.2019T3-03-00  # Generated from value "14.09.2019T3-03-00" located at cell 'Лист1'!F4.
+   Types: Date
+Individual: 29.05.2018T6-52-00  # Generated from value "29.05.2018T6-52-00" located at cell 'Лист1'!F5.
+   Types: Date
+Individual: 12.09.2015T16-54-00  # Generated from value "12.09.2015T16-54-00" located at cell 'Лист1'!F6.
+   Types: Date
+Individual: 11.01.2018T13-32-00  # Generated from value "11.01.2018T13-32-00" located at cell 'Лист1'!F7.
+   Types: Date
+Individual: 12.09.2019T1-36-00  # Generated from value "12.09.2019T1-36-00" located at cell 'Лист1'!F8.
+   Types: Date
+Individual: 03.12.2016T9-42-00  # Generated from value "03.12.2016T9-42-00" located at cell 'Лист1'!F9.
+   Types: Date
+Individual: 10.02.2014T9-32-00  # Generated from value "10.02.2014T9-32-00" located at cell 'Лист1'!F10.
+   Types: Date
+Individual: 12.02.2012T17-42-00  # Generated from value "12.02.2012T17-42-00" located at cell 'Лист1'!F11.
+   Types: Date
+Individual: 21.12.2017T18-15-00  # Generated from value "21.12.2017T18-15-00" located at cell 'Лист1'!F12.
+   Types: Date
+Individual: 09.03.2020T14-42-00  # Generated from value "09.03.2020T14-42-00" located at cell 'Лист1'!F13.
+   Types: Date
+Individual: 08.10.2018T16-55-00  # Generated from value "08.10.2018T16-55-00" located at cell 'Лист1'!F14.
+   Types: Date
+Individual: 12.12.2019T15-57-00  # Generated from value "12.12.2019T15-57-00" located at cell 'Лист1'!F15.
+   Types: Date
+Individual: 10.12.2017T4-52-00  # Generated from value "10.12.2017T4-52-00" located at cell 'Лист1'!F16.
+   Types: Date
+Individual: 15.03.2019T11-11-00  # Generated from value "15.03.2019T11-11-00" located at cell 'Лист1'!F17.
+   Types: Date
+Individual: 15.03.2019T8-54-00  # Generated from value "15.03.2019T8-54-00" located at cell 'Лист1'!F18.
+   Types: Date
+Individual: 17.07.2012T16-52-00  # Generated from value "17.07.2012T16-52-00" located at cell 'Лист1'!F19.
+   Types: Date
+Individual: 27.08.2019T3-05-00  # Generated from value "27.08.2019T3-05-00" located at cell 'Лист1'!F20.
+   Types: Date
+Individual: 16.06.2018T12-54-00  # Generated from value "16.06.2018T12-54-00" located at cell 'Лист1'!F21.
+   Types: Date
+Individual: 26.01.2018T1-01-00  # Generated from value "26.01.2018T1-01-00" located at cell 'Лист1'!F22.
+   Types: Date
+Individual: 01.12.2014T23-12-00  # Generated from value "01.12.2014T23-12-00" located at cell 'Лист1'!F23.
+   Types: Date
+Individual: 10.12.2017T4-53-00  # Generated from value "10.12.2017T4-53-00" located at cell 'Лист1'!F24.
+   Types: Date
+Individual: 10.12.2017T4-49-00  # Generated from value "10.12.2017T4-49-00" located at cell 'Лист1'!F25.
+   Types: Date
+Individual: 18.01.2017T14-49-00  # Generated from value "18.01.2017T14-49-00" located at cell 'Лист1'!F26.
+   Types: Date
+Individual: 26.12.2014T11-42-00  # Generated from value "26.12.2014T11-42-00" located at cell 'Лист1'!F27.
+   Types: Date
+Individual: 11.01.2014T12-23-00  # Generated from value "11.01.2014T12-23-00" located at cell 'Лист1'!F28.
+   Types: Date
+Individual: 09.08.2018T13-50-00  # Generated from value "09.08.2018T13-50-00" located at cell 'Лист1'!F29.
+   Types: Date
+Individual: 20.02.2018T20-41-00  # Generated from value "20.02.2018T20-41-00" located at cell 'Лист1'!F30.
+   Types: Date
+Individual: 27.09.2019T11-38-00  # Generated from value "27.09.2019T11-38-00" located at cell 'Лист1'!F31.
+   Types: Date
+Individual: 18.04.2019T9-44-00  # Generated from value "18.04.2019T9-44-00" located at cell 'Лист1'!F32.
+   Types: Date
+Individual: 11.09.2014T19-46-00  # Generated from value "11.09.2014T19-46-00" located at cell 'Лист1'!F33.
+   Types: Date
+Individual: 20.08.2019T3-48-00  # Generated from value "20.08.2019T3-48-00" located at cell 'Лист1'!F34.
+   Types: Date
+Individual: 18.08.2019T5-28-00  # Generated from value "18.08.2019T5-28-00" located at cell 'Лист1'!F35.
+   Types: Date
+Individual: 04.08.2011T23-30-00  # Generated from value "04.08.2011T23-30-00" located at cell 'Лист1'!F36.
+   Types: Date
+Individual: 05.06.2016T2-55-00  # Generated from value "05.06.2016T2-55-00" located at cell 'Лист1'!F37.
+   Types: Date
+Individual: 13.04.2017T14-10-00  # Generated from value "13.04.2017T14-10-00" located at cell 'Лист1'!F38.
+   Types: Date
+Individual: 11.02.2019T16-58-00  # Generated from value "11.02.2019T16-58-00" located at cell 'Лист1'!F39.
+   Types: Date
+Individual: 25.06.2013T14-53-00  # Generated from value "25.06.2013T14-53-00" located at cell 'Лист1'!F40.
+   Types: Date
+Individual: 02.03.2017T20-42-00  # Generated from value "02.03.2017T20-42-00" located at cell 'Лист1'!F41.
+   Types: Date
+Individual: 14.01.2013T8-43-00  # Generated from value "14.01.2013T8-43-00" located at cell 'Лист1'!F42.
+   Types: Date
+Individual: 29.08.2018T9-26-00  # Generated from value "29.08.2018T9-26-00" located at cell 'Лист1'!F43.
+   Types: Date
+Individual: 29.08.2018T9-26-00  # Generated from value "29.08.2018T9-26-00" located at cell 'Лист1'!F44.
+   Types: Date
+Individual: 25.06.2017T15-52-00  # Generated from value "25.06.2017T15-52-00" located at cell 'Лист1'!F45.
+   Types: Date
+Individual: 11.01.2013T10-48-00  # Generated from value "11.01.2013T10-48-00" located at cell 'Лист1'!F46.
+   Types: Date
+Individual: 28.01.2017T8-56-00  # Generated from value "28.01.2017T8-56-00" located at cell 'Лист1'!F47.
+   Types: Date
+Individual: 26.11.2016T10-01-00  # Generated from value "26.11.2016T10-01-00" located at cell 'Лист1'!F48.
+   Types: Date
+Individual: 02.04.2020T10-04-00  # Generated from value "02.04.2020T10-04-00" located at cell 'Лист1'!F49.
+   Types: Date
+Individual: 06.04.2011T10-30-00  # Generated from value "06.04.2011T10-30-00" located at cell 'Лист1'!F50.
+   Types: Date
+Individual: 02.02.2011T11-04-00  # Generated from value "02.02.2011T11-04-00" located at cell 'Лист1'!F51.
+   Types: Date
+Individual: 12.06.2016T8-03-00  # Generated from value "12.06.2016T8-03-00" located at cell 'Лист1'!F52.
+   Types: Date
+Individual: 29.05.2013T23-16-00  # Generated from value "29.05.2013T23-16-00" located at cell 'Лист1'!F53.
+   Types: Date
+Individual: 23.09.2018T14-02-00  # Generated from value "23.09.2018T14-02-00" located at cell 'Лист1'!F54.
+   Types: Date
+Individual: 14.08.2019T7-24-00  # Generated from value "14.08.2019T7-24-00" located at cell 'Лист1'!F55.
+   Types: Date
+Individual: 09.01.2013T17-48-00  # Generated from value "09.01.2013T17-48-00" located at cell 'Лист1'!F56.
+   Types: Date
+Individual: 06.01.2013T13-06-00  # Generated from value "06.01.2013T13-06-00" located at cell 'Лист1'!F57.
+   Types: Date
+Individual: 04.04.2017T19-07-00  # Generated from value "04.04.2017T19-07-00" located at cell 'Лист1'!F58.
+   Types: Date
+Individual: 30.06.2019T7-38-00  # Generated from value "30.06.2019T7-38-00" located at cell 'Лист1'!F59.
+   Types: Date
+Individual: 23.04.2019T17-37-00  # Generated from value "23.04.2019T17-37-00" located at cell 'Лист1'!F60.
+   Types: Date
+Individual: 04.12.2018T11-06-00  # Generated from value "04.12.2018T11-06-00" located at cell 'Лист1'!F61.
+   Types: Date
+
+# Cell range: (Лист1!B2:B+) Comment: ""
+# Individual: @B* 
+#   Types: @B1
+#   Facts: specialize @C*,
+# have_priority @D*,
+# start_doing @E*,
+# end_doing @F*,
+# is_assigned @G*
+
+Individual: _Simplified_Chinese_translation_for_3.3-stable  # Generated from value "_Simplified_Chinese_translation_for_3.3-stable" located at cell 'Лист1'!B2.
+   Facts: specialize "Translations"  # Generated from value "Translations" located at cell 'Лист1'!C2.,
+         have_priority "Normal"  # Generated from value "Normal" located at cell 'Лист1'!D2.,
+         start_doing "26.06.2017T14-38-00"  # Generated from value "26.06.2017T14-38-00" located at cell 'Лист1'!E2.,
+         end_doing "27.06.2017T7-27-00"  # Generated from value "27.06.2017T7-27-00" located at cell 'Лист1'!F2.,
+         is_assigned "Toshi_MARUYAMA"  # Generated from value "Toshi_MARUYAMA" located at cell 'Лист1'!G2.
+   Types: Task
+Individual: Ability_to_filter_roles_that_are_displayed_on_the_permissions_report  # Generated from value "Ability_to_filter_roles_that_are_displayed_on_the_permissions_report" located at cell 'Лист1'!B3.
+   Facts: specialize "Administration"  # Generated from value "Administration" located at cell 'Лист1'!C3.,
+         have_priority "Normal"  # Generated from value "Normal" located at cell 'Лист1'!D3.,
+         start_doing "25.10.2019T17-52-00"  # Generated from value "25.10.2019T17-52-00" located at cell 'Лист1'!E3.,
+         end_doing "26.10.2019T8-04-00"  # Generated from value "26.10.2019T8-04-00" located at cell 'Лист1'!F3.
+   Types: Task
+Individual: Add_clear_query_icon_next_to_selected_query_in_sidebar  # Generated from value "Add_clear_query_icon_next_to_selected_query_in_sidebar" located at cell 'Лист1'!B4.
+   Facts: specialize "UI"  # Generated from value "UI" located at cell 'Лист1'!C4.,
+         have_priority "Normal"  # Generated from value "Normal" located at cell 'Лист1'!D4.,
+         start_doing "29.06.2019T13-43-00"  # Generated from value "29.06.2019T13-43-00" located at cell 'Лист1'!E4.,
+         end_doing "14.09.2019T3-03-00"  # Generated from value "14.09.2019T3-03-00" located at cell 'Лист1'!F4.
+   Types: Task
+Individual: Add_context_menu_for_attributes_in_issue_details  # Generated from value "Add_context_menu_for_attributes_in_issue_details" located at cell 'Лист1'!B5.
+   Facts: specialize "Issues"  # Generated from value "Issues" located at cell 'Лист1'!C5.,
+         have_priority "Normal"  # Generated from value "Normal" located at cell 'Лист1'!D5.,
+         start_doing "26.01.2018T17-13-00"  # Generated from value "26.01.2018T17-13-00" located at cell 'Лист1'!E5.,
+         end_doing "29.05.2018T6-52-00"  # Generated from value "29.05.2018T6-52-00" located at cell 'Лист1'!F5.
+   Types: Task
+Individual: Add_Total_estimated_hours_column_on_issue_list_  # Generated from value "Add_Total_estimated_hours_column_on_issue_list_" located at cell 'Лист1'!B6.
+   Facts: specialize "Issues"  # Generated from value "Issues" located at cell 'Лист1'!C6.,
+         have_priority "Normal"  # Generated from value "Normal" located at cell 'Лист1'!D6.,
+         start_doing "07.09.2015T12-07-00"  # Generated from value "07.09.2015T12-07-00" located at cell 'Лист1'!E6.,
+         end_doing "12.09.2015T16-54-00"  # Generated from value "12.09.2015T16-54-00" located at cell 'Лист1'!F6.
+   Types: Task
+Individual: Add_useful_details_to_error_message_when_a_template_is_missing  # Generated from value "Add_useful_details_to_error_message_when_a_template_is_missing" located at cell 'Лист1'!B7.
+   Facts: specialize "Administration"  # Generated from value "Administration" located at cell 'Лист1'!C7.,
+         have_priority "Normal"  # Generated from value "Normal" located at cell 'Лист1'!D7.,
+         start_doing "04.07.2017T10-31-00"  # Generated from value "04.07.2017T10-31-00" located at cell 'Лист1'!E7.,
+         end_doing "11.01.2018T13-32-00"  # Generated from value "11.01.2018T13-32-00" located at cell 'Лист1'!F7.
+   Types: Task
+Individual: Allow_issue_auto_complete_to_return_10_issues_when_there_is_not_search_term_provided  # Generated from value "Allow_issue_auto_complete_to_return_10_issues_when_there_is_not_search_term_provided" located at cell 'Лист1'!B8.
+   Facts: specialize "Issues"  # Generated from value "Issues" located at cell 'Лист1'!C8.,
+         have_priority "Normal"  # Generated from value "Normal" located at cell 'Лист1'!D8.,
+         start_doing "02.09.2019T7-19-00"  # Generated from value "02.09.2019T7-19-00" located at cell 'Лист1'!E8.,
+         end_doing "12.09.2019T1-36-00"  # Generated from value "12.09.2019T1-36-00" located at cell 'Лист1'!F8.
+   Types: Task
+Individual: Allow_only_vertical_reorderingin_sortable_lists  # Generated from value "Allow_only_vertical_reorderingin_sortable_lists" located at cell 'Лист1'!B9.
+   Facts: specialize "UI"  # Generated from value "UI" located at cell 'Лист1'!C9.,
+         have_priority "Normal"  # Generated from value "Normal" located at cell 'Лист1'!D9.,
+         start_doing "13.10.2016T12-13-00"  # Generated from value "13.10.2016T12-13-00" located at cell 'Лист1'!E9.,
+         end_doing "03.12.2016T9-42-00"  # Generated from value "03.12.2016T9-42-00" located at cell 'Лист1'!F9.
+   Types: Task
+Individual: Allow_project_specific_css_files_inside_a_theme_folder  # Generated from value "Allow_project_specific_css_files_inside_a_theme_folder" located at cell 'Лист1'!B10.
+   Facts: specialize "Themes"  # Generated from value "Themes" located at cell 'Лист1'!C10.,
+         have_priority "Normal"  # Generated from value "Normal" located at cell 'Лист1'!D10.,
+         start_doing "13.11.2013T13-04-00"  # Generated from value "13.11.2013T13-04-00" located at cell 'Лист1'!E10.,
+         end_doing "10.02.2014T9-32-00"  # Generated from value "10.02.2014T9-32-00" located at cell 'Лист1'!F10.
+   Types: Task
+Individual: Atom_returns_500_error  # Generated from value "Atom_returns_500_error" located at cell 'Лист1'!B11.
+   Facts: specialize "Website_redmine.org"  # Generated from value "Website_redmine.org" located at cell 'Лист1'!C11.,
+         have_priority "High"  # Generated from value "High" located at cell 'Лист1'!D11.,
+         start_doing "12.02.2012T17-19-00"  # Generated from value "12.02.2012T17-19-00" located at cell 'Лист1'!E11.,
+         end_doing "12.02.2012T17-42-00"  # Generated from value "12.02.2012T17-42-00" located at cell 'Лист1'!F11.,
+         is_assigned "Toshi_MARUYAMA"  # Generated from value "Toshi_MARUYAMA" located at cell 'Лист1'!G11.
+   Types: Task
+Individual: Brazilian_translation_for_3.3-stable  # Generated from value "Brazilian_translation_for_3.3-stable" located at cell 'Лист1'!B12.
+   Facts: specialize "Translations"  # Generated from value "Translations" located at cell 'Лист1'!C12.,
+         have_priority "Normal"  # Generated from value "Normal" located at cell 'Лист1'!D12.,
+         start_doing "21.12.2017T16-51-00"  # Generated from value "21.12.2017T16-51-00" located at cell 'Лист1'!E12.,
+         end_doing "21.12.2017T18-15-00"  # Generated from value "21.12.2017T18-15-00" located at cell 'Лист1'!F12.
+   Types: Task
+Individual: Change_default_theme_to_pixelcookers  # Generated from value "Change_default_theme_to_pixelcookers" located at cell 'Лист1'!B13.
+   Facts: specialize "Themes"  # Generated from value "Themes" located at cell 'Лист1'!C13.,
+         have_priority "Normal"  # Generated from value "Normal" located at cell 'Лист1'!D13.,
+         start_doing "25.05.2011T8-43-00"  # Generated from value "25.05.2011T8-43-00" located at cell 'Лист1'!E13.,
+         end_doing "09.03.2020T14-42-00"  # Generated from value "09.03.2020T14-42-00" located at cell 'Лист1'!F13.
+   Types: Task
+Individual: Conflict_with_rights_and_roles.  # Generated from value "Conflict_with_rights_and_roles." located at cell 'Лист1'!B14.
+   Facts: specialize "Permissions_and_roles"  # Generated from value "Permissions_and_roles" located at cell 'Лист1'!C14.,
+         have_priority "Normal"  # Generated from value "Normal" located at cell 'Лист1'!D14.,
+         start_doing "08.10.2018T11-07-00"  # Generated from value "08.10.2018T11-07-00" located at cell 'Лист1'!E14.,
+         end_doing "08.10.2018T16-55-00"  # Generated from value "08.10.2018T16-55-00" located at cell 'Лист1'!F14.
+   Types: Task
+Individual: Couldn't_find_template_for_digesting_error_in_the_log_when_sending_a_thumbnail_or_an_attachment  # Generated from value "Couldn't_find_template_for_digesting_error_in_the_log_when_sending_a_thumbnail_or_an_attachment" located at cell 'Лист1'!B15.
+   Facts: specialize "Attachments"  # Generated from value "Attachments" located at cell 'Лист1'!C15.,
+         have_priority "Low"  # Generated from value "Low" located at cell 'Лист1'!D15.,
+         start_doing "09.07.2015T11-37-00"  # Generated from value "09.07.2015T11-37-00" located at cell 'Лист1'!E15.,
+         end_doing "12.12.2019T15-57-00"  # Generated from value "12.12.2019T15-57-00" located at cell 'Лист1'!F15.
+   Types: Task
+Individual: Czech_translation_for_3.4-stable  # Generated from value "Czech_translation_for_3.4-stable" located at cell 'Лист1'!B16.
+   Facts: specialize "Translations"  # Generated from value "Translations" located at cell 'Лист1'!C16.,
+         have_priority "Normal"  # Generated from value "Normal" located at cell 'Лист1'!D16.,
+         start_doing "09.12.2017T17-19-00"  # Generated from value "09.12.2017T17-19-00" located at cell 'Лист1'!E16.,
+         end_doing "10.12.2017T4-52-00"  # Generated from value "10.12.2017T4-52-00" located at cell 'Лист1'!F16.
+   Types: Task
+Individual: Display_details_about_inheritance_when_editing_a_member_roles  # Generated from value "Display_details_about_inheritance_when_editing_a_member_roles" located at cell 'Лист1'!B17.
+   Facts: specialize "Project_settings"  # Generated from value "Project_settings" located at cell 'Лист1'!C17.,
+         have_priority "Normal"  # Generated from value "Normal" located at cell 'Лист1'!D17.,
+         start_doing "15.03.2019T11-09-00"  # Generated from value "15.03.2019T11-09-00" located at cell 'Лист1'!E17.,
+         end_doing "15.03.2019T11-11-00"  # Generated from value "15.03.2019T11-11-00" located at cell 'Лист1'!F17.
+   Types: Task
+Individual: Filtering_issues_via_context_menu_should_not_reset_selected_columns  # Generated from value "Filtering_issues_via_context_menu_should_not_reset_selected_columns" located at cell 'Лист1'!B18.
+   Facts: specialize "Issues_list"  # Generated from value "Issues_list" located at cell 'Лист1'!C18.,
+         have_priority "Normal"  # Generated from value "Normal" located at cell 'Лист1'!D18.,
+         start_doing "04.09.2017T10-47-00"  # Generated from value "04.09.2017T10-47-00" located at cell 'Лист1'!E18.,
+         end_doing "15.03.2019T8-54-00"  # Generated from value "15.03.2019T8-54-00" located at cell 'Лист1'!F18.
+   Types: Task
+Individual: Fix_wrong_Japanese_label_attachment_translation  # Generated from value "Fix_wrong_Japanese_label_attachment_translation" located at cell 'Лист1'!B19.
+   Facts: specialize "Translations"  # Generated from value "Translations" located at cell 'Лист1'!C19.,
+         have_priority "Normal"  # Generated from value "Normal" located at cell 'Лист1'!D19.,
+         start_doing "17.07.2012T6-30-00"  # Generated from value "17.07.2012T6-30-00" located at cell 'Лист1'!E19.,
+         end_doing "17.07.2012T16-52-00"  # Generated from value "17.07.2012T16-52-00" located at cell 'Лист1'!F19.
+   Types: Task
+Individual: german_translation_for_missing_parts  # Generated from value "german_translation_for_missing_parts" located at cell 'Лист1'!B20.
+   Facts: specialize "Translations"  # Generated from value "Translations" located at cell 'Лист1'!C20.,
+         have_priority "Normal"  # Generated from value "Normal" located at cell 'Лист1'!D20.,
+         start_doing "24.04.2019T11-14-00"  # Generated from value "24.04.2019T11-14-00" located at cell 'Лист1'!E20.,
+         end_doing "27.08.2019T3-05-00"  # Generated from value "27.08.2019T3-05-00" located at cell 'Лист1'!F20.
+   Types: Task
+Individual: Global_and_public_custom_queries_are_shown_as_editable_to_non_administrators_in_projects  # Generated from value "Global_and_public_custom_queries_are_shown_as_editable_to_non_administrators_in_projects" located at cell 'Лист1'!B21.
+   Facts: specialize "Issues"  # Generated from value "Issues" located at cell 'Лист1'!C21.,
+         have_priority "Normal"  # Generated from value "Normal" located at cell 'Лист1'!D21.,
+         start_doing "28.02.2018T17-19-00"  # Generated from value "28.02.2018T17-19-00" located at cell 'Лист1'!E21.,
+         end_doing "16.06.2018T12-54-00"  # Generated from value "16.06.2018T12-54-00" located at cell 'Лист1'!F21.
+   Types: Task
+Individual: Inappropriate_file_uploads_in_the_documentation  # Generated from value "Inappropriate_file_uploads_in_the_documentation" located at cell 'Лист1'!B22.
+   Facts: specialize "Website_redmine.org"  # Generated from value "Website_redmine.org" located at cell 'Лист1'!C22.,
+         have_priority "High"  # Generated from value "High" located at cell 'Лист1'!D22.,
+         start_doing "16.01.2018T13-31-00"  # Generated from value "16.01.2018T13-31-00" located at cell 'Лист1'!E22.,
+         end_doing "26.01.2018T1-01-00"  # Generated from value "26.01.2018T1-01-00" located at cell 'Лист1'!F22.
+   Types: Task
+Individual: Journals_could_be_ordered_using_the_create_on_attribute_instead_of_the_id  # Generated from value "Journals_could_be_ordered_using_the_create_on_attribute_instead_of_the_id" located at cell 'Лист1'!B23.
+   Facts: specialize "Issues"  # Generated from value "Issues" located at cell 'Лист1'!C23.,
+         have_priority "Low"  # Generated from value "Low" located at cell 'Лист1'!D23.,
+         start_doing "25.11.2014T17-05-00"  # Generated from value "25.11.2014T17-05-00" located at cell 'Лист1'!E23.,
+         end_doing "01.12.2014T23-12-00"  # Generated from value "01.12.2014T23-12-00" located at cell 'Лист1'!F23.
+   Types: Task
+Individual: Lithuanian_default_role_developer_translation_change  # Generated from value "Lithuanian_default_role_developer_translation_change" located at cell 'Лист1'!B24.
+   Facts: specialize "Translations"  # Generated from value "Translations" located at cell 'Лист1'!C24.,
+         have_priority "Normal"  # Generated from value "Normal" located at cell 'Лист1'!D24.,
+         start_doing "09.12.2017T20-36-00"  # Generated from value "09.12.2017T20-36-00" located at cell 'Лист1'!E24.,
+         end_doing "10.12.2017T4-53-00"  # Generated from value "10.12.2017T4-53-00" located at cell 'Лист1'!F24.
+   Types: Task
+Individual: Lithuanian_translation_for_3.3-stable  # Generated from value "Lithuanian_translation_for_3.3-stable" located at cell 'Лист1'!B25.
+   Facts: specialize "Translations"  # Generated from value "Translations" located at cell 'Лист1'!C25.,
+         have_priority "Normal"  # Generated from value "Normal" located at cell 'Лист1'!D25.,
+         start_doing "09.12.2017T17-09-00"  # Generated from value "09.12.2017T17-09-00" located at cell 'Лист1'!E25.,
+         end_doing "10.12.2017T4-49-00"  # Generated from value "10.12.2017T4-49-00" located at cell 'Лист1'!F25.
+   Types: Task
+Individual: Load_associations_of_query_results_more_efficiently  # Generated from value "Load_associations_of_query_results_more_efficiently" located at cell 'Лист1'!B26.
+   Facts: specialize "Performance"  # Generated from value "Performance" located at cell 'Лист1'!C26.,
+         have_priority "Normal"  # Generated from value "Normal" located at cell 'Лист1'!D26.,
+         start_doing "18.01.2017T13-36-00"  # Generated from value "18.01.2017T13-36-00" located at cell 'Лист1'!E26.,
+         end_doing "18.01.2017T14-49-00"  # Generated from value "18.01.2017T14-49-00" located at cell 'Лист1'!F26.
+   Types: Task
+Individual: Localisation_not_set_correctly_on_authenticity_token_errors  # Generated from value "Localisation_not_set_correctly_on_authenticity_token_errors" located at cell 'Лист1'!B27.
+   Facts: specialize "I18n"  # Generated from value "I18n" located at cell 'Лист1'!C27.,
+         have_priority "Normal"  # Generated from value "Normal" located at cell 'Лист1'!D27.,
+         start_doing "29.11.2014T14-03-00"  # Generated from value "29.11.2014T14-03-00" located at cell 'Лист1'!E27.,
+         end_doing "26.12.2014T11-42-00"  # Generated from value "26.12.2014T11-42-00" located at cell 'Лист1'!F27.
+   Types: Task
+Individual: Make_favicon_themeable  # Generated from value "Make_favicon_themeable" located at cell 'Лист1'!B28.
+   Facts: specialize "Themes"  # Generated from value "Themes" located at cell 'Лист1'!C28.,
+         have_priority "Normal"  # Generated from value "Normal" located at cell 'Лист1'!D28.,
+         start_doing "12.12.2013T16-09-00"  # Generated from value "12.12.2013T16-09-00" located at cell 'Лист1'!E28.,
+         end_doing "11.01.2014T12-23-00"  # Generated from value "11.01.2014T12-23-00" located at cell 'Лист1'!F28.
+   Types: Task
+Individual: Mark_default_version_in_versions_tab_from_project_settings  # Generated from value "Mark_default_version_in_versions_tab_from_project_settings" located at cell 'Лист1'!B29.
+   Facts: specialize "Project_settings"  # Generated from value "Project_settings" located at cell 'Лист1'!C29.,
+         have_priority "Normal"  # Generated from value "Normal" located at cell 'Лист1'!D29.,
+         start_doing "15.12.2017T7-38-00"  # Generated from value "15.12.2017T7-38-00" located at cell 'Лист1'!E29.,
+         end_doing "09.08.2018T13-50-00"  # Generated from value "09.08.2018T13-50-00" located at cell 'Лист1'!F29.
+   Types: Task
+Individual: Misplaced_macro_on_donors_wiki_page  # Generated from value "Misplaced_macro_on_donors_wiki_page" located at cell 'Лист1'!B30.
+   Facts: specialize "Website_redmine.org"  # Generated from value "Website_redmine.org" located at cell 'Лист1'!C30.,
+         have_priority "Normal"  # Generated from value "Normal" located at cell 'Лист1'!D30.,
+         start_doing "20.02.2018T19-48-00"  # Generated from value "20.02.2018T19-48-00" located at cell 'Лист1'!E30.,
+         end_doing "20.02.2018T20-41-00"  # Generated from value "20.02.2018T20-41-00" located at cell 'Лист1'!F30.
+   Types: Task
+Individual: Move_the_links_(All_time_entries,_Import)_from_Spent_time_section_of_the_spent_time_list_sidebar_under_a_dropdown_  # Generated from value "Move_the_links_(All_time_entries,_Import)_from_Spent_time_section_of_the_spent_time_list_sidebar_under_a_dropdown_" located at cell 'Лист1'!B31.
+   Facts: specialize "UI"  # Generated from value "UI" located at cell 'Лист1'!C31.,
+         have_priority "Normal"  # Generated from value "Normal" located at cell 'Лист1'!D31.,
+         start_doing "20.06.2019T22-50-00"  # Generated from value "20.06.2019T22-50-00" located at cell 'Лист1'!E31.,
+         end_doing "27.09.2019T11-38-00"  # Generated from value "27.09.2019T11-38-00" located at cell 'Лист1'!F31.
+   Types: Task
+Individual: Multiselect_elements_don't_expand_anymore  # Generated from value "Multiselect_elements_don't_expand_anymore" located at cell 'Лист1'!B32.
+   Facts: specialize "UI"  # Generated from value "UI" located at cell 'Лист1'!C32.,
+         have_priority "Normal"  # Generated from value "Normal" located at cell 'Лист1'!D32.,
+         start_doing "17.04.2019T14-20-00"  # Generated from value "17.04.2019T14-20-00" located at cell 'Лист1'!E32.,
+         end_doing "18.04.2019T9-44-00"  # Generated from value "18.04.2019T9-44-00" located at cell 'Лист1'!F32.
+   Types: Task
+Individual: PDF_export_fails_if_there_is_U+FFFD_in_issue_data_or_journals  # Generated from value "PDF_export_fails_if_there_is_U+FFFD_in_issue_data_or_journals" located at cell 'Лист1'!B33.
+   Facts: specialize "PDF_export"  # Generated from value "PDF_export" located at cell 'Лист1'!C33.,
+         have_priority "Normal"  # Generated from value "Normal" located at cell 'Лист1'!D33.,
+         start_doing "10.09.2014T9-58-00"  # Generated from value "10.09.2014T9-58-00" located at cell 'Лист1'!E33.,
+         end_doing "11.09.2014T19-46-00"  # Generated from value "11.09.2014T19-46-00" located at cell 'Лист1'!F33.,
+         is_assigned "Toshi_MARUYAMA"  # Generated from value "Toshi_MARUYAMA" located at cell 'Лист1'!G33.
+   Types: Task
+Individual: Per_role_visibility_settings_for_project_custom_fields  # Generated from value "Per_role_visibility_settings_for_project_custom_fields" located at cell 'Лист1'!B34.
+   Facts: specialize "Custom_fields"  # Generated from value "Custom_fields" located at cell 'Лист1'!C34.,
+         have_priority "Normal"  # Generated from value "Normal" located at cell 'Лист1'!D34.,
+         start_doing "19.08.2019T22-18-00"  # Generated from value "19.08.2019T22-18-00" located at cell 'Лист1'!E34.,
+         end_doing "20.08.2019T3-48-00"  # Generated from value "20.08.2019T3-48-00" located at cell 'Лист1'!F34.
+   Types: Task
+Individual: Per_role_visibility_settings_for_spent_time_custom_fields  # Generated from value "Per_role_visibility_settings_for_spent_time_custom_fields" located at cell 'Лист1'!B35.
+   Facts: specialize "Custom_fields"  # Generated from value "Custom_fields" located at cell 'Лист1'!C35.,
+         have_priority "Normal"  # Generated from value "Normal" located at cell 'Лист1'!D35.,
+         start_doing "07.08.2019T8-03-00"  # Generated from value "07.08.2019T8-03-00" located at cell 'Лист1'!E35.,
+         end_doing "18.08.2019T5-28-00"  # Generated from value "18.08.2019T5-28-00" located at cell 'Лист1'!F35.
+   Types: Task
+Individual: Per_user_themes  # Generated from value "Per_user_themes" located at cell 'Лист1'!B36.
+   Facts: specialize "Themes"  # Generated from value "Themes" located at cell 'Лист1'!C36.,
+         have_priority "Normal"  # Generated from value "Normal" located at cell 'Лист1'!D36.,
+         start_doing "21.07.2011T8-42-00"  # Generated from value "21.07.2011T8-42-00" located at cell 'Лист1'!E36.,
+         end_doing "04.08.2011T23-30-00"  # Generated from value "04.08.2011T23-30-00" located at cell 'Лист1'!F36.
+   Types: Task
+Individual: PM_can_manage_local_group_in_Project  # Generated from value "PM_can_manage_local_group_in_Project" located at cell 'Лист1'!B37.
+   Facts: specialize "Project_settings"  # Generated from value "Project_settings" located at cell 'Лист1'!C37.,
+         have_priority "Normal"  # Generated from value "Normal" located at cell 'Лист1'!D37.,
+         start_doing "04.06.2016T11-11-00"  # Generated from value "04.06.2016T11-11-00" located at cell 'Лист1'!E37.,
+         end_doing "05.06.2016T2-55-00"  # Generated from value "05.06.2016T2-55-00" located at cell 'Лист1'!F37.
+   Types: Task
+Individual: prevent_deadlocks_in_attachment_deduplication  # Generated from value "prevent_deadlocks_in_attachment_deduplication" located at cell 'Лист1'!B38.
+   Facts: specialize "Attachments"  # Generated from value "Attachments" located at cell 'Лист1'!C38.,
+         have_priority "Normal"  # Generated from value "Normal" located at cell 'Лист1'!D38.,
+         start_doing "12.04.2017T3-53-00"  # Generated from value "12.04.2017T3-53-00" located at cell 'Лист1'!E38.,
+         end_doing "13.04.2017T14-10-00"  # Generated from value "13.04.2017T14-10-00" located at cell 'Лист1'!F38.
+   Types: Task
+Individual: Preview_URL_in_Wiki_Toolbar_should_be_escaped  # Generated from value "Preview_URL_in_Wiki_Toolbar_should_be_escaped" located at cell 'Лист1'!B39.
+   Facts: specialize "Wiki"  # Generated from value "Wiki" located at cell 'Лист1'!C39.,
+         have_priority "Normal"  # Generated from value "Normal" located at cell 'Лист1'!D39.,
+         start_doing "06.02.2019T19-15-00"  # Generated from value "06.02.2019T19-15-00" located at cell 'Лист1'!E39.,
+         end_doing "11.02.2019T16-58-00"  # Generated from value "11.02.2019T16-58-00" located at cell 'Лист1'!F39.
+   Types: Task
+Individual: Re-Create_the_Community_Relations_Team  # Generated from value "Re-Create_the_Community_Relations_Team" located at cell 'Лист1'!B40.
+   Facts: specialize "Website_redmine.org"  # Generated from value "Website_redmine.org" located at cell 'Лист1'!C40.,
+         have_priority "Normal"  # Generated from value "Normal" located at cell 'Лист1'!D40.,
+         start_doing "21.06.2013T18-23-00"  # Generated from value "21.06.2013T18-23-00" located at cell 'Лист1'!E40.,
+         end_doing "25.06.2013T14-53-00"  # Generated from value "25.06.2013T14-53-00" located at cell 'Лист1'!F40.
+   Types: Task
+Individual: redmine/i18n.rb_-_languages_lookup_class_variable_is_rebuilt_every_time  # Generated from value "redmine/i18n.rb_-_languages_lookup_class_variable_is_rebuilt_every_time" located at cell 'Лист1'!B41.
+   Facts: specialize "I18n"  # Generated from value "I18n" located at cell 'Лист1'!C41.,
+         have_priority "Normal"  # Generated from value "Normal" located at cell 'Лист1'!D41.,
+         start_doing "06.02.2017T11-56-00"  # Generated from value "06.02.2017T11-56-00" located at cell 'Лист1'!E41.,
+         end_doing "02.03.2017T20-42-00"  # Generated from value "02.03.2017T20-42-00" located at cell 'Лист1'!F41.
+   Types: Task
+Individual: Remove_blog_plugin_from_catalogue  # Generated from value "Remove_blog_plugin_from_catalogue" located at cell 'Лист1'!B42.
+   Facts: specialize "Website_redmine.org"  # Generated from value "Website_redmine.org" located at cell 'Лист1'!C42.,
+         have_priority "Normal"  # Generated from value "Normal" located at cell 'Лист1'!D42.,
+         start_doing "13.01.2013T23-01-00"  # Generated from value "13.01.2013T23-01-00" located at cell 'Лист1'!E42.,
+         end_doing "14.01.2013T8-43-00"  # Generated from value "14.01.2013T8-43-00" located at cell 'Лист1'!F42.
+   Types: Task
+Individual: Render_forums_list_in_project_settings_as_table  # Generated from value "Render_forums_list_in_project_settings_as_table" located at cell 'Лист1'!B43.
+   Facts: specialize "UI"  # Generated from value "UI" located at cell 'Лист1'!C43.,
+         have_priority "Normal"  # Generated from value "Normal" located at cell 'Лист1'!D43.,
+         start_doing "24.08.2018T15-03-00"  # Generated from value "24.08.2018T15-03-00" located at cell 'Лист1'!E43.,
+         end_doing "29.08.2018T9-26-00"  # Generated from value "29.08.2018T9-26-00" located at cell 'Лист1'!F43.
+   Types: Task
+Individual: Render_forums_list_in_project_settings_as_table  # Generated from value "Render_forums_list_in_project_settings_as_table" located at cell 'Лист1'!B44.
+   Facts: specialize "UI"  # Generated from value "UI" located at cell 'Лист1'!C44.,
+         have_priority "Normal"  # Generated from value "Normal" located at cell 'Лист1'!D44.,
+         start_doing "24.08.2018T15-03-00"  # Generated from value "24.08.2018T15-03-00" located at cell 'Лист1'!E44.,
+         end_doing "29.08.2018T9-26-00"  # Generated from value "29.08.2018T9-26-00" located at cell 'Лист1'!F44.
+   Types: Task
+Individual: Render_repository_graphs_using_Chart.js_instead_of_SVG  # Generated from value "Render_repository_graphs_using_Chart.js_instead_of_SVG" located at cell 'Лист1'!B45.
+   Facts: specialize "UI"  # Generated from value "UI" located at cell 'Лист1'!C45.,
+         have_priority "Normal"  # Generated from value "Normal" located at cell 'Лист1'!D45.,
+         start_doing "25.06.2017T15-51-00"  # Generated from value "25.06.2017T15-51-00" located at cell 'Лист1'!E45.,
+         end_doing "25.06.2017T15-52-00"  # Generated from value "25.06.2017T15-52-00" located at cell 'Лист1'!F45.
+   Types: Task
+Individual: Serbian_Latin_translation_patch_(sr-YU.yml)  # Generated from value "Serbian_Latin_translation_patch_(sr-YU.yml)" located at cell 'Лист1'!B46.
+   Facts: specialize "Translations"  # Generated from value "Translations" located at cell 'Лист1'!C46.,
+         have_priority "Normal"  # Generated from value "Normal" located at cell 'Лист1'!D46.,
+         start_doing "10.01.2013T16-14-00"  # Generated from value "10.01.2013T16-14-00" located at cell 'Лист1'!E46.,
+         end_doing "11.01.2013T10-48-00"  # Generated from value "11.01.2013T10-48-00" located at cell 'Лист1'!F46.
+   Types: Task
+Individual: Should_not_replace_all_invalid_utf8_characters_(e.g_in_mail)  # Generated from value "Should_not_replace_all_invalid_utf8_characters_(e.g_in_mail)" located at cell 'Лист1'!B47.
+   Facts: specialize "I18n"  # Generated from value "I18n" located at cell 'Лист1'!C47.,
+         have_priority "Normal"  # Generated from value "Normal" located at cell 'Лист1'!D47.,
+         start_doing "15.12.2016T2-13-00"  # Generated from value "15.12.2016T2-13-00" located at cell 'Лист1'!E47.,
+         end_doing "28.01.2017T8-56-00"  # Generated from value "28.01.2017T8-56-00" located at cell 'Лист1'!F47.
+   Types: Task
+Individual: Show_action_not_allowed_for_time_entries_in_closed_projects  # Generated from value "Show_action_not_allowed_for_time_entries_in_closed_projects" located at cell 'Лист1'!B48.
+   Facts: specialize "Permissions_and_roles"  # Generated from value "Permissions_and_roles" located at cell 'Лист1'!C48.,
+         have_priority "Normal"  # Generated from value "Normal" located at cell 'Лист1'!D48.,
+         start_doing "08.11.2016T15-09-00"  # Generated from value "08.11.2016T15-09-00" located at cell 'Лист1'!E48.,
+         end_doing "26.11.2016T10-01-00"  # Generated from value "26.11.2016T10-01-00" located at cell 'Лист1'!F48.
+   Types: Task
+Individual: Skip_thumbnail_tests_if_ImageMagick_convert_command_is_not_available  # Generated from value "Skip_thumbnail_tests_if_ImageMagick_convert_command_is_not_available" located at cell 'Лист1'!B49.
+   Facts: specialize "Code_cleanup/refactoring"  # Generated from value "Code_cleanup/refactoring" located at cell 'Лист1'!C49.,
+         have_priority "Normal"  # Generated from value "Normal" located at cell 'Лист1'!D49.,
+         start_doing "31.03.2020T19-21-00"  # Generated from value "31.03.2020T19-21-00" located at cell 'Лист1'!E49.,
+         end_doing "02.04.2020T10-04-00"  # Generated from value "02.04.2020T10-04-00" located at cell 'Лист1'!F49.
+   Types: Task
+Individual: Stable_branch_broken  # Generated from value "Stable_branch_broken" located at cell 'Лист1'!B50.
+   Facts: specialize "SCM"  # Generated from value "SCM" located at cell 'Лист1'!C50.,
+         have_priority "Urgent"  # Generated from value "Urgent" located at cell 'Лист1'!D50.,
+         start_doing "06.04.2011T8-02-00"  # Generated from value "06.04.2011T8-02-00" located at cell 'Лист1'!E50.,
+         end_doing "06.04.2011T10-30-00"  # Generated from value "06.04.2011T10-30-00" located at cell 'Лист1'!F50.
+   Types: Task
+Individual: Test_failures_in_MercurialAdapterTest  # Generated from value "Test_failures_in_MercurialAdapterTest" located at cell 'Лист1'!B51.
+   Facts: specialize "SCM"  # Generated from value "SCM" located at cell 'Лист1'!C51.,
+         have_priority "High"  # Generated from value "High" located at cell 'Лист1'!D51.,
+         start_doing "09.01.2011T11-49-00"  # Generated from value "09.01.2011T11-49-00" located at cell 'Лист1'!E51.,
+         end_doing "02.02.2011T11-04-00"  # Generated from value "02.02.2011T11-04-00" located at cell 'Лист1'!F51.,
+         is_assigned "Jean-Philippe_Lang"  # Generated from value "Jean-Philippe_Lang" located at cell 'Лист1'!G51.
+   Types: Task
+Individual: Totals_cannot_be_removed_completely_if_some_columns_are_set_in_the_global_settings  # Generated from value "Totals_cannot_be_removed_completely_if_some_columns_are_set_in_the_global_settings" located at cell 'Лист1'!B52.
+   Facts: specialize "Issues_filter"  # Generated from value "Issues_filter" located at cell 'Лист1'!C52.,
+         have_priority "Normal"  # Generated from value "Normal" located at cell 'Лист1'!D52.,
+         start_doing "01.03.2016T15-35-00"  # Generated from value "01.03.2016T15-35-00" located at cell 'Лист1'!E52.,
+         end_doing "12.06.2016T8-03-00"  # Generated from value "12.06.2016T8-03-00" located at cell 'Лист1'!F52.
+   Types: Task
+Individual: unwanted_commercial_email_by_Easy_Redmine  # Generated from value "unwanted_commercial_email_by_Easy_Redmine" located at cell 'Лист1'!B53.
+   Facts: specialize "Website_redmine.org"  # Generated from value "Website_redmine.org" located at cell 'Лист1'!C53.,
+         have_priority "High"  # Generated from value "High" located at cell 'Лист1'!D53.,
+         start_doing "30.03.2013T22-33-00"  # Generated from value "30.03.2013T22-33-00" located at cell 'Лист1'!E53.,
+         end_doing "29.05.2013T23-16-00"  # Generated from value "29.05.2013T23-16-00" located at cell 'Лист1'!F53.
+   Types: Task
+Individual: Update_French_translations  # Generated from value "Update_French_translations" located at cell 'Лист1'!B54.
+   Facts: specialize "Translations"  # Generated from value "Translations" located at cell 'Лист1'!C54.,
+         have_priority "Normal"  # Generated from value "Normal" located at cell 'Лист1'!D54.,
+         start_doing "25.07.2018T11-09-00"  # Generated from value "25.07.2018T11-09-00" located at cell 'Лист1'!E54.,
+         end_doing "23.09.2018T14-02-00"  # Generated from value "23.09.2018T14-02-00" located at cell 'Лист1'!F54.
+   Types: Task
+Individual: Update_Rouge_to_3.12.0  # Generated from value "Update_Rouge_to_3.12.0" located at cell 'Лист1'!B55.
+   Facts: specialize "Gems_support"  # Generated from value "Gems_support" located at cell 'Лист1'!C55.,
+         have_priority "Normal"  # Generated from value "Normal" located at cell 'Лист1'!D55.,
+         start_doing "12.06.2019T8-21-00"  # Generated from value "12.06.2019T8-21-00" located at cell 'Лист1'!E55.,
+         end_doing "14.08.2019T7-24-00"  # Generated from value "14.08.2019T7-24-00" located at cell 'Лист1'!F55.
+   Types: Task
+Individual: Update_Security_Advisories_to_include_latest_rails_vulnerabilities.  # Generated from value "Update_Security_Advisories_to_include_latest_rails_vulnerabilities." located at cell 'Лист1'!B56.
+   Facts: specialize "Website_redmine.org"  # Generated from value "Website_redmine.org" located at cell 'Лист1'!C56.,
+         have_priority "High"  # Generated from value "High" located at cell 'Лист1'!D56.,
+         start_doing "09.01.2013T10-21-00"  # Generated from value "09.01.2013T10-21-00" located at cell 'Лист1'!E56.,
+         end_doing "09.01.2013T17-48-00"  # Generated from value "09.01.2013T17-48-00" located at cell 'Лист1'!F56.,
+         is_assigned "Jan_Niggemann_redmine.org_team_member"  # Generated from value "Jan_Niggemann_redmine.org_team_member" located at cell 'Лист1'!G56.
+   Types: Task
+Individual: Updated_Japanese_translation_for_notice_account_register_done  # Generated from value "Updated_Japanese_translation_for_notice_account_register_done" located at cell 'Лист1'!B57.
+   Facts: specialize "Translations"  # Generated from value "Translations" located at cell 'Лист1'!C57.,
+         have_priority "Normal"  # Generated from value "Normal" located at cell 'Лист1'!D57.,
+         start_doing "06.01.2013T11-12-00"  # Generated from value "06.01.2013T11-12-00" located at cell 'Лист1'!E57.,
+         end_doing "06.01.2013T13-06-00"  # Generated from value "06.01.2013T13-06-00" located at cell 'Лист1'!F57.
+   Types: Task
+Individual: View_attachments_on_the_issue_list  # Generated from value "View_attachments_on_the_issue_list" located at cell 'Лист1'!B58.
+   Facts: specialize "Issues_list"  # Generated from value "Issues_list" located at cell 'Лист1'!C58.,
+         have_priority "Normal"  # Generated from value "Normal" located at cell 'Лист1'!D58.,
+         start_doing "04.04.2017T19-06-00"  # Generated from value "04.04.2017T19-06-00" located at cell 'Лист1'!E58.,
+         end_doing "04.04.2017T19-07-00"  # Generated from value "04.04.2017T19-07-00" located at cell 'Лист1'!F58.
+   Types: Task
+Individual: View_switches_from_gantt_to_list_after_editing_an_issue  # Generated from value "View_switches_from_gantt_to_list_after_editing_an_issue" located at cell 'Лист1'!B59.
+   Facts: specialize "Gantt"  # Generated from value "Gantt" located at cell 'Лист1'!C59.,
+         have_priority "Normal"  # Generated from value "Normal" located at cell 'Лист1'!D59.,
+         start_doing "11.06.2019T11-53-00"  # Generated from value "11.06.2019T11-53-00" located at cell 'Лист1'!E59.,
+         end_doing "30.06.2019T7-38-00"  # Generated from value "30.06.2019T7-38-00" located at cell 'Лист1'!F59.
+   Types: Task
+Individual: Wrap_subprojects_in_the_overview_section_with_an_unordered_list_to_improve_customisation  # Generated from value "Wrap_subprojects_in_the_overview_section_with_an_unordered_list_to_improve_customisation" located at cell 'Лист1'!B60.
+   Facts: specialize "UI"  # Generated from value "UI" located at cell 'Лист1'!C60.,
+         have_priority "Normal"  # Generated from value "Normal" located at cell 'Лист1'!D60.,
+         start_doing "29.07.2018T13-44-00"  # Generated from value "29.07.2018T13-44-00" located at cell 'Лист1'!E60.,
+         end_doing "23.04.2019T17-37-00"  # Generated from value "23.04.2019T17-37-00" located at cell 'Лист1'!F60.
+   Types: Task
+Individual: Wrong_columns_after_CSV_export  # Generated from value "Wrong_columns_after_CSV_export" located at cell 'Лист1'!B61.
+   Facts: specialize "Issues_filter"  # Generated from value "Issues_filter" located at cell 'Лист1'!C61.,
+         have_priority "Normal"  # Generated from value "Normal" located at cell 'Лист1'!D61.,
+         start_doing "29.08.2017T11-31-00"  # Generated from value "29.08.2017T11-31-00" located at cell 'Лист1'!E61.,
+         end_doing "04.12.2018T11-06-00"  # Generated from value "04.12.2018T11-06-00" located at cell 'Лист1'!F61.
+   Types: Task
+
+===========================================================================================================

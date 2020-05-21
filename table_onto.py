@@ -1,18 +1,11 @@
-# from PyQt5 import QtWidgets
-from datetime import datetime
+import os
 
-from PyQt5.QtGui import QKeyEvent
-from PyQt5.QtWidgets import *  # QApplication, QMainWindow, QGridLayout, QWidget, QTableWidget, QTableWidgetItem
-from PyQt5.QtCore import QSize, Qt
-from owlready2 import *
-from datetime import *
-import re
+from PyQt5.QtWidgets import QApplication, QMainWindow, QTableWidgetItem, QAction, QMenu, QPushButton, QFileDialog, \
+    QMessageBox
+from ontology_file import MyOntology
+from deap_file import myGAoptimize
+from table_file import MyTable
 
-inst_domain = []  # self.table.item(new_row,1).text()
-inst_people = []  # self.table.item(new_row,3).text()
-inst_task = []  # self.table.item(new_row,0).text()
-inst_priority = []
-inst_role = [] #unuseful
 
 class MainWindow(QMainWindow):
 
@@ -25,29 +18,36 @@ class MainWindow(QMainWindow):
         self.newAct = QAction('Save', self)
         self.impAct = QAction('owl', self)
         self.impMenu = QMenu('Import', self)
-        dirname = os.path.dirname(__file__)
-        onto_path.append(dirname)#("C://Users/newLenovo/Desktop/prog")
-        self.bug_onto = get_ontology("http://test.org/bug.owl/").load()
-
-        '''
-        for i in self.bug_onto.Priority.instances():
-            self.inst_prior = {i.is_same_as: i}
-        for i in self.bug_onto.Role.instances():
-            self.inst_role = {i.is_same_as: i}
-        '''
-        self.table = QTableWidget(self)  # Create a table
-        self.dom_combotxt = None
-        self.prior_combotxt = None
-        self.setMinimumSize(QSize(750, 120))  # Set sizes
-        self.setWindowTitle("TasktrackerOnto")  # Set the window title
-        central_widget = QWidget(self)  # Create a central widget
-        self.setCentralWidget(central_widget)  # Install the central widget
-
-        self.grid_layout = QGridLayout(self)  # Create QGridLayout
-        central_widget.setLayout(self.grid_layout)  # Set this layout in central widget
-
-        self.ontology()
+        self.myO = MyOntology("http://test.org/bug.owl/")
+        self.myT = MyTable(self.myO, self)
         self.my_window()
+
+    # unify elements of task from row to ontology
+    @staticmethod
+    def cell_to_onto(new_cell, arr):
+        # get domain/priority from new task
+        return next(
+            (_ for _ in arr if new_cell == _.name),
+            None)
+
+    # one task from row put in array to save it
+    def arr_task(self, row):
+        return [self.myT.table.item(row, 0).text(),
+                self.cell_to_onto(self.myT.table.item(row, 1).text(),
+                                  self.myO.inst_domain),
+                self.myT.table.item(row, 2).text(),
+                self.cell_to_onto(self.myT.table.item(row, 3).text(),
+                                  self.myO.inst_people),
+                self.myT.table.item(row, 4).text(),
+                self.cell_to_onto(self.myT.table.item(row, 5).text(),
+                                  self.myO.inst_priority)]
+
+    # show message box window
+    def result_Window(self, res):
+        info = QMessageBox()
+        info.setIcon(QMessageBox.Information)
+        info.about(self, "Result Message", res)
+        pass
 
     def my_window(self):
         # создает строку меню
@@ -55,345 +55,116 @@ class MainWindow(QMainWindow):
 
         self.impAct.setShortcut('Ctrl+O')
         self.impAct.setStatusTip('Open new File')
-        self.impAct.triggered.connect(self.showDialog)
+        self.impAct.triggered.connect(self.show_Dialog)
         self.impMenu.addAction(self.impAct)
 
-        self.newAct.triggered.connect(self.save_owl)
+        self.newAct.triggered.connect(self.all_save)
         fileMenu.addAction(self.newAct)
 
         fileMenu.addMenu(self.impMenu)
 
         button = QPushButton('AddTask', self)
         button.move(fileMenu.width(), 0)
-        button.clicked.connect(self.addRow)
+        button.clicked.connect(self.myT.add_Row)
 
         button = QPushButton('Distribute', self)
         button.move(2 * button.width(), 0)
-        button.clicked.connect(self.fillAssigner)
-        pass
+        button.clicked.connect(self.distribute)  # fillAssigner)
 
-    def showDialog(self):
-        # fName = "issues.csv"
-        fName = QFileDialog.getOpenFileName('Open file', '/home', )[0]
-        print(fName)
-        split_name = [str(fName).split(':')]
-        self.ontology(split_name[0], split_name[1])
-        '''
-        with open(fName, "r") as f_obj:
-            csv_reader(f_obj)
-        
-        f = open(fname, 'r')
-        with f:
-            data = f.read()
-            self.textEdit.setText(data)
-        '''
-
-    # -------- Create Table ----------------------
-    # format onto domain
-    def str_date(self, data):
-        return datetime.strptime(str(data), '%Y-%m-%d %H:%M:%S')#%Y-%m-%dT%H:%M:%S
-    # format onto domain
-    def str_odate(self, data):
-        try:
-            odate = datetime.strptime(str(data), 'bug.%d.%m.%YT%H-%M-%S')
-        except ValueError:
-            odate = datetime.strptime(str(data), '[bug.%d.%m.%YT%H-%M-%S]')
-
-        return odate
-    #get nice string from onto without onto class
-    def str_onto(self, data):
-        try: #r - подавляют экранирование строки ("Сырые" строки)
-            ostr = re.split(r'\.', str(data), maxsplit=1)[1] # search.group(0)  # findall([^.]+$)[0]
-        except IndexError or AttributeError:
-            ostr = str(data)
-        return ostr
-
-    # Set unique cells without editing for all row
-    def create_item_flag(self, text):
-        tableWidgetItem = QTableWidgetItem(text)
-        tableWidgetItem.setFlags(Qt.ItemIsSelectable | Qt.ItemIsEnabled)
-        return tableWidgetItem
-
-    # Get text for item from ontology
-    def set_item_onto(self, i):
-        # Convert onto date to datetime
-        start_date = self.str_odate(inst_task[i].start_doing)
-        end_date = self.str_odate(inst_task[i].end_doing)
-        # duration = (end_date-start_date).days
-        # Format onto domain to string without name of ontology
-        task = self.str_onto(inst_task[i])
-        domain = self.str_onto(inst_task[i].specialize)
-        assign = self.str_onto(inst_task[i].is_assigned)
-        priority = self.str_onto(inst_task[i].have_priority)
-
-        # Fill the first line
-        self.table.setItem(i, 0, self.create_item_flag(task))
-        self.table.setItem(i, 1, self.create_item_flag(domain))
-        self.table.setItem(i, 2, self.create_item_flag(str(start_date)))
-        self.table.setItem(i, 3, self.create_item_flag(assign))
-        self.table.setItem(i, 4, self.create_item_flag(str(end_date)))
-        self.table.setItem(i, 5, self.create_item_flag(priority))
-        #self.table.setItem(i, 6, self.create_item_flag(priority))
-        # self.table.setItem(i, 5, self.create_item_flag(duration))
-        pass
-
-    def my_table(self):
-        self.table.setColumnCount(6)  # Set 6 columns
-        self.table.setRowCount(len(inst_task))  # and one row
-        # Set the table headers
-        self.table.setHorizontalHeaderLabels(["Task", "Domain", "Time_start", "Assigner", "Time_end", "Priority"])
-        # Set all cells/items at the table
-        for i in range(len(inst_task)):
-            self.set_item_onto(i)
-            # Do the resize of the columns by content
-            self.table.resizeColumnsToContents()
-            self.grid_layout.addWidget(self.table, 0, 0)  # Adding the self.table to the grid
-        self.lastRow = -1
-
-    # ------------ OPERATION ADD ROW --------------
-    # Check new text for combobox cell - domain
-    def dselectionchange(self, combotext):
-        self.dom_combotxt = combotext
-        print("combo txt: %s" % combotext)
-        # Add text for item. Not just widget
-        self.table.setItem(self.table.currentRow(), 1, QTableWidgetItem(self.dom_combotxt))
-        pass
-
-    # ------------ OPERATION ADD ROW --------------
-    # Check new text for combobox cell - domain
-    def pselectionchange(self, combotext):
-        self.prior_combotxt = combotext
-        print("combo txt: %s" % combotext)
-        # Add text for item. Not just widget
-        self.table.setItem(self.table.currentRow(), 5, QTableWidgetItem(self.prior_combotxt))
-        pass
-    # override keyPressEvent
-    '''
-    def keyPressEvent(self, e: QKeyEvent) -> None:
-            if e.key() == Qt.Key_Enter:
-                print("Key enter was pressed")
-            elif e.key() == Qt.Key_Return:
-                print("Key return was pressed")
-    
-    def cellchanged(self):
-        try:
-            if self.table.currentColumn() == 4:
-                row = self.table.currentRow()
-                txt_duration = (self.table.item(row, 4)-self.table.item(row, 2)).days
-                self.table.item(row, 5).setText(txt_duration)
-        except:
+    # ------------ operations on menu  ------------
+    def show_Dialog(self):
+        fName = QFileDialog.getOpenFileName(self, "Open file", "/home",
+                                            "Ontology editor (*.owl *.rdf)")[0]
+        if fName == '':
             pass
-    '''
-    #I want to set messagebox
-    '''
-    def mousePressEvent(self, *args, **kwargs):
-        self.ao.own_signal.emit()
-        self.close()
-    def set_params(self,res,event):
-        self.ao = self.AddRow
-        self.ao.own_signal.connect(self.on_clicked)
-        self.setGeometry(200,200)
-        self.setWindowTitle("Result Message")
-        self.text()
-        self.show()
-        '''
-    def resultWindow(self,res):
-        info = QMessageBox()
-        info.setIcon(QMessageBox.Information)
-        info.about(self,"Result Message",res)
-        pass
-    def addRow(self):
-        # Add row to the end
-        self.lastRow = self.table.rowCount()
-        self.table.insertRow(self.lastRow)
-        self.table.scrollToBottom()#(0, self.table.height())
-        # insert DATE
-        now_date = str(datetime.now())
-        self.table.setItem(self.lastRow, 2, self.create_item_flag(now_date[:len(now_date) - 7]))
-        # insert ASSIGN - empty
-        self.table.setItem(self.lastRow, 3, self.create_item_flag(""))
-        '''# DURATION - empty => after enter end_time calculate one
-        self.table.setItem(self.lastRow, 5, self.create_item_flag(""))
-        self.table.cellChanged.connect(self.cellchanged)
-        '''
-        # insert combobox
-        comboBox = QComboBox()
-        comboBox.addItems(
-            str(self.str_onto(domain))
-            for domain in inst_domain)
-        # comboBox.setCurrentIndex(0)
-        self.table.setCellWidget(self.lastRow, 1, comboBox)
-        self.dom_combotxt = comboBox.currentText()
-        # Event for combobox
-        comboBox.currentTextChanged.connect(self.dselectionchange)
-        # Add text for item. Not just widget
-        self.table.setItem(self.lastRow, 1, QTableWidgetItem(self.dom_combotxt))
+        else:
+            print(fName)
+            # https://www.geeksforgeeks.org/python-os-path-split-method/
+            split_name = os.path.split(fName)
+            self.myO = MyOntology(split_name[1], "file:/" + split_name[0])
+            self.myT.my_table(self.myO.inst_task)
 
-        # insert combobox for priority
-        p_comboBox = QComboBox()
-        p_comboBox.addItems(
-            str(self.str_onto(priority))
-            for priority in inst_priority)
-        # comboBox.setCurrentIndex(0)
-        self.table.setCellWidget(self.lastRow, 5, p_comboBox)
-        self.prior_combotxt = p_comboBox.currentText()
-        # Event for combobox
-        p_comboBox.currentTextChanged.connect(self.pselectionchange)
-        # Add text for item. Not just widget
-        self.table.setItem(self.lastRow, 5, QTableWidgetItem(self.prior_combotxt))
+    def all_save(self):
+        try:
+            self.myO.save_owl()
+            self.result_Window("Successfully save to owl")
+        except Exception:
+            self.result_Window("Cannot save to owl. Please,try later.")
 
-        # Remember new row at the ontology
-        # self.save_row(self.lastRow)
-        pass
+    # ------------add ROW and DISTRIBUTE------------
+    def add_rez_in_table(self, row, winner):
+        # add to the table
+        self.myT.table.setItem(row, 3,
+                               QTableWidgetItem(winner))
+        print(f"Assigner in cell {row} - {self.myT.table.item(row, 3).text()}")
 
-    def fillAssigner(self):
-        assigner = ""
-        # ---------Check selected domain or from last added row-----
-        curRow = self.table.currentRow()
-        # выделена ли строка. Узнать через len
-        selI = self.table.selectionModel().selectedIndexes()
-        # Check last added row when none selected row or
-        # selected row already have assigner
-        fill_row = self.lastRow \
-            if (len(selI) == 0 or self.table.item(curRow, 3) is not None) else curRow
-        if fill_row == -1:
-            self.resultWindow("Add task, please")
-            return
-        #----------------------------------------------------------------
-        #create coefficient which match task to people - searching assigner
-        k_as = [0 for i in range(len(inst_people))]
-        #get domain from new task
-        new_domain = self.table.item(fill_row, 1)
-        domain = next(
-            (d for d in inst_domain if new_domain.text() == d.name),
-            None)
-        #get name of priority from new task
-        new_prior = self.table.item(fill_row, 5)
-        #get element from ontology which match name with cell from table
-        priority = next(
-            (p for p in inst_priority if new_prior.text() == p.name),
-            None)
-        n_day=[]
-        for i in inst_people:
-            print(f"person {i}")
-            #-------- Find assign to this domain. Select all of them
-            for d in i.know:
-                if domain == d:
-                    k_as[inst_people.index(i)] += 1
-                    print(f"who have domain")
-          #if k_as[i] > 0:  #just for people which match with needed domain
-            #-------- Check by priority-----
-            for r in priority.related_to:
-                if i.is_role_of[0] == r:
-                    k_as[inst_people.index(i)] += 1
-                    print(f"who have qualification")
-            # ------------Check by date-----------------
-            # determine date of last task of i_people
-            if len(i.assigned) != 0:
-                for pt in i.assigned:#pt - people's task
-                    #for ot in inst_task:#ot - from all tasks
-                    end_date_task=pt.end_doing# if self.str_onto(pt) == self.str_onto(ot) else 0)
-            #is the i_people free? how much time?
-                    #datetime.now() - end_date_task = j.end_doing
-                    start_date_cur_t = self.str_date(self.table.item(fill_row, 2).text())
-                    days_date = start_date_cur_t - self.str_odate(end_date_task)
-                    n_day.append(days_date.days)
-                    print(f"how much days {n_day}")
-                last_task = min(n_day)
-                n_day.clear()
-            # Remember person which finished task (end_date)
-            print(f'v--- have free day {last_task}')
-            if last_task >= 0 or len(i.assigned) == 0:
-                k_as[inst_people.index(i)] += 1
-                print(f"who is free")
-
-            print(f"coef = {k_as[inst_people.index(i)]}")
-
-        # Remember index from max number of array k_as
-        win_as = k_as.index(max(k_as))
+    # if select and enter on row
+    def printResultForRow(self, fill_row, weights):
+        print(f"in row {fill_row}")
         # если все истина, то записать в область допустимых
-        all_win_as = k_as.count(max(k_as))
-        if all_win_as > 1:
-            res = f"more than one assigner {all_win_as}"
-            print(res)#+str(inst_people[index_with_max_coef].name)
-        elif all_win_as == 0:
+        if weights.count(3) == 0:
             res = "No one can be assigner"
         else:
-            res = f"assigner - {inst_people[win_as]}"
-        self.table.setItem(fill_row, 3, QTableWidgetItem(str(inst_people[win_as].name)))  # str(inst_people[0])
-        self.resultWindow(res)
+            # using enumerate() + list comprehension
+            # range deletion of elements
+            all_win = [i for i, x in enumerate(weights) if x == 3]
 
-    def save_row(self, new_row):
-        # docs send for article
-        # ontology пособие характеристика. Для сложности. низк., сред., выс.
+            self.add_rez_in_table(fill_row, self.myO.inst_people[all_win[0]].name)
 
-        inst_task[new_row].append(self.table.item(new_row, 0).text())
-        inst_domain[new_row].append(self.table.item(new_row, 1).text())
-        inst_people[new_row].append(self.table.item(new_row, 3).text())
-        self.bug_onto.Task(inst_task[new_row])
-        self.bug_onto.People(inst_people[new_row])
-        inst_task[new_row].is_assigned.append(inst_people[new_row])
-
-        self.bug_onto.Domain(inst_domain[new_row])
-        inst_people[new_row].know.append(inst_domain[new_row])
-        inst_task[new_row].specialize.append(inst_domain[new_row])
-
-        start_date = self.bug_onto.Date(self.table.item(new_row, 2).text())
-        end_date = self.bug_onto.Date(self.table.item(new_row, 4).text())
-        inst_task[new_row].start_doing.append(start_date)
-        inst_task[new_row].end_doing.append(end_date)
+            if weights.count(3) > 1:
+                res = f"more than one assigner: {len(all_win)}"
+            else:
+                res = f"assigner - {self.myO.inst_people[all_win[0]].name}"
+            print(f"\n people for task\n\t{[self.myO.inst_people[win].name for win in all_win]}")
+        print(f"task {self.myT.table.item(fill_row, 0).text()}")
+        self.result_Window(res)
         pass
 
-    def save_owl(self):
-        self.bug_onto.save()
-        # get an OWL string for a given ontology
-        # print(to_owl(self.bug_onto))
+    # Remember new row at the ontology and array
+    def save_row(self, row):
+        onto_task = self.myO.update_onto(self.arr_task(row))
+        self.myO.inst_task = [onto_task]
+
+    def fillAssigner(self, last_row):
+        # ---------Check selected domain or from last added row-----
+        curRow = self.myT.table.currentRow()
+        # выделена ли строка. Узнать через len
+        selI = self.myT.table.selectionModel().selectedIndexes()
+        # Check last added row when none selected row or
+        # selected row already have assigner
+        fill_row = last_row \
+            if (len(selI) == 0 or self.myT.table.item(curRow, 3).text() is not "") else curRow
+        if fill_row == -1:
+            self.result_Window("Add task, please")
+            pass
+        weights = self.myO.weights(self.myO.item_onto(fill_row))
+        self.printResultForRow(fill_row, weights)
         pass
 
-    #set roles for people
-    def role_of_pers(self, pers):
-        if len(pers.assigned) != 0:
-            pr_task_i = [who.have_priority for who in pers.assigned ]
-            print(pers, pr_task_i, len(pers.assigned))
-            #https://ru.stackoverflow.com/questions/418982/%D0%9A%D0%BE%D0%BB%D0%B8%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%BE-%D0%BF%D0%BE%D0%B2%D1%82%D0%BE%D1%80%D1%8F%D1%8E%D1%89%D0%B8%D1%85%D1%81%D1%8F-%D1%8D%D0%BB%D0%B5%D0%BC%D0%B5%D0%BD%D1%82%D0%BE%D0%B2-%D0%B2-%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B5
-            # who often met
-            pr_i = max(set(pr_task_i), key=lambda x: pr_task_i.count(x))
-            # Он может выбрать любой из ролей.
-            role = pr_i.related_to[0]
+    def optimize_tasks(self, tasks):
+        # result GA optimization
+        assigners = myGAoptimize(self.myO, tasks).main()
+        optim_tasks = list()
+        # add to table
+        for i_t, t in enumerate(tasks):
+            i = self.myO.inst_task.index(t)
+            self.add_rez_in_table(i, self.myO.str_onto(assigners[i_t]))
+            optim_tasks.append(i)
+        # update onto
+        self.myO.new_task.clear()
+        for i in optim_tasks:
+            self.save_row(i)
+
+    def distribute(self):
+        for row in self.myT.new_rows:
+            self.save_row(row)
+        # tasks to distribute
+        noptimize_tasks = self.myO.new_task
+        if len(noptimize_tasks) == 0:
+            self.result_Window("All tasks have assigners. Add new tasks.")
         else:
-            role = inst_role[0]
-            print(pers, 0)
-        pers.is_role_of.append(role)
-        pass
-
-    def ontology(self, fileName=None, dir=None):
-        '''
-        if (fileName is None):
-            bug_onto = get_ontology("http://test.org/bug.owl").load()
-        else:
-            path = str(dir)+"//"
-            onto_path.append(path)
-        bug_onto = get_ontology("file:.{}".format(fileName)).load()
-        '''
-        for i in self.bug_onto.Task.instances():
-            inst_task.append(i)
-        for i in self.bug_onto.Domain.instances():
-            inst_domain.append(i)
-        for i in self.bug_onto.Priority.instances():
-            inst_priority.append(i)
-        for i in self.bug_onto.Role.instances():
-            inst_role.append(i)
-        # отсортируем список ролей по уровням, а не по алфавиту.
-        # В д.случае лидера в конец.
-        # остальные правильно построены
-        #inst_role.insert(len(inst_role), inst_role.pop(1))
-        # Junior, Middle, Senior, Lead
-
-        for i in self.bug_onto.People.instances():
-            inst_people.append(i)
-            self.role_of_pers(i)
-
-        self.my_table()
+            self.optimize_tasks(noptimize_tasks)
+            self.result_Window("Check result of the distribution")
 
 
 if __name__ == "__main__":
