@@ -1,0 +1,1 @@
+{"Collections":[{"sheetName":"Лист1","startColumn":"B","endColumn":"B","startRow":"2","endRow":"+","comment":"","rule":"Individual: @B* \n  Types: @B1\n  Facts: specialize @C*,\nhave_priority @D*,\nstart_doing @E*,\nend_doing @F*,\nis_assigned @G*","active":true}]}
